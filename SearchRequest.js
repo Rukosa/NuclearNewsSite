@@ -49,6 +49,7 @@ var date_key = getDate("");
 var search_key = formatSearch("Nuclear");
 
 var nuclear_url = newsapi_url + search_key + date_key + popular_sorting_key + api_key;
+nuclear_url = "https://newsapi.org/v2/everything?q=Nuclear&from=2023-02-16&sortBy=publishedAt&apiKey=d875e80c9a86487994b3289c87de3efe";
 
 var req = new Request(nuclear_url);
 
