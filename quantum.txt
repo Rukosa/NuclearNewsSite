@@ -1,0 +1,331 @@
+{
+    "status": "ok",
+    "totalResults": 25,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": "Andrew D. King, Jack Raymond, Trevor Lanting, Richard Harris, Alex Zucca, Fabio Altomare, Andrew J. Berkley, Kelly Boothby, Sara Ejtemaee, Colin Enderud, Emile Hoskinson, Shuiyuan Huang, Eric Ladizinsky, Allison J. R. MacDonald, Gaelen Marsden, Reza Molavi, Travis Oh, Gabriel Poulin-Lamarre, Mauricio Reis, Chris Rich, Yuki Sato, Nicholas Tsai, Mark Volkmann, Jed D. Whittaker, Jason Yao, Anders W. Sandvik, Mohammad H. Amin",
+            "title": "Quantum critical dynamics in a 5,000-qubit programmable spin glass",
+            "description": "Using a quantum annealing processor to study three-dimensional spin glasses demonstrates an accurate large-scale quantum simulation of critical dynamics and a scaling advantage over analogous classical methods for energy optimization.",
+            "url": "https://www.nature.com/articles/s41586-023-05867-2",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41586-023-05867-2/MediaObjects/41586_2023_5867_Fig1_HTML.png",
+            "publishedAt": "2023-04-19T00:00:00Z",
+            "content": "<li>Brooke, J., Bitko, D., Rosenbaum, T. F. &amp; Aeppli, G. Quantum annealing of a disordered magnet. Science284, 779781 (1999).\r\nArticle \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n</li><li>Aeppli, G. &amp… [+9900 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Sarah Link",
+            "title": "The quantum spin liquid that isn't one",
+            "description": "For two decades, it was believed that a possible quantum spin liquid was discovered in a synthetically produced material. In this case, it would not follow the laws of classical physics even on a macroscopic level, but rather those of the quantum world. There…",
+            "url": "https://phys.org/news/2023-04-quantum-liquid-isnt.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/the-quantum-spin-liqui-1.jpg",
+            "publishedAt": "2023-04-18T13:48:05Z",
+            "content": "For two decades, it was believed that a possible quantum spin liquid was discovered in a synthetically produced material. In this case, it would not follow the laws of classical physics even on a mac… [+4118 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Quantum liquid becomes solid when heated",
+            "description": "Solids can be melted by heating, but in the quantum world it can also be the other way around: In a joint effort, an experimental team led by Francesca Ferlaino in Innsbruck, Austria, and a theoretical team led by Thomas Pohl in Aarhus, Denmark, show how a qu…",
+            "url": "https://phys.org/news/2023-04-quantum-liquid-solid.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/quantum-liquid-becomes-1.jpg",
+            "publishedAt": "2023-04-18T13:47:26Z",
+            "content": "Solids can be melted by heating, but in the quantum world it can also be the other way around: In a joint effort, an experimental team led by Francesca Ferlaino in Innsbruck, Austria, and a theoretic… [+2578 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Chris Patrick",
+            "title": "Teasing strange matter from the ordinary",
+            "description": "In a unique analysis of experimental data, nuclear physicists have made the first-ever observations of how lambda particles, so-called \"strange matter,\" are produced by a specific process called semi-inclusive deep inelastic scattering (SIDIS). What's more, t…",
+            "url": "https://phys.org/news/2023-04-strange-ordinary.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/hires/2023/teasing-strange-matter.jpg",
+            "publishedAt": "2023-04-18T14:59:04Z",
+            "content": "In a unique analysis of experimental data, nuclear physicists have made the first-ever observations of how lambda particles, so-called \"strange matter,\" are produced by a specific process called semi… [+8876 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Expert Panel®, Forbes Councils Member, \n Expert Panel®, Forbes Councils Member\n https://www.forbes.com/sites/forbestechcouncil/people/expertpanel/",
+            "title": "15 Significant Ways Quantum Computing Could Soon Impact Society",
+            "description": "Quantum computers could tackle problems that have simply been unsolvable before—and potentially introduce problems we’ve never encountered before.",
+            "url": "https://www.forbes.com/sites/forbestechcouncil/2023/04/18/15-significant-ways-quantum-computing-could-soon-impact-society/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/643e988fcef5fdc01d0990c5/0x0.jpg?format=jpg&crop=2629,1477,x0,y0,safe&width=1200",
+            "publishedAt": "2023-04-18T17:15:41Z",
+            "content": "getty\r\nMany of us are awed by what technology can do today, but quantum computing is poised to make exponential changes to a multitude of functions across industries and entities, which could radical… [+7512 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": "Wei-Chi Chiu, Guoqing Chang, Gennevieve Macam, Ilya Belopolski, Shin-Ming Huang, Robert Markiewicz, Jia-Xin Yin, Zi-Jia Cheng, Chi-Cheng Lee, Tay-Rong Chang, Feng-Chuan Chuang, Su-Yang Xu, Hsin Lin, M. Zahid Hasan, Arun Bansil",
+            "title": "Causal structure of interacting Weyl fermions in condensed matter systems",
+            "description": "Causality, the relationship between cause and effect, is a central concept in Einstein’s theory of relativity. Here, authors show that a causality analogue in energy-momentum space plays an important role in describing quasiparticle interactions in quantum ma…",
+            "url": "https://www.nature.com/articles/s41467-023-37931-w",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-023-37931-w/MediaObjects/41467_2023_37931_Fig1_HTML.png",
+            "publishedAt": "2023-04-19T00:00:00Z",
+            "content": "We start from an inversion-symmetry breaking model with four Weyl quasiparticles in the first Brillouin zone (BZ):\r\n$${{{{{\\mathcal{H}}}}}}(k)= A\\sin {k}_{x}\\sin {k}_{z}{\\sigma }_{0}+\\left[\\cos ({k}_… [+20125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": "Xin Huang, Yangyu Guo, Yunhui Wu, Satoru Masubuchi, Kenji Watanabe, Takashi Taniguchi, Zhongwei Zhang, Sebastian Volz, Tomoki Machida, Masahiro Nomura",
+            "title": "Observation of phonon Poiseuille flow in isotopically purified graphite ribbons",
+            "description": "Notions from classical hydrodynamics sometimes apply to condensed-matter contexts as well. Now, Poiseuille-type flow of phonons in graphitic systems is reported, and is reproduced by numerically solving the phonon Boltzmann transport equation.",
+            "url": "https://www.nature.com/articles/s41467-023-37380-5",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-023-37380-5/MediaObjects/41467_2023_37380_Fig1_HTML.png",
+            "publishedAt": "2023-04-19T00:00:00Z",
+            "content": "<li>Wilson, R. &amp; Cahill, D. G. Anisotropic failure of fourier theory in time-domain thermoreflectance experiments. Nat. Commun.5, 5075 (2014).\r\nArticle \r\n ADS \r\n CAS \r\n PubMed \r\nGoogle Scholar \r\n… [+13407 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Americanthinker.com"
+            },
+            "author": null,
+            "title": "Put Some Clothes On Your Daughter!",
+            "description": "As the seasons change and the weather warms, American adults are yet again being subjected to the uncomfortable spectacle of teenage girls wearing outfits more befitting a runway show than a school, a store, or any other public setting.  Every w...",
+            "url": "https://www.americanthinker.com/articles/2023/04/put_some_clothes_on_your_daughter.html",
+            "urlToImage": "https://www.americanthinker.com/images/bucket/2023-04/245455.jpg",
+            "publishedAt": "2023-04-18T05:00:00Z",
+            "content": "As the seasons change and the weather warms, American adults are yet again being subjected to the uncomfortable spectacle of teenage girls wearing outfits more befitting a runway show than a school, … [+9523 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": "Joanes Grandjean, Gabriel Desrosiers-Gregoire, Cynthia Anckaerts, Diego Angeles-Valdez, Fadi Ayad, David A. Barrière, Ines Blockx, Aleksandra Bortel, Margaret Broadwater, Beatriz M. Cardoso, Marina Célestine, Jorge E. Chavez-Negrete, Sangcheon Choi, Emma Christiaen, Perrin Clavijo, Luis Colon-Perez, Samuel Cramer, Tolomeo Daniele, Elaine Dempsey, Yujian Diao, Arno Doelemeyer, David Dopfel, Lenka Dvořáková, Claudia Falfán-Melgoza, Francisca F. Fernandes, Caitlin F. Fowler, Antonio Fuentes-Ibañez, Clément M. Garin, Eveline Gelderman, Carla E. M. Golden, Chao C. G. Guo, Marloes J. A. G. Henckens, Lauren A. Hennessy, Peter Herman, Nita Hofwijks, Corey Horien, Tudor M. Ionescu, Jolyon Jones, Johannes Kaesser, Eugene Kim, Henriette Lambers, Alberto Lazari, Sung-Ho Lee, Amanda Lillywhite, Yikang Liu, Yanyan Y. Liu, Alejandra López -Castro, Xavier López-Gil, Zilu Ma, Eilidh MacNicol, Dan Madularu, Francesca Mandino, Sabina Marciano, Matthew J. McAuslan, Patrick McCunn, Alison McIntosh, Xianzong Meng, Lisa Meyer-Baese, Stephan Missault, Federico Moro, Daphne M. P. Naessens, Laura J. Nava-Gomez, Hiroi Nonaka, Juan J. Ortiz, Jaakko Paasonen, Lore M. Peeters, Mickaël Pereira, Pablo D. Perez, Marjory Pompilus, Malcolm Prior, Rustam Rakhmatullin, Henning M. Reimann, Jonathan Reinwald, Rodrigo Triana Del Rio, Alejandro Rivera-Olvera, Daniel Ruiz-Pérez, Gabriele Russo, Tobias J. Rutten, Rie Ryoke, Markus Sack, Piergiorgio Salvan, Basavaraju G. Sanganahalli, Aileen Schroeter, Bhedita J. Seewoo, Erwan Selingue, Aline Seuwen, Bowen Shi, Nikoloz Sirmpilatze, Joanna A. B. Smith, Corrie Smith, Filip Sobczak, Petteri J. Stenroos, Milou Straathof, Sandra Strobelt, Akira Sumiyoshi, Kengo Takahashi, Maria E. Torres-García, Raul Tudela, Monica van den Berg, Kajo van der Marel, Aran T. B. van Hout, Roberta Vertullo, Benjamin Vidal, Roël M. Vrooman, Victora X. Wang, Isabel Wank, David J. G. Watson, Ting Yin, Yongzhi Zhang, Stefan Zurbruegg, Sophie Achard, Sarael Alcauter, Dorothee P. Auer, Emm…",
+            "title": "Author Correction: A consensus protocol for functional connectivity analysis in the rat brain",
+            "description": "Nature Neuroscience - Author Correction: A consensus protocol for functional connectivity analysis in the rat brain",
+            "url": "https://www.nature.com/articles/s41593-023-01328-1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T00:00:00Z",
+            "content": "<li>Donders Institute for Brain, Behaviour, and Cognition, Radboud University, Nijmegen, The Netherlands\r\nJoanes Grandjean, Eveline Gelderman, Chao C. G. Guo, Marloes J. A. G. Henckens, Nita Hofwijks… [+18484 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Harpers.org"
+            },
+            "author": "Harper’s Magazine",
+            "title": "Weekly Review",
+            "description": "ChatGPT passed an undergraduate quantum physics exam and immediately emailed the dean to ask for a better grade.\nThe post Weekly Review first appeared on Harper's Magazine.",
+            "url": "https://harpers.org/2023/04/weekly-review-joe-biden-ireland-jack-teixeira-desantis-trump-pudding/",
+            "urlToImage": "https://harpers.org/wp-content/uploads/2020/03/5-Weekly-Review-FINAL.jpg",
+            "publishedAt": "2023-04-18T14:41:35Z",
+            "content": "The 14th Dalai Lama, the 87-year-old spiritual leader of Tibet, apologized for telling a boy to suck his tongue.12The 46th U.S. president, 80-year-old Joe Biden, received a standing ovation after enc… [+4963 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Quanta Magazine"
+            },
+            "author": "Kevin Hartnett",
+            "title": "A New Kind of Symmetry Shakes Up Physics",
+            "description": "So-called “higher symmetries” are illuminating everything from particle decays to the behavior of complex quantum systems. The post A New Kind of Symmetry Shakes Up Physics first appeared on Quanta Magazine",
+            "url": "https://www.quantamagazine.org/a-new-kind-of-symmetry-shakes-up-physics-20230418/",
+            "urlToImage": "https://d2r55xnwy6nx47.cloudfront.net/uploads/2023/04/HigherFormSymmetries-bySamuelVelasco-Default.webp",
+            "publishedAt": "2023-04-18T14:23:02Z",
+            "content": "Seiberg and his colleagues imagined the one-dimensional string as being surrounded by a surface, a two-dimensional plane, so that it looked like a line drawn on a sheet of paper. Instead of measuring… [+9950 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aps.org"
+            },
+            "author": "Matteo Rini",
+            "title": "Research News: A New Card up Graphene’s Sleeve",
+            "description": "Author(s): Matteo RiniGraphene is found to exhibit a magnetoresistance dwarfing that of all known materials at room temperature—a behavior that may lead to new magnetic sensors and help decipher the physics of strange metals.[Physics 16, 64] Published Tue Apr…",
+            "url": "https://physics.aps.org/articles/v16/64",
+            "urlToImage": "https://physics.aps.org/assets/3633267b-7095-4215-aaf8-e99300803c6f/e64_1_thumb.png",
+            "publishedAt": "2023-04-18T10:00:00Z",
+            "content": "Artist’s representation of the hexagonal structure of graphene.\r\nOne might expect that, two decades after its discovery, graphene would have exhausted its potential for surprises. But the thinnest, s… [+6789 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aps.org"
+            },
+            "author": "Matteo Rini",
+            "title": "Synopsis: Sensing Electric Fields in Ion Sources",
+            "description": "Author(s): Matteo RiniThe electric-field distribution within a cold-ion cloud has been characterized using Rydberg atoms embedded in the cloud—an approach that could be harnessed to optimize ion-beam sources.[Physics 16, s59] Published Tue Apr 18, 2023",
+            "url": "https://physics.aps.org/articles/v16/s59",
+            "urlToImage": "https://physics.aps.org/assets/435cdad6-0bcc-446b-a7d5-1b375637d317/e59_1_thumb.png",
+            "publishedAt": "2023-04-18T10:00:00Z",
+            "content": "Focused ion beams (FIBs) are powerful tools for imaging and preparing materials, semiconductor circuits, and biological samples. An important class of FIB sources produces the ions from cold, trapped… [+2576 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Digitimes"
+            },
+            "author": "DIGITIMES",
+            "title": "The 2023 VLSI TSA symposium explores trends in AI, energy saving, quantum computing, and chiplets",
+            "description": "The 40th edition of the International VLSI Symposium on Technology, Systems and Applications (VLSI TSA) kicked off on April 17 in Hsinchu, Taiwan. The symposium focuses on the convergence of semiconductors and cutting-edge tech trends such as artificial intel…",
+            "url": "https://www.digitimes.com/news/a20230418PR201/itri.html",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T08:22:24Z",
+            "content": "The 40th edition of the International VLSI Symposium on Technology, Systems and Applications (VLSI TSA) kicked off on April 17 in Hsinchu, Taiwan. The symposium focuses on the convergence of semicond… [+2596 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": "Bhavesh K. Dadhich, Biswajit Panda, Mehra S. Sidhu, Kamal P. Singh",
+            "title": "Nanodiamonds enable femtosecond-processed ultrathin glass as a hybrid quantum sensor",
+            "description": "Scientific Reports - Nanodiamonds enable femtosecond-processed ultrathin glass as a hybrid quantum sensor",
+            "url": "https://www.nature.com/articles/s41598-023-30689-7",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41598-023-30689-7/MediaObjects/41598_2023_30689_Fig1_HTML.png",
+            "publishedAt": "2023-04-18T00:00:00Z",
+            "content": "<li>Nakamura, Y. Of project: Hybrid quantum systems using collective modes in solids with broken symmetry. Nature398, 786788 (1999).\r\nArticle \r\n CAS \r\nGoogle Scholar \r\n</li><li>Li, P.-B., Xiang, Z.-L… [+9856 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Department of Defense"
+            },
+            "author": "C. Todd Lopez",
+            "title": "Microelectronics Tops S&T, Protype Funding For Fiscal 2024 PB Request",
+            "description": "Among the areas of focus within the RDT&E budget are 14 critical technology areas Heidi  Shyu determined in early 2022 should be deemed critical for investment by the Defense Department.",
+            "url": "https://www.defense.gov/News/News-Stories/Article/Article/3367040/microelectronics-tops-st-protype-funding-for-fiscal-2024-pb-request/",
+            "urlToImage": "https://media.defense.gov/2022/Jun/15/2003018059/1280/1280/0/200204-D-D0439-101.JPG",
+            "publishedAt": "2023-04-18T20:58:08Z",
+            "content": "Microelectronics, integrated sensing and cyber, as well as integrated network systems-of-systems are prioritized in the DOD's fiscal year 2024 budget request for science and technology and prototypin… [+2961 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Department of Defense"
+            },
+            "author": "C. Todd Lopez",
+            "title": "Presidential Budget Request Prioritizes Science, Technology and Prototype Funding",
+            "description": "Among the areas of focus within the RDT&E budget are 14 critical technology areas Heidi  Shyu determined in early 2022 should be deemed critical for investment by the Defense Department.",
+            "url": "https://www.defense.gov/News/News-Stories/Article/Article/3367040/presidential-budget-request-prioritizes-science-technology-and-prototype-funding/",
+            "urlToImage": "https://media.defense.gov/2022/Jun/15/2003018059/1280/1280/0/200204-D-D0439-101.JPG",
+            "publishedAt": "2023-04-18T20:58:00Z",
+            "content": "Microelectronics, integrated sensing and cyber, as well as integrated network systems-of-systems are prioritized in the DOD's fiscal year 2024 budget request for science and technology and prototypin… [+2961 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aps.org"
+            },
+            "author": "Wei Zhu, Chao Han, Emilie Huffman, Johannes S. Hofmann, and Yin-Chen He",
+            "title": "Uncovering Conformal Symmetry in the 3D Ising Transition: State-Operator Correspondence from a Quantum Fuzzy Sphere Regularization",
+            "description": "Author(s): Wei Zhu, Chao Han, Emilie Huffman, Johannes S. Hofmann, and Yin-Chen HeA new theoretical scheme of studying the 3D Ising transition—a celebrated phase transition in a model of ferromagnetism—provides insights into the conformal symmetry long conjec…",
+            "url": "https://link.aps.org/doi/10.1103/PhysRevX.13.021009",
+            "urlToImage": "https://cdn.journals.aps.org/journals/PRX/key_images/10.1103/PhysRevX.13.021009.png",
+            "publishedAt": "2023-04-18T10:00:00Z",
+            "content": "Phase transitions and related critical phenomena originate from collective behavior of interacting particles, the study of which is generally challenging in statistical and condensed matter physics. … [+1490 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Quantum liquid becomes solid when heated",
+            "description": "Solids can be melted by heating, but in the quantum world it can also be the other way around: An experimental team has shown how a quantum liquid forms supersolid structures by heating. The scientists obtained a first phase diagram for a supersolid at finite…",
+            "url": "https://www.sciencedaily.com/releases/2023/04/230418101439.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2023-04-18T14:14:39Z",
+            "content": "Supersolids are a relatively new and exciting area of research. They exhibit both solid and superfluid properties simultaneously. In 2019, three research groups were able to demonstrate this state fo… [+1790 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Teasing strange matter from the ordinary",
+            "description": "In a unique analysis of experimental data, nuclear physicists have made observations of how lambda particles, so-called 'strange matter,' are produced by a specific process called semi-inclusive deep inelastic scattering (SIDIS). What's more, these data hint …",
+            "url": "https://www.sciencedaily.com/releases/2023/04/230418101434.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2023-04-18T14:14:34Z",
+            "content": "In a unique analysis of experimental data, nuclear physicists have made the first-ever observations of how lambda particles, so-called \"strange matter,\" are produced by a specific process called semi… [+8186 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Phys.Org"
+            },
+            "author": "Science X",
+            "title": "Experiments show that edges are not needed to realize an unusual quantum effect",
+            "description": "RIKEN physicists have created an exotic quantum state in a device with a disk-like geometry for the first time, showing that edges are not required. This demonstration opens the way for realizing other novel electronic behavior. Their findings are published i…",
+            "url": "https://phys.org/news/2023-04-edges-unusual-quantum-effect.html",
+            "urlToImage": "https://scx2.b-cdn.net/gfx/news/2023/why-exotic-states-of-m.jpg",
+            "publishedAt": "2023-04-18T14:11:03Z",
+            "content": "RIKEN physicists have created an exotic quantum state in a device with a disk-like geometry for the first time, showing that edges are not required. This demonstration opens the way for realizing oth… [+3457 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aps.org"
+            },
+            "author": "Parrydeep Kaur Sachdeva, Shuchi Gupta, and Chandan Bera",
+            "title": "Spin Hall effect induced by strain coupling of valley and spin polarization in puckered monochalcogenide tellurene monolayer",
+            "description": "Spin-orbit coupling (SOC) and spatial inversion asymmetry are together capable of hosting a variety of effects such as Rashba and SOC spin splittings accompanied with Berry phase effects. Predominantly, spin-valley coupling and valley-contrasting physics are …",
+            "url": "https://link.aps.org/doi/10.1103/PhysRevB.107.155420",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T10:00:00Z",
+            "content": "Spin-orbit coupling (SOC) and spatial inversion asymmetry are together capable of hosting a variety of effects such as Rashba and SOC spin splittings accompanied with Berry phase effects. Predominant… [+1678 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "By Caitlin Oprysko",
+            "title": "Japan hires Ballard amid embrace from DeSantis",
+            "description": "The Japanese government has brought on a team of lobbyists from Florida-based Ballard Partners that have close ties to Gov. Ron DeSantis.",
+            "url": "https://www.politico.com/newsletters/politico-influence/2023/04/18/japan-hires-ballard-amid-embrace-from-desantis-00092661",
+            "urlToImage": "https://static.politico.com/da/f5/44342c424c68b675719324b1106b/politico.jpg",
+            "publishedAt": "2023-04-18T22:59:00Z",
+            "content": "With help from Megan R. Wilson and Daniel Lippman \r\nJAPAN HIRES FORMER DESANTIS AIDES AHEAD OF POSSIBLE TRIP: The Japanese government has brought on a team of lobbyists from Florida-based Ballard Par… [+24230 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Aps.org"
+            },
+            "author": "M. A. Yavorsky, M. A. Kozhaev, A. Yu. Fedorov, D. V. Vikulin, E. V. Barshak, V. N. Berzhansky, S. D. Lyashko, P. O. Kapralov, and V. I. Belotelov",
+            "title": "Topological Faraday Effect for Optical Vortices in Magnetic Films",
+            "description": "Author(s): M. A. Yavorsky, M. A. Kozhaev, A. Yu. Fedorov, D. V. Vikulin, E. V. Barshak, V. N. Berzhansky, S. D. Lyashko, P. O. Kapralov, and V. I. BelotelovDue to the optical spin-orbit interaction, an optical beam carrying orbital angular momentum modifies t…",
+            "url": "https://link.aps.org/doi/10.1103/PhysRevLett.130.166901",
+            "urlToImage": "https://cdn.journals.aps.org/journals/PRL/key_images/10.1103/PhysRevLett.130.166901.png",
+            "publishedAt": "2023-04-18T10:00:00Z",
+            "content": "M.A. Yavorsky1, M.A. Kozhaev2, A.Yu. Fedorov2,3, D.V. Vikulin1, E.V. Barshak1, V.N. Berzhansky1, S.D. Lyashko1, P.O. Kapralov2,3, and V.I. Belotelov1,2,4\r\n<ul><li>1V.I. Vernadsky Crimean Federal Univ… [+377 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Space Daily"
+            },
+            "author": null,
+            "title": "Diamond sensors for neutron experiment and quantum information science",
+            "description": "Urbana IL (SPX) Apr 16, 2023 -\n\nThe nuclear physics group at the University of Illinois Urbana-Champaign is looking for evidence of new physics in neutrons, electrically neutral particles that hold atomic nuclei together with an interaction called the strong …",
+            "url": "https://www.spacedaily.com/reports/Diamond_sensors_for_neutron_experiment_and_quantum_information_science_999.html",
+            "urlToImage": "https://www.spxdaily.com/images-hg/beck-group-nitrogen-vacancy-diamond-sensor-illinois-hg.jpg",
+            "publishedAt": "2023-04-18T01:55:54Z",
+            "content": "Diamond sensors for neutron experiment and quantum information scienceby Staff WritersUrbana IL (SPX) Apr 16, 2023\r\nThe nuclear physics group at the University of Illinois Urbana-Champaign is looking… [+3615 chars]"
+        }
+    ]
+}

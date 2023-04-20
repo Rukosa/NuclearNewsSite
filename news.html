@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+        <script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/popper.js@1.12.9/dist/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+        <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.0.0/dist/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+
+        <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.6.4/jquery.min.js"></script>
+        <script src="news_page.js"></script>
+        <link rel="stylesheet" href="topnav.css">
+        <link rel="stylesheet" href="news_style.css">
+
+    </head>
+    <body>
+        <div class="topnav">
+            <a href="home.html">Home</a>
+            <a class="active" href="news.html">News</a>
+        </div>
+        <button type="button" onclick="filterGeneral()">General</button>
+        <button type="button" onclick="filterNuclear()">Nuclear</button>
+        <button type="button" onclick="filterQuantum()">Quantum</button>
+        <button type="button" onclick="filterPolitical()">Political</button>
+        <div id="content_holder">
+        <h1 style="text-decoration: underline; font-weight: bolder;">Top 3 Articles:</h1>
+
+        <div id="carouselExampleIndicators" class="carousel slide" data-ride="carousel">
+            <ol class="carousel-indicators">
+              <li data-target="#carouselExampleIndicators" data-slide-to="0" class="active"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="1"></li>
+              <li data-target="#carouselExampleIndicators" data-slide-to="2"></li>
+            </ol>
+            <div class="carousel-inner"  style=" width:100%; height: 500px !important;" role="listbox">
+              <div class="carousel-item active">
+                <div id="article_one">
+                    <h1>Mirror Online</h1>
+                    <img class="news_image" src="https://i2-prod.mirror.co.uk/incoming/article29741979.ece/ALTERNATES/s1200/0_Tu95-5_east2west-news.jpg">
+                    <br>
+                    <a class="news_desc" href="https://www.mirror.co.uk/news/world-news/vladimir-putin-orders-two-bear-29741435">Vladimir Putin orders two 'Bear' nuclear bomber jets to border in chilling threat</a>
+                    <p>"Vladimir Putin has ordered two Tu-95MS nuclear bombers to the border as part of surprise drills believed to be a new show of strength to the West. Footage shows the noisy \"Bears\" flying over Russia…"</p>
+                    </div>
+              </div>
+              <div class="carousel-item">
+                <div id="article_two">
+                    <h2>OilPrice.com</h2>
+                    <img class="news_image" src="https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png">
+                    <br>
+                    <a class="news_desc" href="https://oilprice.com/Energy/Energy-General/Fears-Of-An-Interest-Rate-Hike-Keep-Oil-Prices-Under-Pressure.html">Fears Of An Interest Rate Hike Keep Oil Prices Under Pressure</a>
+                    <p>"Investors are challenging Exxon Mobil…Four of the leading oil…Living off the grid may…By Michael Kern - Apr 18, 2023, 9:30 AM CDTOil prices have started the week trending lower, with positive e…"</p>
+                    </div>
+              </div>
+              <div class="carousel-item">
+                <div id="article_three">
+                    <h2>Fox News</h2>
+                    <img class="news_image" src="https://static.foxnews.com/foxnews.com/content/uploads/2023/04/AP23108425555797.jpg">
+                    <br>
+                    <a class="news_desc" href="https://www.foxnews.com/world/poland-begins-building-electronic-barrier-russian-border-monitor-counteract-illegal-activity">Poland begins building electronic barrier at Russian border to monitor, counteract illegal activity</a>
+                    <p>"Poland has begun building a state-of-the-art electronic barrier at its land border with Russias Kaliningrad exclave to monitor and counteract any illegal activity, the Polish interior minister said T…"</p>
+                </div>
+              </div>
+            </div>
+            <a class="carousel-control-prev" href="#carouselExampleIndicators" role="button" data-slide="prev">
+              <span class="carousel-control-prev-icon" aria-hidden="true"></span>
+              <span class="sr-only">Previous</span>
+            </a>
+            <a class="carousel-control-next" href="#carouselExampleIndicators" role="button" data-slide="next">
+              <span class="carousel-control-next-icon" aria-hidden="true"></span>
+              <span class="sr-only">Next</span>
+            </a>
+          </div>
+
+
+          <h1 style="text-decoration: underline; font-weight: bolder;">Popular News:</h1>
+          <div id="popNews">  
+          <div class="in">
+            <h2>Resilience</h2>
+            <img class="news_image" src="https://www.resilience.org/wp-content/uploads/2023/04/Cyn_zarco_in_kitchen.jpg">
+            <br>
+            <a class="news_desc" href="https://www.resilience.org/stories/2023-04-18/industry-knew-about-gas-stoves-air-pollution-problems-in-early-1970s/">Industry Knew About Gas Stoves’ Air Pollution Problems in Early 1970s</a>
+            <p>"The American Gas Association is trying to discredit research on the health impacts of gas stoves today. But newly revealed documents show it was discussing indoor air pollution concerns five decades …"</p>
+            </div>
+
+            <div class="in">
+            <h2>The Conversation Africa</h2>
+            <img class="news_image" src="https://images.theconversation.com/files/521555/original/file-20230418-28-shu8td.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop">
+            <br>
+            <a class="news_desc" href="https://theconversation.com/south-africas-power-outages-could-reach-critical-levels-this-winter-likely-scenarios-203792">South Africa's power outages could reach critical levels this winter - likely scenarios</a>
+            <p>"A worker leans on a collapsed pylon in Pretoria on April 12, 2023. Ageing infrastructure exacerbates the country's energy supply crisis. Michele Spatari/AFP via Getty ImagesOver the past 15 years S…"</p>
+            </div>
+
+            <div class="in">
+            <h2>AllAfrica - Top Africa News</h2>
+            <img class="news_image" src="https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png">
+            <br>
+            <a class="news_desc" href="https://allafrica.com/stories/202304180397.html">Africa: G7 Foreign Ministers Highlight Concerns About Russia, China</a>
+            <p>"Foreign ministers from the Group of Seven nations condemned Russia's war in Ukraine and highlighted the need to engage with China to address global challenges as they closed their meetings in Japan o…"</p>
+            </div>
+
+            <div class="in">
+            <h2>Fox News</h2>
+            <img class="news_image" src="https://static.foxnews.com/foxnews.com/content/uploads/2023/04/AP23108379909743.jpg">
+            <br>
+            <a class="news_desc" href="https://www.foxnews.com/world/climate-activists-announce-plans-protest-berlin-try-peacefully-bring-city-standstill">Climate activists announce plans to protest in Berlin, will try to 'peacefully bring the city to a standstill'</a>
+            <p>"Climate activists said Tuesday that they will stage further protests in Berlin in an effort to force the German government into doing more to curb global warming.The announcement came as courts are…"</p>
+            </div>
+
+            <div class="in">
+            <h2>Science Daily</h2>
+            <img class="news_image" src="https://www.sciencedaily.com/images/scidaily-icon.png">
+            <br>
+            <a class="news_desc" href="https://www.sciencedaily.com/releases/2023/04/230418101434.htm">Teasing strange matter from the ordinary</a>
+            <p>"In a unique analysis of experimental data, nuclear physicists have made the first-ever observations of how lambda particles, so-called \"strange matter,\" are produced by a specific process called semi…"</p>
+            </div>
+
+            <div class="in">
+            <h2>La Nacion</h2>
+            <img class="news_image" src="https://resizer.glanacion.com/resizer/gKTiQfs4sBIyqbbINPnSPSoEMSs=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/UL6UHILANJDSTELSH5KMJZGY4I.JPG">
+            <br>
+            <a class="news_desc" href="https://www.lanacion.com.ar/el-mundo/tension-entre-brasil-y-eeuu-lula-esta-siendo-ingenuo-o-es-un-megalomano-nid18042023/">Tensión entre Brasil y EE.UU.: ¿Lula está siendo ingenuo o es un megalómano?</a>
+            <p>"RÍO DE JANEIRO. ¿El presidente Lula es ingenuo o megalómano? Para la revista británica The Economist varios diarios de Estados Unidos, la posibilidad de que el presidente brasileño sea ingenuo por tr…"</p>
+            </div>
+
+            <div class="in">
+            <h2>Yahoo Entertainment</h2>
+            <img class="news_image" src="https://media.zenfs.com/en/prnewswire.com/f98c16b19d88e091d02a9786ddea49a8">
+            <br>
+            <a class="news_desc" href="https://finance.yahoo.com/news/cop28-president-designate-concludes-high-140700402.html">COP28 President-Designate concludes high level visit to China with common understanding for step change to help achieve transformational climate progress at COP28</a>
+            <p>"COP28 President-Designate, Dr. Sultan Al Jaber, concluded a two-day trip to China, where he held a series of bilateral meetings, including with Ding Xuexiang, First Vice Premier of China; Zhao Chenxi…"</p>
+            </div>
+
+            <div class="in">
+            <h2>Fox News</h2>
+            <img class="news_image" src="https://static.foxnews.com/foxnews.com/content/uploads/2023/02/GettyImages-971756924.jpg">
+            <br>
+            <a class="news_desc" href="https://www.foxnews.com/politics/non-binary-ex-biden-official-sam-brinton-agrees-undergo-mental-health-evaluation-baggage-theft-case">Non-binary ex-Biden official Sam Brinton agrees to undergo mental health evaluation in baggage theft case</a>
+            <p>"Sam Brinton, a non-binary former senior Department of Energy (DOE) official, agreed in court Monday to undergo a mental health evaluation as part of an adult diversion program.Brinton agreed to ent…"</p>
+            </div>
+
+            <div class="in">
+            <h2>Forbes</h2>
+            <img class="news_image" src="https://imageio.forbes.com/specials-images/imageserve/643864a9e1702ed58421d3e8/0x0.jpg?format=jpg&width=1200">
+            <br>
+            <a class="news_desc" href="https://www.forbes.com/sites/garydrenik/2023/04/18/how-data-drives-innovation-in-healthcare/">How Data Drives Innovation In Healthcare</a>
+            <p>"HealthTechJackie Niam - stock.adobe.comI recently spoke with Victor Brown, founder &amp; CEO of Xcellent Life Inc. In this interview, we explore Victors journey to founding Xcellent Life and how …"</p>
+            </div>
+
+            <div class="in">
+            <h2>Plos.org</h2>
+            <img class="news_image" src="https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0282715.g004&size=inline">
+            <br>
+            <a class="news_desc" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282715">Investigating the use of pollen DNA metabarcoding to quantify bee foraging and effects of threshold selection</a>
+            <p>"AbstractDNA metabarcoding of pollen is a useful tool for studying bee foraging ecology. However, several questions about this method remain unresolved, including the extent to which sequence read d…"</p>
+            </div>
+
+            <div class="in">
+            <h2>Plos.org</h2>
+            <img class="news_image" src="https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0284587.g006&size=inline">
+            <br>
+            <a class="news_desc" href="https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284587">Population genomics of fall armyworm by genotyping-by-sequencing: Implications for pest management</a>
+            <p>"Citation: Ishizuka TK, Cordeiro EMG, Alves-Pereira A, de Araújo Batista CE, Murúa MG, Pinheiro JB, et al. (2023) Population genomics of fall armyworm by genotyping-by-sequencing: Implications for pes…"</p>
+            </div>
+
+            <div class="in">
+            <h2>Freerepublic.com</h2>
+            <img class="news_image" src="null">
+            <br>
+            <a class="news_desc" href="https://freerepublic.com/focus/f-news/4146428/posts">Thieving 'Non-Binary' Biden Official Was Still Paid Taxpayer-Funded Six-Figure Salary While Facing Felony</a>
+            <p>"Skip to comments.Thieving 'Non-Binary' Biden Official Was Still Paid Taxpayer-Funded Six-Figure Salary While Facing FelonyTownhall ^ | April 18, 2023 | Mia CathellPosted on 04/18/2023 6:57:41…"</p>
+            </div>
+
+            <div class="in">
+            <h2>Haaretz</h2>
+            <img class="news_image" src="https://img.haarets.co.il/bs/00000187-9496-dc6c-a5ff-ffd7a6ea0000/f5/04/eb25baaa435bbb202b9a6bd6e961/50241-1.jpg?precrop=2400,1395,x0,y19&height=630&width=1200">
+            <br>
+            <a class="news_desc" href="https://www.haaretz.com/israel-news/2023-04-18/ty-article/china-offers-to-facilitate-israel-palestinian-peace-talks/00000187-9486-dc6c-a5ff-ffd7a12e0000">China offers to facilitate Israel-Palestinian peace talks</a>
+            <p>"China's foreign minister told his Israeli and Palestinian counterparts that his country is ready to help facilitate peace talks between the two sides, in its latest effort at mediation in the region.…"</p>
+            </div>
+
+            <div class="in">
+            <h2>Autoblog</h2>
+            <img class="news_image" src="https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/ee1ab7aa63433f119d48e0fb3d971a54">
+            <br>
+            <a class="news_desc" href="https://www.autoblog.com/2023/04/18/advanced-ai-keeps-sundar-pichai-up-at-night-and-makes-sam-altman-a-bit-scared-here-s-why-some-tech-execs-are-wary-of-its-potential-dangers/">Advanced AI keeps Sundar Pichai up at night and makes Sam Altman a bit scared. Here's why some tech execs are wary of its potential dangers.</a>
+            <p>"Sam Altman and Sundar Pichai.  Ramin Talaie/Getty Images and Kimberly White/Getty Images for GLAADThe tech world's obsession with generative artificial intelligence shows no signs of cooling off.…"</p>
+            </div>
+
+            <div class="in">
+            <h2>DW (English)</h2>
+            <img class="news_image" src="https://static.dw.com/image/65310400_6.jpg">
+            <br>
+            <a class="news_desc" href="https://www.dw.com/en/germany-keeps-searching-for-a-common-china-strategy/a-65360892">Germany keeps searching for a common China strategy</a>
+            <p>"It's been another busy week for Germany's foreign minister, Annalena Baerbock. The Green Party official is one of the country's leading voices calling for a robust policy towards China. Meeting with …"</p>
+            </div>
+
+            <div class="in">
+            <h2>Daily Mail</h2>
+            <img class="news_image" src="https://i.dailymail.co.uk/1s/2023/04/18/14/69959285-0-image-a-68_1681825674456.jpg">
+            <br>
+            <a class="news_desc" href="https://www.dailymail.co.uk/news/article-11985921/G7-condemns-Chinas-militarisation-activities-sparking-furious-reaction-Beijing.html">G7 condemns China's 'militarisation activities' - sparking furious reaction from Beijing</a>
+            <p>"G7 foreign ministers warned today that it would inflict 'severe costs' on those helping Russia wage war in Ukraine and put Beijing on notice over its 'militarisation activities' in the South China Se…"</p>
+            </div>
+
+            <div class="in">
+            <h2>Mit.edu</h2>
+            <img class="news_image" src="https://news.mit.edu/sites/default/files/images/202304/MIT-Energy-Conference-01-press.jpg">
+            <br>
+            <a class="news_desc" href="https://news.mit.edu/2023/mit-energy-conference-grapples-geopolitics-0418">MIT Energy Conference grapples with geopolitics</a>
+            <p>"As Russias war in Ukraine rages on, this years MIT Energy Conference spotlighted the role of geopolitics in the worlds efforts to lower greenhouse gas emissions and mitigate the worst effects of clim…"</p>
+            </div>
+        </div>
+        </div>
+    </body>
+</html>

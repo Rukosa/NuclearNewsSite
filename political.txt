@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 822,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Jan-Werner Müller",
+            "title": "If Dominion prevails against Fox News, that won’t harm press freedoms | Jan-Werner Mueller",
+            "description": "Quite a few observers, including liberals, are anxious that a victory for Dominion could backfire. Those worries are misplacedOn Tuesday begins one of the most closely watched trials about press freedom in decades. Dominion, maker of voting machines, is suing…",
+            "url": "https://www.theguardian.com/commentisfree/2023/apr/18/if-dominion-prevails-against-fox-news-that-wont-harm-press-freedoms",
+            "urlToImage": "https://i.guim.co.uk/img/media/6b4cfc70e38da045d0badd591fdf7985660e822a/0_0_3000_1800/master/3000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=48c93be1d5ba1181b223375fdfb100fd",
+            "publishedAt": "2023-04-18T10:10:37Z",
+            "content": "On Tuesday begins one of the most closely watched trials about press freedom in decades. Dominion, maker of voting machines, is suing Fox News for defaming the company during its coverage of the 2020… [+4908 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Editorial",
+            "title": "The Guardian view on Sudan’s conflict: general v general v the people | Editorial",
+            "description": "More than 180 people have already died as two power-hungry men battle for control. But the desire for democracy enduresFirst they turned upon Omar al-Bashir, the strongman they had served, when the Sudanese people rose up against the president. Then, in a cou…",
+            "url": "https://www.theguardian.com/commentisfree/2023/apr/18/the-guardian-view-on-sudans-conflict-general-v-general-v-the-people",
+            "urlToImage": "https://i.guim.co.uk/img/media/a8624c8878abbc8865a546f482109a6c57d15cf0/0_41_3200_1920/master/3200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=26102f0c422d00c5210950cfd58af20e",
+            "publishedAt": "2023-04-18T18:08:50Z",
+            "content": "First they turned upon Omar al-Bashir, the strongman they had served, when the Sudanese people rose up against the president. Then, in a coup, they turned upon the civilian politicians who had risen … [+3455 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Simon Maxwell Maxwell",
+            "title": "Michael Lipton obituary",
+            "description": "Development economist who championed poor rural people, their approaches to agriculture and their health around the worldThe development economist Michael Lipton, who has died aged 86, credited an important part of his education to the people of the village o…",
+            "url": "https://www.theguardian.com/politics/2023/apr/18/michael-lipton-obituary",
+            "urlToImage": "https://i.guim.co.uk/img/media/92ee117aae5f5feac4a74cf05fb6d48df441880d/71_197_3993_2396/master/3993.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=cda21720a0ecf7af6b91a17cf8d2c37f",
+            "publishedAt": "2023-04-18T18:43:08Z",
+            "content": "The development economist Michael Lipton, who has died aged 86, credited an important part of his education to the people of the village of Kavathe in Maharashtra state, India. His research there in … [+4563 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Artem Mazhulin",
+            "title": "For years, we believed we could live as both Ukrainians and Russians. Not any more | Artem Mazhulin",
+            "description": "Growing up near the border there was no physical barrier. Now war has forced citizens of both sides to choose their identitiesWhere do you call home? I’ve travelled and lived in so many places that the question sometimes confused me. Being eastern Ukrainian d…",
+            "url": "https://www.theguardian.com/commentisfree/2023/apr/18/ukraine-russia-border-war-citizens-identities",
+            "urlToImage": "https://i.guim.co.uk/img/media/57a1b5a9b727bb4da1557d5fdb8f6997e092d71e/0_358_2767_1661/master/2767.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctb3BpbmlvbnMucG5n&enable=upscale&s=4de81d44aff154e376bb546cb8df06ee",
+            "publishedAt": "2023-04-18T07:00:38Z",
+            "content": "Where do you call home? Ive travelled and lived in so many places that the question sometimes confused me. Being eastern Ukrainian doesnt make it easy to look for your roots, either.\r\nTwo world wars,… [+6351 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Wilfred Chan",
+            "title": "Thousands fled to Mastodon after Musk bought Twitter. Are they still ‘tooting’?",
+            "description": "The decentralized social network has seen user numbers drop in recent months, but tech-savvy users remain passionateWhen Elon Musk bought Twitter nearly six months ago, bringing back white supremacists and booting journalists who had criticized him, many user…",
+            "url": "https://www.theguardian.com/technology/2023/apr/18/mastodon-users-twitter-elon-musk-social-media",
+            "urlToImage": "https://i.guim.co.uk/img/media/81362d0c085d98e5efc0b9aa63623c3a8d0982a5/0_333_6000_3600/master/6000.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=01c64a3d13117ec0b067c98415dc54b6",
+            "publishedAt": "2023-04-18T05:00:36Z",
+            "content": "When Elon Musk bought Twitter nearly six months ago, bringing back white supremacists and booting journalists who had criticized him, many users felt it was the right time to leave the platform.\r\nTho… [+9252 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Paloma Dupont de Dinechin in Montelíbano",
+            "title": "A reporter was murdered after alleging corruption – now a global team is finishing his work",
+            "description": "After posting a video denouncing alleged corruption, Colombian journalist Rafael Moreno was fatally shot – but thanks to documents he left behind, he wasn’t silenced“If you’re going to kill me, then kill me. But I’ll tell you up front: you won’t silence me.” …",
+            "url": "https://www.theguardian.com/world/2023/apr/18/rafael-moreno-colombia-journalist-murder",
+            "urlToImage": "https://i.guim.co.uk/img/media/595d29c484c1a158be3739a1449a11b282dbb7f6/0_347_5200_3120/master/5200.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=e32b90955e7a5d43a287c07a2cbe9b5a",
+            "publishedAt": "2023-04-18T16:00:14Z",
+            "content": "If youre going to kill me, then kill me. But Ill tell you up front: you wont silence me. In a 37-minute Facebook Live broadcast on 21 July 2022, the independent Colombian journalist Rafael Moreno def… [+11930 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NPR"
+            },
+            "author": "David Folkenflik",
+            "title": "Fox News settles blockbuster defamation lawsuit with Dominion Voting Systems",
+            "description": "Fox News has struck a deal averting a trial in the blockbuster defamation suit filed by the election-tech company Dominion Voting Systems over spurious claims of fraud in the 2020 presidential race.",
+            "url": "https://www.npr.org/2023/04/18/1170339114/fox-news-settles-blockbuster-defamation-lawsuit-with-dominion-voting-systems",
+            "urlToImage": "https://media.npr.org/assets/img/2023/04/18/gettyimages-1483089671_wide-8ba788e97cc5f65eec84987e0372a0ce946127b1-s1400-c100.jpg",
+            "publishedAt": "2023-04-18T20:03:18Z",
+            "content": "Members of the legal team representing Dominion Voting Systems leave the Leonard Williams Justice Center where Dominion is suing FOX News in Delaware Superior Court during a lunch break on April 18, … [+13619 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Natalie Armbruster, Defense Priorities",
+            "title": "China is succeeding in the Middle East because it learned from watching the US fail there for 20 years",
+            "description": "Opinion: China's success in the Middle East is a result of being able to watch the past 20 years of US Middle East policy and adjusting accordingly.",
+            "url": "https://www.businessinsider.com/china-succeeding-in-middle-east-because-learned-from-us-failures-2023-4",
+            "urlToImage": "https://i.insider.com/643ea63c2ddd0600182606cc?width=1200&format=jpeg",
+            "publishedAt": "2023-04-18T17:12:22Z",
+            "content": "Iranian, Saudi, and Chinese foreign ministers during a meeting in Beijing on April 6.Iran's Foreign Ministry/WANA (West Asia News Agency)/Handout via Reuters\r\n<ul>\n<li>China has brokered a deal betwe… [+5864 chars]"
+        },
+        {
+            "source": {
+                "id": "business-insider",
+                "name": "Business Insider"
+            },
+            "author": "Warren Rojas,Kimberly Leonard",
+            "title": "Congressional Democrats bash Ron DeSantis for alienating Florida job creator Disney World in service of a 'flailing presidential campaign'",
+            "description": "Florida Democrats skewered Gov. Ron DeSantis for assailing Disney, which employees tens of thousands of their constituents, just to court MAGA voters.",
+            "url": "https://www.businessinsider.com/desantis-gets-chilly-reception-in-dc-from-frustrated-florida-democrats-2023-4",
+            "urlToImage": "https://i.insider.com/643efd0ce106f6001973379b?width=1200&format=jpeg",
+            "publishedAt": "2023-04-18T23:15:11Z",
+            "content": "Florida Gov. Ron DeSantis speaks to reporters during a press conference at the Reedy Creek Administration Building on April 17 in Lake Buena Vista, Florida.Paul Hennessy/SOPA Images/LightRocket via G… [+6354 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Trudeau grilled by Poilievre over $162000 Jamaica family trip - Global News",
+            "description": "<ol><li>Trudeau grilled by Poilievre over $162000 Jamaica family trip  Global News\r\n</li><li>Trudeau family vacationed with wealthy friends who donated to Pierre Elliott Trudeau Foundation  CBC News\r\n</li><li>Politics Briefing: PM defends vacation at Jamaican…",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CCAiC05ORkkyX29kWnhJmAEB?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T21:31:06Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Alexander Sammon",
+            "title": "The Dianne Feinstein Saga Has a Strange New Twist",
+            "description": "For Republicans, there's an opportunity for some leverage here.",
+            "url": "https://slate.com/news-and-politics/2023/04/dianne-feinstein-senate-judiciary-republicans.html",
+            "urlToImage": "https://compote.slate.com/images/fd09b4b6-f7fd-4b71-855b-0fb14d554539.jpeg?crop=1560%2C1040%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2023-04-18T09:45:00Z",
+            "content": "We are now in week two of the Dianne Feinstein saga, in which Democrats willingness to jeopardize their own agenda to accommodate the ailing, absentee senator will be on full display.\r\nSen. Chuck Sch… [+8658 chars]"
+        },
+        {
+            "source": {
+                "id": "ign",
+                "name": "IGN"
+            },
+            "author": "aimee_carr",
+            "title": "Change Your Fate With Watcher of Realms, a Next-Gen Fantasy RPG for Mobile & PC",
+            "description": null,
+            "url": "https://www.ign.com/articles/change-your-fate-with-watcher-of-realms-a-next-gen-fantasy-rpg-for-mobile-pc",
+            "urlToImage": "https://assets-prd.ignimgs.com/2023/03/07/01-1678228897730.jpg?width=1280",
+            "publishedAt": "2023-04-18T18:00:00Z",
+            "content": "What is Watcher of Realms?\r\nWatcher of Realms\r\n is a next-gen fantasy RPG that reminds us that while we're ever the playthings of the gods, we're not obligated to sit still while they break us like c… [+4209 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Atlantic"
+            },
+            "author": "The Atlantic",
+            "title": "‘Joe Biden’s Show Lacks Entertainment Value’",
+            "description": "Readers respond to our March 2023 cover story and more.",
+            "url": "https://www.theatlantic.com/magazine/archive/2023/05/the-commons/673484/?utm_source=feed",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T11:00:00Z",
+            "content": "We’re Already Living in the MetaverseReality is blurred, boredom is intolerable, and everything is entertainment, Megan Garber wrote in the March 2023 issue.Amid all the speculation about the sources… [+7435 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Atlantic"
+            },
+            "author": "Katherine J. Wu",
+            "title": "A History of Humanity in Which Humans Are Secondary",
+            "description": "A new book tells the story of our past from the perspective of the bugs that have shaped it.",
+            "url": "https://www.theatlantic.com/books/archive/2023/04/microbes-pathogens-plagues-human-civilization-history/673753/?utm_source=feed",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T11:00:00Z",
+            "content": "Most accounts of humanity’s origins, and our evolution since, have understandably put Homo sapiens center stage. It was our ingenuity, our tools, our cultural savvy that enabled our species to surviv… [+8287 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "What Americans can learn from Denmark on handling debt ceiling crisis",
+            "description": "Only two industrialised nations have debt ceilings - how come only the US fights about it?",
+            "url": "https://www.bbc.co.uk/news/world-us-canada-64878254",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C9F3/production/_129399615_danish_getty976.jpg",
+            "publishedAt": "2023-04-18T23:45:59Z",
+            "content": "The high-wire drama of raising the US debt ceiling is making headlines again. Is there a better way? Perhaps Denmark has the answer. \r\nThe US Congress is once more arguing about the country's debt ce… [+5624 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Thehub.ca"
+            },
+            "author": "The Hub Staff",
+            "title": "Make the future bright again: On building a new philosophy of progress",
+            "description": "This episode of Hub Dialogues features host Sean Speer in conversation with Jason Crawford, founder of the U.S.-based non-profit organization Roots of Progress, about human progress, why it has slowed, and how a new philosophy of progress can help to accelera…",
+            "url": "https://thehub.ca/2023-04-11/make-the-future-bright-again-jason-crawford-on-the-importance-of-building-a-new-philosophy-of-progress/",
+            "urlToImage": "https://thehub.ca/wp-content/uploads/2023/04/CP25992655_web.jpg",
+            "publishedAt": "2023-04-18T03:49:00Z",
+            "content": "This episode of Hub Dialogues features host Sean Speer in conversation with Jason Crawford, founder of the U.S.-based non-profit organization Roots of Progress, about human progress, why it has slowe… [+36569 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Cambridge.org"
+            },
+            "author": null,
+            "title": "Mini-States and Micro-Sovereignty: Democracies in East Central Europe, 1918–1923",
+            "description": "Mini-States and Micro-Sovereignty: Local Democracies in East Central Europe, 1918–1923",
+            "url": "https://www.cambridge.org/core/journals/contemporary-european-history/article/ministates-and-microsovereignty-local-democracies-in-east-central-europe-19181923/68ECB1DC9F610696C966B63C9CE2B736",
+            "urlToImage": "https://static.cambridge.org/covers/CEH_0_0_0/contemporary_european history.jpg?send-full-size-image=true",
+            "publishedAt": "2023-04-18T02:11:35Z",
+            "content": "In December 1918, Lutheran pastor Emil Hegemann left his native Schwenten in east Prussia and headed for Glogau (present-day Gogów). Hegemann and his 800 or so parishioners felt under attack from the… [+48076 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Thomas Claburn",
+            "title": "Predict stocks, foresee public opinion, all kinda possible with ChatGPT-like models",
+            "description": "Boffins foretell LLMs infiltrating finance and politics with confidently held views\nIf you want a picture of the future, imagine asking a large language model for a prediction.…",
+            "url": "https://www.theregister.com/2023/04/18/large_language_models_like_chatgpt/",
+            "urlToImage": "https://regmedia.co.uk/2018/12/13/shutterstock_crystal_ball.jpg",
+            "publishedAt": "2023-04-18T20:14:08Z",
+            "content": "If you want a picture of the future, imagine asking a large language model for a prediction.\r\nTwo sets of researchers did so recently and found that large language models (LLMs) like ChatGPT and BERT… [+7125 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The A.V. Club"
+            },
+            "author": "Saloni Gajjar",
+            "title": "Keri Russell on The Diplomat: \"I have to really like something to pursue it\"",
+            "description": "Five years after The Americans ended, Keri Russell is finally back on TV with a worthy leading role in Netflix’s politically charged The Diplomat. The actor has always been a tour de force, from her heartrending turn in the 2007 film Waitress to escaping a co…",
+            "url": "https://www.avclub.com/keri-russell-interview-the-americans-the-diplomat-1850334209",
+            "urlToImage": "https://i.kinja-img.com/gawker-media/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/85fa7a3c514be7391c690a4aca60e527.jpg",
+            "publishedAt": "2023-04-18T16:00:00Z",
+            "content": "Five years after The Americans ended, Keri Russell is finally back on TV with a worthy leading role in Netflixs politically charged The Diplomat. The actor has always been a tour de force, from her h… [+8641 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Brakkton Booker",
+            "title": "Why the Ralph Yarl shooting is reigniting the ’stand your ground’ debate",
+            "description": "From Trayvon Martin to Jordan Davis to Ralph Yarl, why “stand your ground” is the go-to defense after shooting a Black teen.",
+            "url": "https://www.politico.com/news/2023/04/18/ralph-yarl-shooting-stand-your-ground-black-teen-00092608",
+            "urlToImage": "https://static.politico.com/a6/19/a91ef47f448493ecdeed53e22a0a/kansas-city-teen-shot-47200.jpg",
+            "publishedAt": "2023-04-18T19:44:57Z",
+            "content": "It would also mark a stark turn of events for the white man who, immediately after the shooting on Thursday, was taken into custody but promptly released after about an hour. Lester surrendered Tuesd… [+4550 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Burgess Everett, Jennifer Haberkorn and Katherine Tully-McManus",
+            "title": "Senate Dems sit on their hands amid Feinstein resignation chatter",
+            "description": "They're not actively calling for the absent 89-year-old senator to give up her seat. But with judicial nominees stalled, Democrats can't wait indefinitely either.",
+            "url": "https://www.politico.com/news/2023/04/18/senate-dems-feinstein-resignation-00092555",
+            "urlToImage": "https://static.politico.com/ed/8c/a313e2e34179af67f95a4769c2d1/senate-feinstein-04874.jpg",
+            "publishedAt": "2023-04-18T18:19:43Z",
+            "content": "The question is, how long until she goes back? So if its three months, I dont know, that becomes a really difficult question. If its a couple of weeks? Im fine with it, said Sen. John Hickenlooper (D… [+4894 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Sarah Ferris, Ally Mutnick and Burgess Everett",
+            "title": "DeSantis begins up-Hill battle for congressional GOP support",
+            "description": "While nine GOP lawmakers are listed as co-hosts of a meet-and-greet with the Florida governor Tuesday, only a few are ready to endorse his not-yet-official presidential run.",
+            "url": "https://www.politico.com/news/2023/04/18/desantis-republican-presidential-race-2024-00092602",
+            "urlToImage": "https://static.politico.com/61/2d/e920c66842a5b440b4632bfa60e9/https-delivery-gettyimages.com/downloads/1472685355",
+            "publishedAt": "2023-04-18T21:02:26Z",
+            "content": "Another two of the nine lawmakers listed as co-hosts of the event harmonized with Lee: Im not endorsing anybody. I just think its always good to see whos out there, Rep. Randy Feenstra (R-Iowa) said,… [+6443 chars]"
+        },
+        {
+            "source": {
+                "id": "politico",
+                "name": "Politico"
+            },
+            "author": "Ally Mutnick",
+            "title": "Republicans worry the Club for Growth could cost them the Senate",
+            "description": "The anti-tax group wants to pick Senate candidates. Republicans see a 2022 repeat.",
+            "url": "https://www.politico.com/news/2023/04/18/republicans-club-for-growth-senate-00092440",
+            "urlToImage": "https://static.politico.com/8e/c8/7f3b9a0a4b16ab6d670b4da4f8d4/election-2024-trump-donors-03759.jpg",
+            "publishedAt": "2023-04-18T08:30:00Z",
+            "content": "Even lawmakers keeping an open mind about how the Club approaches the current cycle dont hide their concern over the groups past tactics.\r\nTheres a lot of work to be done on understanding the main go… [+8848 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "inews"
+            },
+            "author": "Digg Editors",
+            "title": "'Succession' Owes Its Genius To 'Peep Show'",
+            "description": "\"Succession\" might seem worlds apart from creator Jesse Armstrong's Noughties masterpiece, but its wit, darkness and skewering of corporate culture stands on \"Peep Show's\" shoulders.",
+            "url": "https://inews.co.uk/culture/succession-peep-show-owes-genius-jesse-armstrong-2280915",
+            "urlToImage": "https://wp.inews.co.uk/wp-content/uploads/2023/04/comp-1681813091.png?crop=2px%2C0px%2C996px%2C563px&resize=1200%2C675",
+            "publishedAt": "2023-04-18T12:26:40Z",
+            "content": "This article contains spoilers for Succession season four\r\nThe problem with Succession is that its easy to miss brilliant lines, because they come so thick and fast you are often busy laughing. One s… [+7198 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rolling Stone"
+            },
+            "author": "Elisabeth Garber-Paul",
+            "title": "The United States of Weed",
+            "description": "Curious about the status of cannabis? Here’s where legalization stands, state by state",
+            "url": "https://www.rollingstone.com/feature/cannabis-legalization-states-map-831885/",
+            "urlToImage": "https://www.rollingstone.com/wp-content/uploads/2023/04/Weed-Map-2023_V4.jpg?crop=0px%2C79px%2C1800px%2C1014px&resize=1600%2C900",
+            "publishedAt": "2023-04-18T17:31:47Z",
+            "content": "If it seems like a new state is legalizing cannabis nearly every week, don’t worry, you’re not high — states are indeed allowing adult-use of the drug at an unprecedented pace. If the wave of green l… [+50636 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "IndieWire"
+            },
+            "author": "Samantha Bergeson",
+            "title": "2023 Tribeca Film Festival Lineup Includes ‘Downtown Owl,’ ‘Fresh Kills’ Premieres",
+            "description": "This year's festival takes place June 7-18 with 109 feature films from 127 filmmakers.",
+            "url": "https://www.indiewire.com/2023/04/2023-tribeca-film-festival-lineup-1234829144/",
+            "urlToImage": "https://www.indiewire.com/wp-content/uploads/2023/04/Downtown-Owls.png?w=780",
+            "publishedAt": "2023-04-18T15:00:39Z",
+            "content": "The 2023 Tribeca Festival feature film lineup has been unveiled.\r\nThis year’s festival takes place June 7 — 18 and includes a range of feature narrative, documentary, and animated films. The 2023 Tri… [+52308 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera",
+            "title": "Tunisian authorities close opposition Ennahdha party HQ",
+            "description": "Move comes a day after party leader Ghannouchi was arrested in an ongoing crackdown on Tunisia's opposition.",
+            "url": "https://www.aljazeera.com/news/2023/4/18/tunisian-authorities-close-opposition-ennahda-party-hq",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/12/gettyimages-1039933112-594x594-1.jpg?resize=1200%2C675",
+            "publishedAt": "2023-04-18T12:10:09Z",
+            "content": "Tunisian authorities have closed the headquarters of the opposition Ennahdha party, a day after leader Rached Ghannouchi was arrested, party officials have said.\r\nAhmed Gaaloul, an adviser for Ghanno… [+2940 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "‘Rights crisis’: Amnesty report documents abuses in Nicaragua",
+            "description": "The government of President Daniel Ortega has been criticised for targeting dissidents and consolidating power.",
+            "url": "https://www.aljazeera.com/news/2023/4/18/rights-crisis-amnesty-report-documents-abuses-in-nicaragua",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/03/2023-02-24T005259Z_1301039096_RC2R5Y9OSA1Y_RTRMADP_3_LATAM-POLITICS-TODAY.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-04-18T19:16:43Z",
+            "content": "The human rights organisation Amnesty International has warned that the government of Nicaraguan President Daniel Ortega and Vice President Rosario Murillo is deepening repression in the Central Amer… [+3485 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Marwan Bishara",
+            "title": "Sudan’s tragedy: Rogue generals and failed coups",
+            "description": "The people of Sudan should reject choosing the lesser of two evils and should seek a third option.",
+            "url": "https://www.aljazeera.com/opinions/2023/4/18/sudans-tragedy-rogue-generals-and-failed-coups",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2021/11/2019-10-21T123055Z_1308667644_RC11BF149360_RTRMADP_3_SUDAN-POLITICS-PEACE.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-04-18T12:09:39Z",
+            "content": "At the heart of Sudans ongoing tragedy lies a familiar travesty.\r\nFor decades, countries in the Middle East have suffered from military coups carried out in the name of national salvation, pride and … [+5827 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Al Jazeera Staff",
+            "title": "US charges Russians, Americans for ‘malign’ influence campaign",
+            "description": "Washington accuses Russian agents of trying to exert influence through small US groups and interfering in local vote.",
+            "url": "https://www.aljazeera.com/news/2023/4/18/us-charges-russians-americans-for-malign-influence-campaign",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2022/07/2022-01-11T000000Z_806472994_RC23XR90RQA9_RTRMADP_3_USA-CAPITOL-SECURITY-JUSTICE.jpg?resize=1920%2C1440",
+            "publishedAt": "2023-04-18T21:13:59Z",
+            "content": "Washington, DC  The United States has charged four American citizens and three Russian nationals with conducting a malign influence campaign, a move the Department of Justice described as essential t… [+4312 chars]"
+        },
+        {
+            "source": {
+                "id": "al-jazeera-english",
+                "name": "Al Jazeera English"
+            },
+            "author": "Hamza Mohamed, Usaid Siddiqui",
+            "title": "Could the Sudan unrest inflame the Horn of Africa?",
+            "description": "Regional leaders and experts fear a civil war could lead to new crises in a region battered by conflict and drought.",
+            "url": "https://www.aljazeera.com/news/2023/4/18/could-the-sudan-unrest-inflame-the-horn-of-africa",
+            "urlToImage": "https://www.aljazeera.com/wp-content/uploads/2023/04/image-61.jpg?resize=1920%2C1080",
+            "publishedAt": "2023-04-18T11:51:09Z",
+            "content": "Plumes of smoke fill Khartoums sky as Sudans armed forces battle the Rapid Support Forces (RSF), a paramilitary group, for control of the country and its capital. The fighting, which erupted late las… [+7491 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Itsnicethat.com"
+            },
+            "author": "Joey Levenson",
+            "title": "The power of protest with graphic designer Kemba Earle",
+            "description": "The graphic designer&#x27;s impactful work is distinct for its razor-sharp focus on dismantling constructions of power.",
+            "url": "https://www.itsnicethat.com/articles/kemba-earle-project-graphic-design-politics-180423",
+            "urlToImage": "https://admin.itsnicethat.com/images/r_7lKK_fTKakgLZv_SLJG6lc1R4=/239490/width-1440/Kemba_Earle_Forgotten_6.jpg",
+            "publishedAt": "2023-04-18T08:00:00Z",
+            "content": "The bold, solid sans serif type of protest signs, of course, is also prevalent throughout. I want my posters to imitate the style of newspaper headlines and protest signs which are deliberately atten… [+1450 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Adafruit.com"
+            },
+            "author": "Zay",
+            "title": "The Lines of History Depicted in a 10,000-Pound Glass Sculpture at the Liberty Science Center",
+            "description": "The Liberty Science Center has a program called Big Art. It’s been going on for 30 years, and for its 30th anniversary the sculptor Dustin Yellin stepped up in excellent form. He created a piece called The Politics of Eternity it’s 10,000 pounds and explores …",
+            "url": "https://blog.adafruit.com/2023/04/18/the-lines-of-history-depicted-in-a-10000-pound-glass-sculpture-at-the-liberty-science-center/",
+            "urlToImage": "https://cdn-blog.adafruit.com/uploads/2023/04/yellin-3-1536x1026-1.jpg",
+            "publishedAt": "2023-04-18T18:00:30Z",
+            "content": "The Liberty Science Center has a program called Big Art. It’s been going on for 30 years, and for its 30th anniversary the sculptor Dustin Yellin stepped up in excellent form. He created a piece call… [+3729 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Dnyuz.com"
+            },
+            "author": "New York Times",
+            "title": "Ron Tried to Bury Her. Now She's Helping Trump Try to Bury Him...",
+            "description": "Ron Tried to Bury Her. Now She's Helping Trump Try to Bury Him...\r\n\n \n \n \n (First column, 5th story, link)\r\n\n \r\n\n \r\n\n \n Related stories:DeSantis suggests building state prison at DISNEY...",
+            "url": "https://dnyuz.com/2023/04/18/desantis-tried-to-bury-her-now-shes-helping-trump-try-to-bury-him/",
+            "urlToImage": "https://dnyuz.com/wp-content/uploads/2023/04/DeSantis-Tried-to-Bury-Her-Now-Shes-Helping-Trump-Try.jpg",
+            "publishedAt": "2023-04-18T10:55:37Z",
+            "content": "Two months before Election Day 2020, Susie Wiles stood uncomfortably inside a hospitality tent in Florida, caught between two proud and exacting men whom she had helped elect: President Donald J. Tru… [+15951 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Commentary.org"
+            },
+            "author": "Liel Leibovitz",
+            "title": "The Return of Paganism...",
+            "description": "When a 28-year-old person identifying as transgender shot up a Tennessee school in March, killing three children and three adults, the usual grim afterlife of tragedy was underlined by an",
+            "url": "https://www.commentary.org/articles/liel-leibovitz/paganism-afflicts-america/",
+            "urlToImage": "https://www.commentary.org/wp-content/uploads/2023/04/GettyImages-Pagans.jpg",
+            "publishedAt": "2023-04-18T18:49:38Z",
+            "content": "When a 28-year-old person identifying as transgender shot up a Tennessee school in March, killing three children and three adults, the usual grim afterlife of tragedy was underlined by an odd note: O… [+22481 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Eurogamer.net"
+            },
+            "author": "Victoria Kennedy",
+            "title": "Microsoft announces April's next wave of Xbox Game Pass games",
+            "description": "Microsoft has announced the next wave of new Xbox and PC Game Pass games.\n\nFrom today, players will be able to get their hands on Minecraft Legends - \"The piglins are threatening to consume the Overworld. Are you the hero this gentle land needs?\" Microsoft as…",
+            "url": "https://www.eurogamer.net/microsoft-announces-aprils-next-wave-of-xbox-game-pass-games",
+            "urlToImage": "https://assetsio.reedpopcdn.com/redfall-header-image.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp",
+            "publishedAt": "2023-04-18T13:53:24Z",
+            "content": "Microsoft has announced the next wave of new Xbox and PC Game Pass games.\r\nFrom today, players will be able to get their hands on Minecraft Legends - \"The piglins are threatening to consume the Overw… [+2602 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Motley Fool"
+            },
+            "author": "newsfeedback@fool.com (Bram Berkowitz)",
+            "title": "What Everyone Gets Wrong About the Future of Social Security",
+            "description": "Many people believe Social Security will go bankrupt and not be around in the future.",
+            "url": "https://www.fool.com/retirement/2023/04/18/what-everyone-gets-wrong-about-the-future-of-socia/",
+            "urlToImage": "https://g.foolcdn.com/editorial/images/727924/social-security-5.jpg",
+            "publishedAt": "2023-04-18T10:38:00Z",
+            "content": "Even if you don't follow Social Security too closely, you've still likely heard people talk about how the program is running out of money. You may have even heard the claim that Social Security won't… [+3814 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "tedstew1",
+            "title": "Jury Selected In Dominion Vs. Fox News Defamation Trial; Opening Arguments Set To Start Later Today",
+            "description": "A jury has been seated in the Dominion vs. Fox News trial, kicking off at last what is being billed as the “defamation trial of the century,” with the prospect of the network’s star hosts and Rupert Murdoch himself taking the stand. With the 200 seats in cour…",
+            "url": "https://deadline.com/2023/04/fox-news-dominion-trial-starts-1235329372/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/03/fox-news.jpg?w=1024",
+            "publishedAt": "2023-04-18T14:54:37Z",
+            "content": "A jury has been seated in the Dominion vs. Fox News trial, kicking off at last what is being billed as the “defamation trial of the century,” with the prospect of the network’s star hosts and Rupert … [+2455 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Deadline"
+            },
+            "author": "Patrick Hipes",
+            "title": "Tribeca Festival’s 2023 Film Lineup Includes Maggie Moore(s)’ With Tina Fey & Jon Hamm, ‘First Time Female Director’, Marvel’s ‘Stan Lee’ Doc, More",
+            "description": "The 22nd edition of the Tribeca Festival unveiled a 2023 lineup with a record number of female helmers and heavy on films directed by actors like Chelsea Peretti’s First Time Female Director, John Slattery thriller Maggie Moore(s) with Tina Fey and Jon Hamm, …",
+            "url": "https://deadline.com/2023/04/2023-tribeca-festival-film-lineup-1235328744/",
+            "urlToImage": "https://deadline.com/wp-content/uploads/2023/04/Tribeca-Festival-2023-Logo.png.jpg?w=1000",
+            "publishedAt": "2023-04-18T15:00:00Z",
+            "content": "The 22nd edition of the Tribeca Festival unveiled a 2023 lineup with a record number of female helmers and heavy on films directed by actors like Chelsea Peretti’s First Time Female Director, John Sl… [+49415 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mckinsey.com"
+            },
+            "author": null,
+            "title": "Forward Thinking on people on the move and the technological progress and productivity they bring with Dany Bahar",
+            "description": "Why are some countries rich and some poor? A leading economist finds the answer in the interactions of economies with the rest of the world, through trade, capital flows, and—notably—migration. “I think that migration could be the key to economic development …",
+            "url": "https://www.mckinsey.com/mgi/forward-thinking/forward-thinking-on-people-on-the-move-and-the-technological-progress-and-productivity-they-bring-with-dany-bahar",
+            "urlToImage": "https://www.mckinsey.com/~/media/mckinsey/mckinsey%20global%20institute/forward%20thinking/forward%20thinking%20on%20people%20on%20the%20move%20and%20the%20technological%20progress%20and%20productivity%20they%20bring%20with%20dany%20bahar/dany-bahar-50-50.jpg",
+            "publishedAt": "2023-04-19T00:00:00Z",
+            "content": "In this episode of the McKinsey Global Institutes Forward Thinking podcast, co-host Janet Bush talks with economist Dany Bahar. He is an associate professor of practice of international and public af… [+35443 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Indian Express"
+            },
+            "author": "Kiran Parashar",
+            "title": "‘Born poor, don’t want to die poor’: Indian trapped in Sudan",
+            "description": "Fierce fighting has erupted since Saturday between the military and the country’s paramilitary force in Khartoum, where at least 31 tribals from Karnataka are stuck.",
+            "url": "https://indianexpress.com/article/india/born-poor-dont-want-to-die-poor-indian-trapped-in-sudan-8563591/",
+            "urlToImage": "https://images.indianexpress.com/2023/04/Sudan-2.jpg",
+            "publishedAt": "2023-04-18T15:13:39Z",
+            "content": "I was born poor, but I dont want to die poor. I wanted to provide a better life for my children, which is why we came to Sudan, said Prabhu S, from Karnatakas Hakki Pikki tribe, who is among several … [+4409 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Aaron Timms",
+            "title": "They Did It for the Clicks",
+            "description": "“What Cheese Are You?” was a quiz that appeared online in February 2014. BuzzFeed, the digital media company that published the quiz, returned to the same theme in December 2016 (“What Delicious Cheese Are You Based on Your Zodiac Sign?”), February 2018 (“Eve…",
+            "url": "https://newrepublic.com/article/171669/ben-smith-traffic-digital-media-clicks",
+            "urlToImage": "https://images.newrepublic.com/471faedfe831b0ac69311b58e2a4d79bd94b37bc.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2023-04-18T10:00:00Z",
+            "content": "10 SIGNS YOURE SO THE BOOK TRAFFIC BY BEN SMITH\r\n1. When youre stuck for a narrative transition, you reach for banalities like Meanwhile the traffic climbed or Facebook grew and grew.\r\n2. You love en… [+4389 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The New Republic"
+            },
+            "author": "Kate Aronoff",
+            "title": "Is Jimmy Carter Where Environmentalism Went Wrong?",
+            "description": "Jimmy Carter may be the most beloved ex-president in recent history, at least among environmentalists. Climate hawks and conservationists often credit him with trying and tragically failing to save the planet. Carter’s 1979 installation of solar panels on the…",
+            "url": "https://newrepublic.com/article/171772/jimmy-carter-environmentalism-went-wrong",
+            "urlToImage": "https://images.newrepublic.com/edbf7da29ce50a962ae855ed2e2358faef822462.jpeg?w=1109&h=577&crop=faces&fit=crop&fm=jpg",
+            "publishedAt": "2023-04-18T10:00:00Z",
+            "content": "Carters early decision to let Nixon-era price controls expire, for instanceand refusal to return to that tool laterwas remembered even by his advisors as one of the administrations worst mistakes. Ch… [+1689 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DIE WELT"
+            },
+            "author": "Henry Donovan",
+            "title": "Der Brexit wird zur Shitshow – leider im wahrsten Sinne",
+            "description": "Die Briten zahlen für den Brexit inzwischen einen immer höheren Preis. Harte EU-Umweltauflagen gelten auf der Insel nicht mehr – und jetzt verdrecken Abwässer die Flüsse und Strände. Und wer in die EU reisen will, sitzt im Chaos fest.",
+            "url": "https://www.welt.de/debatte/kommentare/article244849118/Grossbritannien-Europa-Der-Brexit-wird-zur-Shitshow.html",
+            "urlToImage": "https://img.welt.de/img/debatte/kommentare/mobile244849112/7331350657-ci16x9-w1200/Beginn-der-Osterfeiertage-in-Grossbritannien.jpg",
+            "publishedAt": "2023-04-18T06:38:51Z",
+            "content": "Jetzt kommt die Quittung für den Brexit. Zu den Ostertagen, den ersten großen Schulferien des Jahres, war es in Großbritannien deutlich zu sehen: Viele Busse mit Schulkindern warteten teilweise 16 St… [+6737 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nakedcapitalism.com"
+            },
+            "author": "Lambert Strether",
+            "title": "2:00PM Water Cooler 4/18/2023",
+            "description": "~ Today's Water Cooler ~",
+            "url": "https://www.nakedcapitalism.com/2023/04/200pm-water-cooler-4-18-2023.html",
+            "urlToImage": "https://www.nakedcapitalism.com/wp-content/uploads/2022/02/napoleon.jpg",
+            "publishedAt": "2023-04-18T18:00:05Z",
+            "content": "By Lambert Strether of Corrente.\r\nBird Song of the Day\r\nHermit Thrush, Acadia National Park; Southwest Harbor; The Seawall, Maine, United States. “Straight over head. Boats on bay in background. Habi… [+30167 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Poynter"
+            },
+            "author": "Nicholas Esposito",
+            "title": "I dreamt of working at ESPN. Now I’m an award-winning hyperlocal news director",
+            "description": "I’m the editorial director and part owner of greaterlongisland.com — a hyperlocal, independent news resource that’s on pace for 6 million reads in 2023. In 2021, we beat million-dollar newsrooms […]\nThe post I dreamt of working at ESPN. Now I’m an award-winni…",
+            "url": "https://www.poynter.org/commentary/2023/greater-long-island-hyperlocal-news-site-editorial-director-career-path/",
+            "urlToImage": "https://www.poynter.org/wp-content/uploads/2023/04/standup-islip-town-hall.png",
+            "publishedAt": "2023-04-18T11:00:56Z",
+            "content": "Im the editorial director and part owner of greaterlongisland.com a hyperlocal, independent news resource thats on pace for 6 million reads in 2023.\r\nIn 2021, we beat million-dollar newsrooms Newsday… [+10148 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Rory Carroll and Lisa O'Carroll",
+            "title": "Clinton optimistic about power sharing in Northern Ireland after DUP talks",
+            "description": "Former US president says he expects barriers to restoring government in Stormont will soon be removed<ul><li>UK politics live – latest updates</li></ul>Bill Clinton has expressed optimism that there will be a breakthrough in Northern Ireland’s political deadl…",
+            "url": "https://www.theguardian.com/uk-news/2023/apr/18/bill-clinton-optimistic-power-sharing-northern-ireland-dup-talks",
+            "urlToImage": "https://i.guim.co.uk/img/media/48c3acb8ebc513a6b5ee155f49944c1910425571/0_139_4704_2823/master/4704.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=950619d7ad5c995ec8cd68a8da0bd15a",
+            "publishedAt": "2023-04-18T10:19:47Z",
+            "content": "Bill Clinton has expressed optimism that there will be a breakthrough in Northern Irelands political deadlock and a restoration of power sharing.\r\nThe former US president made the prediction on Tuesd… [+3333 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Chris Stein",
+            "title": "Fox News v Dominion: defamation case over election lies goes to trial – live",
+            "description": "<ul><li>Trial could see Rupert Murdoch and other Fox executives testify in $1.6bn lawsuit in Delaware</li><li>Sign up to receive First Thing – our daily briefing by email</li></ul>Good morning, US politics blog readers. The biggest news this morning is happen…",
+            "url": "https://www.theguardian.com/us-news/live/2023/apr/18/fox-news-dominion-defamation-trial-live-updates-us-politics",
+            "urlToImage": "https://i.guim.co.uk/img/media/98e3ed90759d9bcb19633d520e6168eee3296743/0_0_5760_3456/master/5760.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctbGl2ZS5wbmc&enable=upscale&s=5c0294cf022290b91f9431c8cc5c7cc4",
+            "publishedAt": "2023-04-18T13:00:41Z",
+            "content": "Good morning, US politics blog readers. The biggest news this morning is happening in Wilmington, Delaware, where the defamation lawsuit filed by Dominion Voting Systems against Fox News is going to … [+1050 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Guardian"
+            },
+            "author": "Martin Pengelly",
+            "title": "Chris Christie derides Ron DeSantis for being outfoxed by Disney",
+            "description": "Florida governor’s campaign against entertainment giant shows he is no conservative, says former New Jersey governorRon DeSantis’s attacks on Disney and his struggles to bend the entertainment giant to his will show the Florida governor is both not a true con…",
+            "url": "https://www.theguardian.com/us-news/2023/apr/18/chris-christie-ron-desantis-disney-republicans",
+            "urlToImage": "https://i.guim.co.uk/img/media/5ef3d3ac0f862787da1f786bf308afb69d03b072/0_73_4150_2489/master/4150.jpg?width=1200&height=630&quality=85&auto=format&fit=crop&overlay-align=bottom%2Cleft&overlay-width=100p&overlay-base64=L2ltZy9zdGF0aWMvb3ZlcmxheXMvdGctZGVmYXVsdC5wbmc&enable=upscale&s=815e7f0d9b31c6c1c905e4f321faf9aa",
+            "publishedAt": "2023-04-18T17:31:32Z",
+            "content": "Ron DeSantiss attacks on Disney and his struggles to bend the entertainment giant to his will show the Florida governor is both not a true conservative and should not be trusted to lead talks with th… [+3314 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Norbert Michel, Contributor, \n Norbert Michel, Contributor\n https://www.forbes.com/sites/norbertmichel/",
+            "title": "CBDCs Are Bigger Than Politics",
+            "description": "Central bank digital currencies (CBDCs) are all the rage. In the same two week span, the IMF held a CBDC forum, and two 2024 presidential candidates came out against CBDCs. Recent NY Times stories dismissing Ron DeSantis's comments on CBDCs as pure politics b…",
+            "url": "https://www.forbes.com/sites/digital-assets/2023/04/18/cbdcs-are-bigger-than-politics/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/643d9e785ecfd3ade4ae41f3/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-04-18T10:30:00Z",
+            "content": "CBDC Central Bank Digital Currency banner logo for business technology, financial, blockchain, ... [+] exchange, money and digital asset. Futuristic vector landing page concept background.\r\ngetty\r\nIt… [+7976 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Chiu, Contributor, \n David Chiu, Contributor\n https://www.forbes.com/sites/davidchiu/",
+            "title": "How Old Norse Mythology Informed Jethro Tull’s Latest Record ‘RökFlöte’",
+            "description": "Led by Ian Anderson. Jethro Tull will tour this year in support of their 23rd studio album.",
+            "url": "https://www.forbes.com/sites/davidchiu/2023/04/18/how-old-norse-mythology-informed-jethro-tulls-latest-record-rkflte/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/6428a3623331a2b464e1c15d/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-04-18T19:00:53Z",
+            "content": "Jethro Tull (l-r): John O'Hara, David Goodier, Ian Anderson, Joe Parrish and Scott Hammond.\r\ncredit: Image provided by Chipster PR\r\nJethro Tull leader Ian Anderson's original idea for the band's new … [+9572 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Tax Notes Staff, Contributor, \n Tax Notes Staff, Contributor\n https://www.forbes.com/sites/taxnotes/people/taxanalysts/",
+            "title": "Analyzing The IRS’s Inflation Reduction Act Spending Plan",
+            "description": "Former IRS Commissioner Fred Goldberg, now with Skadden, Arps, Slate, Meagher & Flom LLP, shares his thoughts on the IRS’s strategies and proposals outlined in the recently released spending plan for the $80 billion the agency was granted by the Inflation Red…",
+            "url": "https://www.forbes.com/sites/taxnotes/2023/04/18/analyzing-the-irss-inflation-reduction-act-spending-plan/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/643ee287d9d44519e6eb47d8/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-04-18T18:38:32Z",
+            "content": "CHICAGO - NOVEMBER 1: Current federal tax forms are distributed at the offices of the Internal ... [+] Revenue Service November 1, 2005 in Chicago, Illinois. A presidential panel today recommended a … [+37429 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "New Lincoln Project ad skewers 'MAGA bullies' Donald Trump and Ron DeSantis - Florida Politics",
+            "description": "<ol><li>New Lincoln Project ad skewers 'MAGA bullies' Donald Trump and Ron DeSantis  Florida Politics\r\n</li><li>Hear what Al Franken noticed of new pro-DeSantis ad attacking Trump  CNN\r\n</li><li>Advertisements pitting Gov. Ron DeSantis against Donald Trump  W…",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiWGh0dHBzOi8vZmxvcmlkYXBvbGl0aWNzLmNvbS9hcmNoaXZlcy82MDQyMDQtbmV3LWxpbmNvbG4tcHJvamVjdC1hZC1za2V3ZXJzLW1hZ2EtYnVsbGllcy_SAQA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T08:02:13Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Dianne Feinstein Resign Calls Grow Louder as More Democrats Turn On Her - Newsweek",
+            "description": "<ol><li>Dianne Feinstein Resign Calls Grow Louder as More Democrats Turn On Her  Newsweek\r\n</li><li>GOP revolts against plan to replace Feinstein on key panel in push to block Biden judicial picks  CNN\r\n</li><li>Dianne Feinstein and Republicans: This saga has…",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiVmh0dHBzOi8vd3d3Lm5ld3N3ZWVrLmNvbS9kaWFubmUtZmVpbnN0ZWluLXJlc2lnbi1kZW1vY3JhdHMtanVkaWNpYXJ5LWNvbW1pdHRlZS0xNzk0OTUw0gFcaHR0cHM6Ly93d3cubmV3c3dlZWsuY29tL2RpYW5uZS1mZWluc3RlaW4tcmVzaWduLWRlbW9jcmF0cy1qdWRpY2lhcnktY29tbWl0dGVlLTE3OTQ5NTA_YW1wPTE?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T08:59:35Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Senate GOP pops Feinstein Judiciary replacement balloon - The Hill",
+            "description": "<ol><li>Senate GOP pops Feinstein Judiciary replacement balloon  The Hill\r\n</li><li>GOP revolts against plan to replace Feinstein on key panel in push to block Biden judicial picks  CNN\r\n</li><li>Panel: Feinstein replacement debate 'is about California raw po…",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMiZGh0dHBzOi8vdGhlaGlsbC5jb20vaG9tZW5ld3Mvc2VuYXRlLzM5NTU1NTAtc2VuYXRlLWdvcC1wb3BzLWZlaW5zdGVpbi1qdWRpY2lhcnktcmVwbGFjZW1lbnQtYmFsbG9vbi_SAWhodHRwczovL3RoZWhpbGwuY29tL2hvbWVuZXdzL3NlbmF0ZS8zOTU1NTUwLXNlbmF0ZS1nb3AtcG9wcy1mZWluc3RlaW4tanVkaWNpYXJ5LXJlcGxhY2VtZW50LWJhbGxvb24vYW1wLw?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T10:00:00Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Alleged U.S. Cult Members Accused of Working for Russian Spies - The Daily Beast",
+            "description": "<ol><li>Alleged U.S. Cult Members Accused of Working for Russian Spies  The Daily Beast\r\n</li><li>Justice Department charges 4 Americans and 3 Russians for attempting to influence elections  Fox News\r\n</li><li>US charges 4 Americans, 3 Russians in election di…",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMia2h0dHBzOi8vd3d3LnRoZWRhaWx5YmVhc3QuY29tLzQtdWh1cnUtbW92ZW1lbnQtbWVtYmVycy1jaGFyZ2VkLXdpdGgtc3ByZWFkaW5nLXJ1c3NpYW4tcHJvcGFnYW5kYS1pbi1mbG9yaWRh0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T21:59:56Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slate Magazine"
+            },
+            "author": "Justin Peters",
+            "title": "The Fox News Trial Got Delayed, but the Circus Arrived on Time",
+            "description": "Waiting—just a little longer—for the network to meet its fate in court.",
+            "url": "https://slate.com/business/2023/04/fox-news-trial-postponed-dominion-delaware-media.html",
+            "urlToImage": "https://compote.slate.com/images/01fad791-497d-45b7-998d-26e5613de4e9.jpeg?crop=5112%2C3408%2Cx0%2Cy0&width=1560",
+            "publishedAt": "2023-04-18T01:34:05Z",
+            "content": "On Monday morning, at approximately 7:25 a.m., I made my way down Market Street in Wilmington, Delaware, to wait in line for a legal showdown I wasnt even sure was going to happen. The night before, … [+6747 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Mike Allen",
+            "title": "Former Rep. Liz Cheney's book called an \"urgent warning\"",
+            "description": "Former Rep. Liz Cheney (R-Wyo.) — vice chair, and key driving force of the House's Jan. 6 committee — will be out Nov. 14 with \"Oath and Honor,\" which publisher Little, Brown calls a memoir, a call to action and \"urgent warning.\"Why it matters: Cheney, daught…",
+            "url": "https://www.axios.com/2023/04/18/liz-cheney-book-plans",
+            "urlToImage": "https://images.axios.com/8g5PZmoyLVYTVHueszWQ03jgAgU=/0x26:7428x4204/1366x768/2023/04/18/1681815337909.jpg",
+            "publishedAt": "2023-04-18T11:02:38Z",
+            "content": "Former Rep. Liz Cheney (R-Wyo.) vice chair, and key driving force of the House's Jan. 6 committee will be out Nov. 14 with \"Oath and Honor,\" which publisher Little, Brown calls a memoir, a call to ac… [+1378 chars]"
+        },
+        {
+            "source": {
+                "id": "axios",
+                "name": "Axios"
+            },
+            "author": "Mike Allen, Eleanor Hawkins",
+            "title": "How Bud Light became a microcosm of America in 2023",
+            "description": "Few events capture so perfectly the cultural, political and social toxicity of America as the Great Bud Light Debacle of 2023.Why it matters: One transgender social-media influencer, Dylan Mulvaney, radically changed beer sales and stock prices — literally ov…",
+            "url": "https://www.axios.com/2023/04/18/bud-light-microcosm-america-2023",
+            "urlToImage": "https://images.axios.com/EERVl1Cp7V3cFelPGBHTQ3nWGUU=/0x0:1920x1080/1366x768/2023/04/17/1681769636103.jpg",
+            "publishedAt": "2023-04-18T10:36:49Z",
+            "content": "Few events capture so perfectly the cultural, political and social toxicity of America as the Great Bud Light Debacle of 2023.\r\nWhy it matters: One transgender social-media influencer, Dylan Mulvaney… [+2784 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Above the Law"
+            },
+            "author": "Liz Dye",
+            "title": "It Was A Game Of Chicken, And Fox Blinked",
+            "description": "KA-ching.\nThe post It Was A Game Of Chicken, And Fox Blinked appeared first on Above the Law.",
+            "url": "https://abovethelaw.com/2023/04/it-was-a-game-of-chicken-and-fox-blinked/",
+            "urlToImage": "https://abovethelaw.com/uploads/2023/03/GettyImages-1131719162-scaled.jpg",
+            "publishedAt": "2023-04-18T21:00:04Z",
+            "content": "(Photo by Kevin Hagen/Getty Images)\r\nThere are a lot of pissed off reporters in Wilmington, Delaware tonight as Dominion Voting Systems settled its defamation suit against Fox News for lies about fra… [+2344 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Above the Law"
+            },
+            "author": "Joe Patrice",
+            "title": "Fox News Put Simpsons Clips On Exhibit List In Case You Were Wondering How Little They Expected To Go To Trial",
+            "description": "'Weaseling out of things is important to learn. It's what separates us from the animals.... Except the weasel.'\nThe post Fox News Put Simpsons Clips On Exhibit List In Case You Were Wondering How Little They Expected To Go To Trial appeared first on Above the…",
+            "url": "https://abovethelaw.com/2023/04/fox-news-simpsons-exhibits-dominion-defamation-trial/",
+            "urlToImage": "https://abovethelaw.com/uploads/2016/02/the-simpsons.jpg",
+            "publishedAt": "2023-04-18T20:18:10Z",
+            "content": "NBC News reports that Fox News included four clips from the Simpsons on its “lengthy” list of defamation trial exhibits. This is a real thing that happened. This means that Fox’s legal team got reame… [+2525 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Above the Law"
+            },
+            "author": "Kathryn Rubino",
+            "title": "Chris Christie Dunks On Ron DeSantis For Getting Out-Lawyered By Disney",
+            "description": "When Mickey Mouse gets the best of you, perhaps you aren't ready for the geopolitical stage.\nThe post Chris Christie Dunks On Ron DeSantis For Getting Out-Lawyered By Disney appeared first on Above the Law.",
+            "url": "https://abovethelaw.com/2023/04/chris-christie-dunks-on-ron-desantis-for-getting-out-lawyered-by-disney/",
+            "urlToImage": "https://abovethelaw.com/uploads/2015/11/Chris-Christie.jpg",
+            "publishedAt": "2023-04-18T19:44:52Z",
+            "content": "Chris Christie (Photo by Steve Pope/Getty)\r\nOne of the more unique turns of politics in the year of our Lord 2023 is the war Florida governor Ron DeSantis declared on Disney. Yes, the same Disney tha… [+2851 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Above the Law"
+            },
+            "author": "Joe Patrice",
+            "title": "‘Actual Malice’ Standard Didn’t Stop Dominion From Suing Fox News Because Sometimes Networks Leave Whole Paper Trails Of Malice",
+            "description": "The high-stakes defamation case against a TV network... no, the other one.\nThe post ‘Actual Malice’ Standard Didn’t Stop Dominion From Suing Fox News Because Sometimes Networks Leave Whole Paper Trails Of Malice appeared first on Above the Law.",
+            "url": "https://abovethelaw.com/2023/04/fox-news-defamation-cbc-actual-malice/",
+            "urlToImage": "https://abovethelaw.com/uploads/2023/04/GettyImages-1257698689.jpg",
+            "publishedAt": "2023-04-18T21:16:18Z",
+            "content": "In all the hubbub surrounding the Fox News trial, people rarely mention that Dominion Voting Systems is originally a Canadian company. While it now has a second headquarters in the United States, no … [+6864 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Brooklyn Vegan"
+            },
+            "author": "Bill Pearis",
+            "title": "Tribeca Festival 2023: Gloria Gaynor, Biz Markie, Tierra Whack, Indigo Girls, more",
+            "description": "The 2023 Tribeca Festival happens June 7-18 and also features films on Milli Vanilli, Alicia Keys, dancehall, legendary NYC concert promoter Ron Delsener, and more.\nContinue reading…",
+            "url": "https://www.brooklynvegan.com/tribeca-festival-2023-gloria-gaynor-biz-markie-tierra-whack-indigo-girls-more/",
+            "urlToImage": "https://townsquare.media/site/838/files/2023/04/attachment-tribeca-festival-2023.jpg?w=1200&h=0&zc=1&s=0&a=t&q=89",
+            "publishedAt": "2023-04-18T16:30:29Z",
+            "content": "The 2023 Tribeca Festival happens June 7 - 18 at movie theaters all over NYC.  This year includes 109 feature films from 127 filmmakers across 36 countries, with 93 world premieres, one international… [+52700 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PC Gamer"
+            },
+            "author": "Kaile Hultner",
+            "title": "The Mageseeker: A League of Legends Story Review",
+            "description": "The wizards are revolting!",
+            "url": "https://www.pcgamer.com/the-mageseeker-a-league-of-legends-story-review/",
+            "urlToImage": "https://cdn.mos.cms.futurecdn.net/aWT2DhXnhFZeFFpM7hALVA-1200-80.png",
+            "publishedAt": "2023-04-18T16:45:35Z",
+            "content": "What is it? A League of Legends spin-off that shares a conceit with Limp Bizkit’s “Break Stuff”.Release date April 18, 2023Expect to pay $30/£24 Developer Digital SunPublisher Riot Forge Reviewed on … [+6514 chars]"
+        },
+        {
+            "source": {
+                "id": "google-news",
+                "name": "Google News"
+            },
+            "author": null,
+            "title": "Business and politics intertwined in spread of soil amendments - The Augusta Chronicle",
+            "description": "Business and politics intertwined in spread of soil amendments  The Augusta Chronicle",
+            "url": "https://consent.google.com/ml?continue=https://news.google.com/rss/articles/CBMikQFodHRwczovL3d3dy5hdWd1c3RhY2hyb25pY2xlLmNvbS9pbi1kZXB0aC9uZXdzL2Vudmlyb25tZW50LzIwMjMvMDQvMTgvYnVzaW5lc3MtYW5kLXBvbGl0aWNzLWludGVydHdpbmVkLWluLXNwcmVhZC1vZi1zb2lsLWFtZW5kbWVudHMvNjk5MTAxNjcwMDcv0gEA?oc%3D5&gl=FR&hl=en-US&cm=2&pc=n&src=1",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T08:10:29Z",
+            "content": "We use cookies and data to<ul><li>Deliver and maintain Google services</li><li>Track outages and protect against spam, fraud, and abuse</li><li>Measure audience engagement and site statistics to unde… [+1131 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Euronews"
+            },
+            "author": null,
+            "title": "Latest news bulletin | April 18th – Morning",
+            "description": "VIDEO : Catch up with the most important stories from around Europe and beyond - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+            "url": "https://www.euronews.com/video/2023/04/18/latest-news-bulletin-april-18th-morning",
+            "urlToImage": "https://static.euronews.com/articles/stories/07/54/16/64/1000x563_screenshot_1200_15_7541664.jpg",
+            "publishedAt": "2023-04-18T05:00:53Z",
+            "content": "Catch up with the most important stories from around Europe and beyond - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.\r\n...More"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Euronews"
+            },
+            "author": null,
+            "title": "Latest news bulletin | April 18th – Evening",
+            "description": "VIDEO : Catch up with the most important stories from around Europe and beyond - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+            "url": "https://www.euronews.com/video/2023/04/18/latest-news-bulletin-april-18th-evening",
+            "urlToImage": "https://static.euronews.com/articles/stories/07/54/36/62/1000x563_screenshot_1200_15_7543662.jpg",
+            "publishedAt": "2023-04-18T16:00:02Z",
+            "content": "Catch up with the most important stories from around Europe and beyond - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.\r\n...More"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Euronews"
+            },
+            "author": null,
+            "title": "Latest news bulletin | April 18th – Midday",
+            "description": "VIDEO : Catch up with the most important stories from around Europe and beyond - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+            "url": "https://www.euronews.com/video/2023/04/18/latest-news-bulletin-april-18th-midday",
+            "urlToImage": "https://static.euronews.com/articles/stories/07/54/22/40/1000x563_screenshot_1200_15_7542240.jpg",
+            "publishedAt": "2023-04-18T10:00:02Z",
+            "content": "Catch up with the most important stories from around Europe and beyond - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.\r\n...More"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Euronews"
+            },
+            "author": "Joshua Askew",
+            "title": "Could Wagner boss Yevgeny Prigozhin replace Vladimir Putin and become Russia's next president?",
+            "description": "Analysts say Prigozhin might - or might not - want Russia's top job: but describe him as entrepreneurial, opportunistic and ruthless.",
+            "url": "https://www.euronews.com/2023/04/18/could-wagner-boss-yevgeny-prigozhin-replace-vladimir-putin-and-become-russias-next-preside",
+            "urlToImage": "https://static.euronews.com/articles/stories/07/45/13/12/1000x563_cmsv2_bfb906b2-f3ee-531c-8d46-ad87af3bcdd7-7451312.jpg",
+            "publishedAt": "2023-04-18T04:30:10Z",
+            "content": "Yevgeny Prigozhin knows how to cause a stir.\r\nHitting the headlines almost daily for his spicy comments about the Ukraine war, the notorious leader of Russia's Wagner Group is allegedly eyeing up pol… [+6951 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Euronews"
+            },
+            "author": "Joshua Askew",
+            "title": "Scottish nationalists 'tearing apart' amid another arrest",
+            "description": "Police in Scotland arrested the SNP treasurer on Tuesday in connection with a long-running probe into party finances.",
+            "url": "https://www.euronews.com/2023/04/18/scottish-nationalists-tearing-apart-amid-another-arrest",
+            "urlToImage": "https://static.euronews.com/articles/stories/07/54/23/40/1000x563_cmsv2_271828fa-4369-5f8f-be76-8bfa2cd74b67-7542340.jpg",
+            "publishedAt": "2023-04-18T09:38:09Z",
+            "content": "Police in Scotland have arrested the treasurer of the Scottish Nationalist Party (SNP) amid a long-running investigation into the party's finances. \r\nColin Beattie, a 71-year-old former banker, was t… [+2021 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Theregister.com"
+            },
+            "author": "Jessica Lyons Hardcastle",
+            "title": "US citizens charged with pushing pro-Kremlin disinfo, election interference",
+            "description": "Also a bunch of Russians plus someone giving free trips to the Motherland Four US citizens have been accused of working on behalf of the Russian government to push pro-Kremlin propaganda and unduly influence elections in Florida.…",
+            "url": "https://www.theregister.com/2023/04/18/americans_russians_doj_disinfomration/",
+            "urlToImage": "https://regmedia.co.uk/2023/04/18/fake_news_shutterstock.jpg",
+            "publishedAt": "2023-04-18T23:35:12Z",
+            "content": "Four US citizens have been accused of working on behalf of the Russian government to push pro-Kremlin propaganda and unduly influence elections in Florida.\r\nAccording to a grand jury indictment [PDF]… [+4620 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Michael Daly",
+            "title": "Inside Jim Jordan’s ‘Charade’ of a Hearing on Violent Crime in NYC",
+            "description": "Shannon Stapleton/Reuters\r\nBack when Jim Jordan was a collegiate wrestling champion, the strategy would have been called a double misdirection duck under.As a Trump-adoring Republican congressman from Ohio and chairman of the House Judiciary Committee, Jordan…",
+            "url": "https://www.thedailybeast.com/inside-jim-jordans-charade-of-a-hearing-on-violent-crime-in-nyc",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1716,w_3051,x_7,y_612/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1681786357/2023-04-17T142022Z_1347030771_RC2EG0ATW258_RTRMADP_3_USA-CONGRESS-NEW-YORK_hbvv9a",
+            "publishedAt": "2023-04-18T02:54:52Z",
+            "content": "Back when Jim Jordan was a collegiate wrestling champion, the strategy would have been called a double misdirection duck under.\r\nAs a Trump-adoring Republican congressman from Ohio and chairman of th… [+5051 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "The Daily Beast",
+            "title": "Clarence Thomas Is a ‘Grifting Faucet You Can’t Turn Off’",
+            "description": "Photo Illustration by Luis G. Rendon/The Daily Beast/Reuters/Pixabay\r\nClarence Thomas’ “grifting” faucet just won’t turn off, says an exasperated Danielle Moodie on this episode of The New Abnormal politics podcast.It was recently revealed that the Supreme Co…",
+            "url": "https://www.thedailybeast.com/clarence-thomas-is-a-grifting-faucet-you-cant-turn-off",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1681782557/041823-tna-hero_pvkyng",
+            "publishedAt": "2023-04-18T08:17:00Z",
+            "content": "Clarence Thomas grifting faucet just wont turn off, says an exasperated Danielle Moodie on this episode of The New Abnormal politics podcast.\r\nIt was recently revealed that the Supreme Court justice … [+2109 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Elijah Manley",
+            "title": "I Lost My House in the Fort Lauderdale Flood While Ron DeSantis Campaigned in New Hampshire",
+            "description": "Photo Illustration by Kelly Caminero / The Daily Beast / Getty\r\nFort Lauderdale last week was inundated with a historic downpour that caused massive floods and catastrophic property damage, upending the lives of thousands of people. According to experts and m…",
+            "url": "https://www.thedailybeast.com/i-lost-my-house-in-fort-lauderdale-flood-as-ron-desantis-campaigned-in-new-hampshire",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1688,w_3000,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1681828468/230417-Manley-DeSantis-tease_uotvan",
+            "publishedAt": "2023-04-18T15:52:09Z",
+            "content": "Fort Lauderdale last week was inundated with a historic downpour that caused massive floods and catastrophic property damage, upending the lives of thousands of people. According to experts and meteo… [+4359 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Beast"
+            },
+            "author": "Jose Pagliery",
+            "title": "Trump’s Fake Georgia Electors Are Now Ratting on Each Other",
+            "description": "Joseph Cress-USA TODAY Sports\r\nThe fake GOP electors in Georgia that former President Donald Trump recruited as part of his failed attempt to stay in power are starting to point fingers at each other, court documents revealed on Tuesday.Fulton County District…",
+            "url": "https://www.thedailybeast.com/trumps-fake-georgia-electors-are-now-ratting-on-each-other",
+            "urlToImage": "https://img.thedailybeast.com/image/upload/c_crop,d_placeholder_euli9k,h_1679,w_2985,x_0,y_0/dpr_2.0/c_limit,w_740/fl_lossy,q_auto/v1681840935/2023-03-19T013139Z_1240772730_MT1USATODAY20265698_RTRMADP_3_NCAA-WRESTLING-NCAA-CHAMPIONSHIPS_fdbvrs",
+            "publishedAt": "2023-04-18T18:02:46Z",
+            "content": "The fake GOP electors in Georgia that former President Donald Trump recruited as part of his failed attempt to stay in power are starting to point fingers at each other, court documents revealed on T… [+4837 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The FADER"
+            },
+            "author": "Raphael Helfand",
+            "title": "Attorneys for Pras launch defense in federal conspiracy case",
+            "description": "The ex-MC claims his dealings with the fugitive Malaysian financier Jho Low were part of his attempt to enter politics and didn’t involve any “James Bond … cloak and dagger stuff,” the AP reports.",
+            "url": "https://www.thefader.com/2023/04/18/the-fugees-pras-defends-himself-in-conspiracy-case",
+            "urlToImage": "https://thefader-res.cloudinary.com/private_images/c_limit,w_1024/c_crop,h_533,w_1024,x_0,y_1,f_auto,q_auto:eco/GettyImages-1479399751_xc7nay/GettyImages-1479399751_xc7nay.jpg",
+            "publishedAt": "2023-04-18T18:37:05Z",
+            "content": "The legal team of former Fugees member Pras Michel has launched his defense against federal criminal conspiracy charges. His trial was originally scheduled to begin early last November but was pushed… [+2151 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Nature.com"
+            },
+            "author": "Jan-Philipp Sasse, Evelina Trutnevyte",
+            "title": "A low-carbon electricity sector in Europe risks sustaining regional inequalities in benefits and vulnerabilities",
+            "description": "The low-carbon electricity sector in Europe can bring overall benefits of new investment, employment, and decreased emissions, but could sustain regional inequalities between Northern and Southern Europe.",
+            "url": "https://www.nature.com/articles/s41467-023-37946-3",
+            "urlToImage": "https://media.springernature.com/m685/springer-static/image/art%3A10.1038%2Fs41467-023-37946-3/MediaObjects/41467_2023_37946_Fig1_HTML.png",
+            "publishedAt": "2023-04-18T00:00:00Z",
+            "content": "<li>The White House. Fact sheet: The American Jobs Plan. https://www.whitehouse.gov/briefing-room/statements-releases/2021/03/31/fact-sheet-the-american-jobs-plan/ (2021).\r\n</li><li>European Commissi… [+18465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crooksandliars.com"
+            },
+            "author": "Chris capper Liebenthal",
+            "title": "Dear Republican Voters",
+            "description": "Politics Girl has some questions for those who vote Republicans. She also nails it when she points out that if the Republican voter is not a racist, or a fascist, or a bigot, or a greed-driven asshat, the fact that they still vote for those who are means that…",
+            "url": "https://crooksandliars.com/2023/04/dear-republican-voters",
+            "urlToImage": "https://crooksandliars.com/files/primary_image/23/04/capture_17.png",
+            "publishedAt": "2023-04-18T03:00:01Z",
+            "content": "Politics Girl has some questions for those who vote Republicans. She also nails it when she points out that if the Republican voter is not a racist, or a fascist, or a bigot, or a greed-driven asshat… [+536 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crooksandliars.com"
+            },
+            "author": "Steve M.",
+            "title": "The 'Ketchup Tosser Versus Pudding Fingers' War Has Begun!",
+            "description": "Axios and other political sites are writing about ads attacking Donald Trump from a pro-Ron DeSantis PAC called Never Back Down. The ads are nothing special:\nAcross the country, men and women are willing to fight alongside Governor Ron DeSantis, because he in…",
+            "url": "https://crooksandliars.com/2023/04/ketchup-tosser-versus-pudding-fingers-war",
+            "urlToImage": "https://crooksandliars.com/files/embeds/2023/04/55189.jpg",
+            "publishedAt": "2023-04-18T20:00:02Z",
+            "content": "Axios and other political sites are writing about ads attacking Donald Trump from a pro-Ron DeSantis PAC called Never Back Down. The ads are nothing special:\r\nAcross the country, men and women are wi… [+1914 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crooksandliars.com"
+            },
+            "author": "Common Dreams",
+            "title": "Qevin Pushes Food Cuts For Debt Limit Increase",
+            "description": "House Speaker Kevin McCarthy is reportedly set to unveil a proposal Monday morning that would slash federal food aid for millions of people as part of Republicans' broader plan to avert a debt ceiling crisis of their own making.\n\n\nBut Democratic lawmakers wer…",
+            "url": "https://crooksandliars.com/2023/04/qevin-pushes-food-cuts-debt-limit-increase",
+            "urlToImage": "https://crooksandliars.com/files/primary_image/23/04/kevin.png",
+            "publishedAt": "2023-04-18T13:15:34Z",
+            "content": "House Speaker Kevin McCarthy is reportedly set to unveil a proposal Monday morning that would slash federal food aid for millions of people as part of Republicans' broader plan to avert a debt ceilin… [+4335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Mark Z. Barabak",
+            "title": "Column: Lefties never liked Dianne Feinstein. Now they're trying to hijack a Senate seat",
+            "description": "The time may soon come for Feinstein to resign. Gov. Gavin Newsom should resist efforts to hijack her Senate seat and instead appoint a caretaker, letting voters choose among would-be successors.",
+            "url": "https://www.latimes.com/politics/story/2023-04-18/dianne-feinstein-senate-gavin-newsom-barbara-lee",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/c7ec538/2147483647/strip/true/crop/6000x3150+0+425/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F11%2Fbb%2F886607a240ed8b19682a717985a6%2F1256030-na-pol-0214-capitol-hill-kkn-21537.jpg",
+            "publishedAt": "2023-04-18T12:00:49Z",
+            "content": "Dianne Feinstein wished to make a statement.\r\nThe former San Francisco mayor was running for California governor and, knowing she would never win the endorsement of the far left, chose instead to sti… [+5340 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Melanie Mason",
+            "title": "How Julie Su's successes and setbacks in California shape her contentious nomination for Labor secretary",
+            "description": "Julie Su, formerly state Labor secretary under Gov. Gavin Newsom, has the strong support of unions and some California businesses. But Republicans and other industry groups are rallying against her confirmation.",
+            "url": "https://www.latimes.com/politics/story/2023-04-18/julie-su-biden-labor-secretary-confirmation-hearing",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/a471f8c/2147483647/strip/true/crop/5715x3000+0+405/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2F84%2Ff6%2Fd4ad9cb64968a67d1ba6bb5eedee%2Fhttps-delivery-gettyimages.com%2Fdownloads%2F1247584322",
+            "publishedAt": "2023-04-18T12:00:50Z",
+            "content": "In the eyes of Julie Sus supporters, President Bidens pick to be the next Labor secretary personifies the promise of California: A daughter of immigrants who made groundbreaking advances in protectin… [+10890 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Los Angeles Times"
+            },
+            "author": "Markus Ziener",
+            "title": "They found work in Russia. Then it became a deadly trap",
+            "description": "Kyrgyzstan citizens working in Russia are being drafted into its military. Some flee back home to avoid the Ukraine war. Others return in body bags.",
+            "url": "https://www.latimes.com/world-nation/story/2023-04-18/russia-migrant-workers-drafted-military-ukraine-war",
+            "urlToImage": "https://ca-times.brightspotcdn.com/dims4/default/e25d8c6/2147483647/strip/true/crop/5446x2859+0+386/resize/1200x630!/quality/80/?url=https%3A%2F%2Fcalifornia-times-brightspot.s3.amazonaws.com%2Fa8%2F4c%2Fc3e97d7e426a9770dc9142a83753%2Fap22086399595981.jpg",
+            "publishedAt": "2023-04-18T10:00:23Z",
+            "content": "BISHKEK, Kyrgyzstan  Rahmatullah, 29, lives in a two-room brick house on the outskirts of the capital city of this onetime Soviet republic state in Central Asia. The road outside is pockmarked by dee… [+7827 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "SNP will be in trouble without action, says Kate Forbes",
+            "description": "The former leadership candidate tells the BBC voters are watching the SNP \"with astonishment\" .",
+            "url": "https://www.bbc.co.uk/news/uk-politics-65312186",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C742/production/_129401015_7987bc487bf5ef945a0101da1e2d00ba70245469.jpg",
+            "publishedAt": "2023-04-18T23:06:27Z",
+            "content": "The SNP \"will be in trouble\" unless the leadership takes \"decisive action\" on its internal affairs, former leadership candidate Kate Forbes has warned. \r\nSpeaking to the BBC, Ms Forbes said people we… [+4328 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Podcasts: Is the 'have-a-go' podcaster era coming to an end?",
+            "description": "Despite financial growth in the industry, the production of new podcasts has faltered.",
+            "url": "https://www.bbc.co.uk/news/entertainment-arts-65299524",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/577F/production/_129399322_7aa9297c-b6e1-4d9f-80f6-77383c808e3b.jpg",
+            "publishedAt": "2023-04-18T23:49:18Z",
+            "content": "In 2023, there are more podcasts out there than ever before, from comedy to news, sport to true crime.\r\nBut despite continued levels of financial growth in the industry, the production of new podcast… [+8304 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Chris Matthews",
+            "title": "BBC host Chris Packham faces called to be sacked after urging followers to flock to London XR demo",
+            "description": "BBC presenter Chris Packham, 61, (pictured) asked his Twitter followers to attend the eco rally from April 21-24, in London , sparking furious backlash online.",
+            "url": "https://www.dailymail.co.uk/news/article-11987223/BBC-host-Chris-Packham-faces-called-sacked-urging-followers-flock-London-XR-demo.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/04/18/20/69972509-0-image-a-13_1681847304190.jpg",
+            "publishedAt": "2023-04-18T20:38:07Z",
+            "content": "BBC presenter Chris Packham is facing calls to be sacked after he urged his followers to join XR eco-zealots in a four-day protest outside Parliament this weekend.\r\nThe nature lover, 61, asked his Tw… [+9025 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "Harry Mount",
+            "title": "HARRY MOUNT: Renaming the Brecon Beacons is a victory for woke philistines",
+            "description": "All my life I've been walking the lush, green valleys of the Brecon Beacons. In winter, I've scaled the red sandstone peaks in howling gales. In boiling heat, I've gasped for water on the slopes.",
+            "url": "https://www.dailymail.co.uk/debate/article-11983599/HARRY-MOUNT-Renaming-Brecon-Beacons-victory-woke-philistines.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/04/18/00/69936337-0-image-a-18_1681775675045.jpg",
+            "publishedAt": "2023-04-18T00:09:35Z",
+            "content": "All my life I've been walking the lush, green valleys of the Brecon Beacons. In winter, I've scaled the red sandstone peaks in howling gales. In boiling heat, I've gasped for water on the slopes of P… [+7610 chars]"
+        },
+        {
+            "source": {
+                "id": "bbc-news",
+                "name": "BBC News"
+            },
+            "author": "https://www.facebook.com/bbcnews",
+            "title": "Bill Clinton optimistic about Stormont restoration",
+            "description": "The former US president says he believes problems can be resolved in the not too distant future.",
+            "url": "https://www.bbc.co.uk/news/uk-northern-ireland-65305937",
+            "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/148AB/production/_129393148_23e553f7f71a286843c06b28de7106b40c34c9f8.jpg",
+            "publishedAt": "2023-04-18T06:20:06Z",
+            "content": "Former US President Bill Clinton has said he is optimistic that the Stormont institutions can be restored.\r\nHe is in Northern Ireland to mark 25 years since the Good Friday Agreement.\r\nSpeaking to BB… [+1635 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Help Net Security"
+            },
+            "author": "Help Net Security",
+            "title": "Wargaming an effective data breach playbook",
+            "description": "A well-tuned data breach playbook can provide security teams with a clear roadmap for working through the breach response process. Foreseeing every possible twist and turn of a breach may be impossible, but through extensive wargaming, teams can simulate dive…",
+            "url": "https://www.helpnetsecurity.com/2023/04/18/effective-data-breach-playbook/",
+            "urlToImage": "https://img.helpnetsecurity.com/wp-content/uploads/2018/06/09100701/chess.jpeg",
+            "publishedAt": "2023-04-18T04:30:13Z",
+            "content": "A well-tuned data breach playbook can provide security teams with a clear roadmap for working through the breach response process. Foreseeing every possible twist and turn of a breach may be impossib… [+4813 chars]"
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Nia Prater",
+            "title": "George Santos Thinks He Can Win?",
+            "description": "Santos, the embattled freshman Republican U.S. representative, announced his plan to run in 2024 despite consistent calls for him to resign and looming legal trouble.",
+            "url": "http://nymag.com/intelligencer/2023/04/george-santos-announces-2024-reelection-bid.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/a8f/821/8062a1e6ff2af7b0ded72dcae604c6037c-george-santos.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-04-18T14:39:31Z",
+            "content": "George Santos is not done yet.\r\nThe freshman Republican U.S. representative announced Monday that he is running for a second term despite his steep unpopularity and looming legal trouble. Santos had … [+2479 chars]"
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Benjamin Hart",
+            "title": "Fox News Settles With Dominion at the Very Last Minute",
+            "description": "On the opening day of a widely anticipated defamation trial pitting Dominion Voting Systems vs. Fox News on Tuesday, Fox announced that it had settled the case.",
+            "url": "http://nymag.com/intelligencer/2023/04/fox-news-settles-with-dominion-at-the-very-last-minute.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/839/d7b/4ca5764f34e23e8e7593b2973429da88ad-fox-news.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-04-18T20:14:00Z",
+            "content": "Fox News settled the defamation case brought by Dominion Voting Systems on the opening day of a trial that promised airing more of the networks dirty laundry, including likely testimony by Rupert Mur… [+2398 chars]"
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Matt Stieb",
+            "title": "It Took a Private Eye to Find Shaq for an FTX Lawsuit",
+            "description": "Shaq Has Finally Been Served in FTX Class Action, Per Lawyer Moskowitz: The NBA star successfully dodged getting served for months in a lawsuit accusing celebs who endorsed FTX of helping to defraud investors.",
+            "url": "http://nymag.com/intelligencer/2023/04/shaquille-oneal-just-got-served-in-an-ftx-fraud-lawsuit.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/d1e/615/855058b799c3519f24b24b3bc3827607ac-GettyImages-1367262136.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-04-18T15:36:01Z",
+            "content": "Its normally not too hard to find Shaquille ONeal. Over seven feet tall and north of 300 pounds during his playing days, he is one of the biggest centers to take the court in the history of the NBA. … [+2395 chars]"
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Matt Stieb",
+            "title": "Oklahoma Sheriff Says Recording About Lynching Is ‘Complex’",
+            "description": "The McCurtain County sheriff’s office, run by Kevin Clardy, may file charges after a reporter recorded the sheriff and other local officials discussing killing Black people and journalists.",
+            "url": "http://nymag.com/intelligencer/2023/04/oklahoma-sheriff-says-recording-about-lynching-is-complex.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/e38/764/99c6252b0575b75a10d5e92864741ace6e-oklahoma.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-04-18T19:24:29Z",
+            "content": "Sheriff Kevin Clardy of McCurtain County, Oklahoma, was among several officials caught on tape saying some aggressively racist and terrible things like complaining that they cant lynch Black people a… [+3386 chars]"
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Will Leitch",
+            "title": "The Sports-Betting Ads Are Awful, and They’re Not Going Away",
+            "description": "Sports-betting ads have unfortunately become ubiquitous during football, basketball, and baseball games, and they’re not going away anytime soon.",
+            "url": "http://nymag.com/intelligencer/2023/04/the-sports-betting-ads-are-awful-and-theyre-not-going-away.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/1c8/4b6/e040292d986840a410505718a265c8d4e2-gambling-ad.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-04-18T13:00:28Z",
+            "content": "Years ago, a friend and I came up with a term for people we encounter who strike us as transparently shady, completely full of shit, or both. We call them Vegas Hotel Ad Guys. The name was inspired b… [+5152 chars]"
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Kevin T. Dugan",
+            "title": "Europe’s Top Central Banker Paints Bleak Picture of West in Decline",
+            "description": "European Central Bank Chief Christine Lagarde painted a bleak picture of the global economy, with the U.S. dollar system fading in importance while China’s Xi Jinping, Russia’s Vladimir Putin, and Brazil’s Lula da Silva gain power",
+            "url": "http://nymag.com/intelligencer/2023/04/christine-lagarde-sees-the-west-in-decline-amid-ukraine-war.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/2e2/027/0315d5edbdaf8895d168b4e5041fc45d29-europe-bank.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-04-18T18:29:06Z",
+            "content": "Russias war in Ukraine today is a hot one, with thousands of casualties on both sides and the Ukrainians deploying missiles, tanks, and arms supplied by western countries, particularly the U.S. But o… [+6282 chars]"
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Freddie deBoer",
+            "title": "Pick a Practical Major, Like French",
+            "description": "Everything we assume about humanities degrees is wrong, starting with the notion that there are some degrees that are safe havens and others that are frivolous.",
+            "url": "http://nymag.com/intelligencer/2023/04/pick-a-practical-major-like-french.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/a45/291/bf876417e1789eee91027028136e74f2a6-college-major-2.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-04-18T12:00:53Z",
+            "content": "We may be on the verge of a recession, or we may already be in one. After decades of slack labor markets and anemic wage growth, for an all-too-brief period the post-COVID-lockdown world saw a tight … [+9310 chars]"
+        },
+        {
+            "source": {
+                "id": "new-york-magazine",
+                "name": "New York Magazine"
+            },
+            "author": "Nia Prater, Matt Stieb, Benjamin Hart",
+            "title": "All the Texts Fox News Didn’t Want You to Read",
+            "description": "The texts Fox News didn’t want you to read. Unsealed documents from Dominion defamation lawsuit against Fox News show executives casting doubt on election-fraud claims, the Arizona call, and Tucker Carlson saying he hates Trump “passionately.”",
+            "url": "http://nymag.com/intelligencer/2023/04/all-the-texts-fox-news-didnt-want-you-to-read.html",
+            "urlToImage": "https://pyxis.nymag.com/v1/imgs/d3f/01c/8b9733a02e065fed36c606058e9ac8ef76-fox-news-dominion.1x.rsocial.w1200.jpg",
+            "publishedAt": "2023-04-18T21:12:00Z",
+            "content": "In 2021, Dominion Voting Systems filed a $1.6 billion defamation lawsuit against Fox News. On Tuesday, just as the trial was getting underway, Fox settled the case with a $787.5 million payment. Domi… [+11504 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Queerty.com"
+            },
+            "author": "Bobby McGuire",
+            "title": "Lancelot serves the lewk, but Aaron Sorkin’s retrofitted ‘Camelot’ misses the magic",
+            "description": "Jordan Danica's eye-catching Lancelot still isn't enough to pull the sword from the stone in this belabored revival.",
+            "url": "https://www.queerty.com/lancelot-serves-the-lewk-but-aaron-sorkins-retrofitted-camelot-misses-the-magic-20230417",
+            "urlToImage": "https://adabgmwwup.cloudimg.io/v7/_queerty-prodweb_/2023/04/lct-camelot-577r2-jordan-donica-as-lancelot-du-lac-in-lincoln-center-theaters-production-of-camelot.-credit-to-joan-marcus-scaled.jpg?&auto=format&auto=compress&crop=faces&fit=crop&gravity=face&w=1200&h=630&force_format=jpeg&wat=1&wat_gravity=southeast&wat_pad=70",
+            "publishedAt": "2023-04-18T00:00:00Z",
+            "content": "Jordan Donica as Lancelot in Lincoln Center Theater’s ‘Camelot.’ Photo by Joan Marcus\r\nThe Rundown\r\nAfter scoring a hat trick with successfully lauded Lincoln Center Theater revivals of South Pacific… [+4322 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TVLine"
+            },
+            "author": "Kimberly Roots",
+            "title": "The Power Showrunner Raelle Tucker Details Dismantling and Rebuilding Amazon's Feminist Saga",
+            "description": "One of the central themes of Naomi Alderman’s 2016 novel The Power is how, sometimes, systems have to be completely rebooted in order for them to work the way they’re supposed to. Similarly, when Raelle Tucker joined Prime Video’s adaptation of the book a few…",
+            "url": "https://tvline.com/2023/04/18/the-power-raelle-tucker-interview-amazon-prime-video/",
+            "urlToImage": "https://tvline.com/wp-content/uploads/2023/04/the-power-season-1-raelle-tucker-interview-dw.jpg?w=630",
+            "publishedAt": "2023-04-18T13:00:18Z",
+            "content": "One of the central themes of Naomi Alderman’s 2016 novel The Power is how, sometimes, systems have to be completely rebooted in order for them to work the way they’re supposed to.\r\nSimilarly, when Ra… [+9784 chars]"
+        }
+    ]
+}

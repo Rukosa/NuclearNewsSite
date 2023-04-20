@@ -1,0 +1,1306 @@
+{
+    "status": "ok",
+    "totalResults": 302,
+    "articles": [
+        {
+            "source": {
+                "id": null,
+                "name": "Mirror Online"
+            },
+            "author": "mirrornews@mirror.co.uk (Will Stewart, Chiara Fiorillo)",
+            "title": "Vladimir Putin orders two 'Bear' nuclear bomber jets to border in chilling threat",
+            "description": "Russian president Vladimir Putin sent two nuclear bombers nicknamed 'Bears' over the Bering and Okhotsk seas as tensions with the West continue over the war in Ukraine",
+            "url": "https://www.mirror.co.uk/news/world-news/vladimir-putin-orders-two-bear-29741435",
+            "urlToImage": "https://i2-prod.mirror.co.uk/incoming/article29741979.ece/ALTERNATES/s1200/0_Tu95-5_east2west-news.jpg",
+            "publishedAt": "2023-04-18T14:32:01Z",
+            "content": "Vladimir Putin has ordered two Tu-95MS nuclear bombers to the border as part of surprise drills believed to be a new show of strength to the West.\r\n Footage shows the noisy \"Bears\" flying over Russia… [+3932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OilPrice.com"
+            },
+            "author": "Michael Kern",
+            "title": "Fears Of An Interest Rate Hike Keep Oil Prices Under Pressure",
+            "description": "Oil prices have started the week trending lower, with positive economic news out of China unable to counter the rising fear of another U.S. interest rate hike. One potentially bullish catalyst for oil prices is the upcoming U.S. inventory data, which is expec…",
+            "url": "https://oilprice.com/Energy/Energy-General/Fears-Of-An-Interest-Rate-Hike-Keep-Oil-Prices-Under-Pressure.html",
+            "urlToImage": "https://d1o9e4un86hhpc.cloudfront.net/images/facebook-share-logo.png",
+            "publishedAt": "2023-04-18T14:30:52Z",
+            "content": "Investors are challenging Exxon Mobil…\r\nFour of the leading oil…\r\nLiving off the grid may…\r\nBy Michael Kern - Apr 18, 2023, 9:30 AM CDTOil prices have started the week trending lower, with positive e… [+5969 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Poland begins building electronic barrier at Russian border to monitor, counteract illegal activity",
+            "description": "A barrier that is equipped with 24-hour monitoring cameras is being built along Poland's land border with Russia. It is being built to monitor and counteract any illegal activity.",
+            "url": "https://www.foxnews.com/world/poland-begins-building-electronic-barrier-russian-border-monitor-counteract-illegal-activity",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/AP23108425555797.jpg",
+            "publishedAt": "2023-04-18T14:28:35Z",
+            "content": "Poland has begun building a state-of-the-art electronic barrier at its land border with Russias Kaliningrad exclave to monitor and counteract any illegal activity, the Polish interior minister said T… [+1308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Resilience"
+            },
+            "author": "Rebecca John",
+            "title": "Industry Knew About Gas Stoves’ Air Pollution Problems in Early 1970s",
+            "description": "The American Gas Association is trying to discredit research on the health impacts of gas stoves today. But newly revealed documents show it was discussing indoor air pollution concerns five decades ago.",
+            "url": "https://www.resilience.org/stories/2023-04-18/industry-knew-about-gas-stoves-air-pollution-problems-in-early-1970s/",
+            "urlToImage": "https://www.resilience.org/wp-content/uploads/2023/04/Cyn_zarco_in_kitchen.jpg",
+            "publishedAt": "2023-04-18T14:22:21Z",
+            "content": "The American Gas Association is trying to discredit research on the health impacts of gas stoves today. But newly revealed documents show it was discussing indoor air pollution concerns five decades … [+17774 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Conversation Africa"
+            },
+            "author": "Hartmut Winkler, Professor of Physics, University of Johannesburg",
+            "title": "South Africa's power outages could reach critical levels this winter - likely scenarios",
+            "description": "South Africa faces the possibility of record electricity shortages and catastrophic scenarios such as a complete grid collapse.",
+            "url": "https://theconversation.com/south-africas-power-outages-could-reach-critical-levels-this-winter-likely-scenarios-203792",
+            "urlToImage": "https://images.theconversation.com/files/521555/original/file-20230418-28-shu8td.jpg?ixlib=rb-1.1.0&q=45&auto=format&w=1356&h=668&fit=crop",
+            "publishedAt": "2023-04-18T14:20:45Z",
+            "content": "A worker leans on a collapsed pylon in Pretoria on April 12, 2023. Ageing infrastructure exacerbates the country's energy supply crisis. Michele Spatari/AFP via Getty Images\r\nOver the past 15 years S… [+6944 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "AllAfrica - Top Africa News"
+            },
+            "author": "publicaffairs@voa.gov (VOA)",
+            "title": "Africa: G7 Foreign Ministers Highlight Concerns About Russia, China",
+            "description": "[VOA] Foreign ministers from the Group of Seven nations condemned Russia's war in Ukraine and highlighted the need to engage with China to address global challenges as they closed their meetings in Japan on Tuesday.",
+            "url": "https://allafrica.com/stories/202304180397.html",
+            "urlToImage": "https://cdn08.allafrica.com/static/images/structure/aa-logo-rgba-no-text-square.png",
+            "publishedAt": "2023-04-18T14:16:56Z",
+            "content": "Foreign ministers from the Group of Seven nations condemned Russia's war in Ukraine and highlighted the need to engage with China to address global challenges as they closed their meetings in Japan o… [+3598 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Associated Press",
+            "title": "Climate activists announce plans to protest in Berlin, will try to 'peacefully bring the city to a standstill'",
+            "description": "A group of German climate activists said at a news conference that it will begin protests on Wednesday. The group wants the German government to do more to curb global warming.",
+            "url": "https://www.foxnews.com/world/climate-activists-announce-plans-protest-berlin-try-peacefully-bring-city-standstill",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/04/AP23108379909743.jpg",
+            "publishedAt": "2023-04-18T14:14:50Z",
+            "content": "Climate activists said Tuesday that they will stage further protests in Berlin in an effort to force the German government into doing more to curb global warming.\r\nThe announcement came as courts are… [+2236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Science Daily"
+            },
+            "author": null,
+            "title": "Teasing strange matter from the ordinary",
+            "description": "In a unique analysis of experimental data, nuclear physicists have made observations of how lambda particles, so-called 'strange matter,' are produced by a specific process called semi-inclusive deep inelastic scattering (SIDIS). What's more, these data hint …",
+            "url": "https://www.sciencedaily.com/releases/2023/04/230418101434.htm",
+            "urlToImage": "https://www.sciencedaily.com/images/scidaily-icon.png",
+            "publishedAt": "2023-04-18T14:14:34Z",
+            "content": "In a unique analysis of experimental data, nuclear physicists have made the first-ever observations of how lambda particles, so-called \"strange matter,\" are produced by a specific process called semi… [+8186 chars]"
+        },
+        {
+            "source": {
+                "id": "la-nacion",
+                "name": "La Nacion"
+            },
+            "author": "Merval Pereira",
+            "title": "Tensión entre Brasil y EE.UU.: ¿Lula está siendo ingenuo o es un megalómano?",
+            "description": "El presidente brasileño fue calificado de ingenuo por tratar de influir en los principales asuntos mundiales",
+            "url": "https://www.lanacion.com.ar/el-mundo/tension-entre-brasil-y-eeuu-lula-esta-siendo-ingenuo-o-es-un-megalomano-nid18042023/",
+            "urlToImage": "https://resizer.glanacion.com/resizer/gKTiQfs4sBIyqbbINPnSPSoEMSs=/768x0/filters:format(webp):quality(80)/cloudfront-us-east-1.images.arcpublishing.com/lanacionar/UL6UHILANJDSTELSH5KMJZGY4I.JPG",
+            "publishedAt": "2023-04-18T14:10:01Z",
+            "content": "RÍO DE JANEIRO. ¿El presidente Lula es ingenuo o megalómano? Para la revista británica The Economist varios diarios de Estados Unidos, la posibilidad de que el presidente brasileño sea ingenuo por tr… [+3719 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "PR Newswire",
+            "title": "COP28 President-Designate concludes high level visit to China with common understanding for step change to help achieve transformational climate progress at COP28",
+            "description": "COP28 President-Designate, Dr. Sultan Al Jaber, has concluded a two-day trip to China, where he held a series of bilateral meetings, including with Ding...",
+            "url": "https://finance.yahoo.com/news/cop28-president-designate-concludes-high-140700402.html",
+            "urlToImage": "https://media.zenfs.com/en/prnewswire.com/f98c16b19d88e091d02a9786ddea49a8",
+            "publishedAt": "2023-04-18T14:07:00Z",
+            "content": "COP28 President-Designate, Dr. Sultan Al Jaber, concluded a two-day trip to China, where he held a series of bilateral meetings, including with Ding Xuexiang, First Vice Premier of China; Zhao Chenxi… [+6998 chars]"
+        },
+        {
+            "source": {
+                "id": "fox-news",
+                "name": "Fox News"
+            },
+            "author": "Thomas Catenacci",
+            "title": "Non-binary ex-Biden official Sam Brinton agrees to undergo mental health evaluation in baggage theft case",
+            "description": "Sam Brinton, who made headlines last year as one of the first-ever non-binary federal officials, agreed to have a mental health evaluation as part of a baggage theft case.",
+            "url": "https://www.foxnews.com/politics/non-binary-ex-biden-official-sam-brinton-agrees-undergo-mental-health-evaluation-baggage-theft-case",
+            "urlToImage": "https://static.foxnews.com/foxnews.com/content/uploads/2023/02/GettyImages-971756924.jpg",
+            "publishedAt": "2023-04-18T14:02:12Z",
+            "content": "Sam Brinton, a non-binary former senior Department of Energy (DOE) official, agreed in court Monday to undergo a mental health evaluation as part of an adult diversion program.\r\nBrinton agreed to ent… [+3366 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "Gary Drenik, Contributor, \n Gary Drenik, Contributor\n https://www.forbes.com/sites/garydrenik/",
+            "title": "How Data Drives Innovation In Healthcare",
+            "description": "The Xcellent Life software and app collect information from wearable devices, other software applications and directly from users, which we analyze to provide insights to where a person’s health is vs where it should be. We help to identify and avoid health r…",
+            "url": "https://www.forbes.com/sites/garydrenik/2023/04/18/how-data-drives-innovation-in-healthcare/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/643864a9e1702ed58421d3e8/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-04-18T14:00:00Z",
+            "content": "HealthTech\r\nJackie Niam - stock.adobe.com\r\nI recently spoke with Victor Brown, founder &amp; CEO of Xcellent Life Inc. In this interview, we explore Victors journey to founding Xcellent Life and how … [+6971 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Plos.org"
+            },
+            "author": "Katherine A. Arstingstall, Sandra J. DeBano, Xiaoping Li, David E. Wooster, Mary M. Rowland, Skyler Burrows, Kenneth Frost",
+            "title": "Investigating the use of pollen DNA metabarcoding to quantify bee foraging and effects of threshold selection",
+            "description": "DNA metabarcoding of pollen is a useful tool for studying bee foraging ecology. However, several questions about this method remain unresolved, including the extent to which sequence read data is quantitative, which type of sequence count removal threshold to…",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0282715",
+            "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0282715.g004&size=inline",
+            "publishedAt": "2023-04-18T14:00:00Z",
+            "content": "Abstract\r\nDNA metabarcoding of pollen is a useful tool for studying bee foraging ecology. However, several questions about this method remain unresolved, including the extent to which sequence read d… [+63014 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Plos.org"
+            },
+            "author": "Tamylin Kaori Ishizuka, Erick Mauricio Goes Cordeiro, Alessandro Alves-Pereira, Carlos Eduardo de Araújo Batista, María Gabriela Murúa, José Baldin Pinheiro, Amit Sethi, Rodney N. Nagoshi, Josemar Foresti, Maria Imaculada Zucchi",
+            "title": "Population genomics of fall armyworm by genotyping-by-sequencing: Implications for pest management",
+            "description": "The fall armyworm (FAW), Spodoptera frugiperda, is a significant pest of many crops in the world and it is native to the Americas, where the species has shown the ability to rapidly evolve resistance to insecticides and transgenic plants. Despite the importan…",
+            "url": "https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0284587",
+            "urlToImage": "https://journals.plos.org/plosone/article/figure/image?id=10.1371/journal.pone.0284587.g006&size=inline",
+            "publishedAt": "2023-04-18T14:00:00Z",
+            "content": "Citation: Ishizuka TK, Cordeiro EMG, Alves-Pereira A, de Araújo Batista CE, Murúa MG, Pinheiro JB, et al. (2023) Population genomics of fall armyworm by genotyping-by-sequencing: Implications for pes… [+26881 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "Townhall",
+            "title": "Thieving 'Non-Binary' Biden Official Was Still Paid Taxpayer-Funded Six-Figure Salary While Facing Felony",
+            "description": "Cross-dressing former Biden official Samuel Otis Brinton, the \"non-binary\" nuclear waste chief thrice-accused of stealing women's clothes, took home taxpayer-funded paychecks from his six-figure salary while on administrative leave. Townhall can exclusively r…",
+            "url": "https://freerepublic.com/focus/f-news/4146428/posts",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T13:57:41Z",
+            "content": "Skip to comments.\r\nThieving 'Non-Binary' Biden Official Was Still Paid Taxpayer-Funded Six-Figure Salary While Facing FelonyTownhall ^\r\n | April 18, 2023\r\n | Mia Cathell\r\nPosted on 04/18/2023 6:57:41… [+2133 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Haaretz"
+            },
+            "author": "The Associated Press",
+            "title": "China offers to facilitate Israel-Palestinian peace talks",
+            "description": "'It's never too late,' the Chinese Foreign Ministry said after the minister spoke to his Israeli and Palestinian counterparts. Israel's Foreign Ministry made no mention of the Chinese offer in a statement confirming the call",
+            "url": "https://www.haaretz.com/israel-news/2023-04-18/ty-article/china-offers-to-facilitate-israel-palestinian-peace-talks/00000187-9486-dc6c-a5ff-ffd7a12e0000",
+            "urlToImage": "https://img.haarets.co.il/bs/00000187-9496-dc6c-a5ff-ffd7a6ea0000/f5/04/eb25baaa435bbb202b9a6bd6e961/50241-1.jpg?precrop=2400,1395,x0,y19&height=630&width=1200",
+            "publishedAt": "2023-04-18T13:57:38Z",
+            "content": "China's foreign minister told his Israeli and Palestinian counterparts that his country is ready to help facilitate peace talks between the two sides, in its latest effort at mediation in the region.… [+3035 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Autoblog"
+            },
+            "author": "Insider",
+            "title": "Advanced AI keeps Sundar Pichai up at night and makes Sam Altman a bit scared. Here's why some tech execs are wary of its potential dangers.",
+            "description": "Filed under:\n Toyota,SUV,Off-Road Vehicles,Driveway Tests\n Continue reading Advanced AI keeps Sundar Pichai up at night and makes Sam Altman a bit scared. Here's why some tech execs are wary of its potential dangers.\nAdvanced AI keeps Sundar Pichai up at nigh…",
+            "url": "https://www.autoblog.com/2023/04/18/advanced-ai-keeps-sundar-pichai-up-at-night-and-makes-sam-altman-a-bit-scared-here-s-why-some-tech-execs-are-wary-of-its-potential-dangers/",
+            "urlToImage": "https://o.aolcdn.com/images/dims3/GLOB/legacy_thumbnail/1062x597/format/jpg/quality/100/https://media.zenfs.com/en/insider_articles_922/ee1ab7aa63433f119d48e0fb3d971a54",
+            "publishedAt": "2023-04-18T13:55:00Z",
+            "content": "Sam Altman and Sundar Pichai. \r\n Ramin Talaie/Getty Images and Kimberly White/Getty Images for GLAAD\r\nThe tech world's obsession with generative artificial intelligence shows no signs of cooling off.… [+3983 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "DW (English)"
+            },
+            "author": "Jens Thurau, Volker Witting",
+            "title": "Germany keeps searching for a common China strategy",
+            "description": "Following French and German visits to China, it remains unclear if the European Union — or even Germany itself — can speak in one voice on China. Foreign Minister Annalena Baerbock is calling for a \"clear line.\"",
+            "url": "https://www.dw.com/en/germany-keeps-searching-for-a-common-china-strategy/a-65360892",
+            "urlToImage": "https://static.dw.com/image/65310400_6.jpg",
+            "publishedAt": "2023-04-18T13:49:00Z",
+            "content": "It's been another busy week for Germany's foreign minister, Annalena Baerbock. The Green Party official is one of the country's leading voices calling for a robust policy towards China. Meeting with … [+6335 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Daily Mail"
+            },
+            "author": "James Callery, Afp",
+            "title": "G7 condemns China's 'militarisation activities' - sparking furious reaction from Beijing",
+            "description": "After two days of talks in Karuizawa, Japan, G7 foreign ministers offered a united front on China, insisting that their Taiwan policy was unchanged despite recent comments from France's president.",
+            "url": "https://www.dailymail.co.uk/news/article-11985921/G7-condemns-Chinas-militarisation-activities-sparking-furious-reaction-Beijing.html",
+            "urlToImage": "https://i.dailymail.co.uk/1s/2023/04/18/14/69959285-0-image-a-68_1681825674456.jpg",
+            "publishedAt": "2023-04-18T13:44:19Z",
+            "content": "G7 foreign ministers warned today that it would inflict 'severe costs' on those helping Russia wage war in Ukraine and put Beijing on notice over its 'militarisation activities' in the South China Se… [+4918 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mit.edu"
+            },
+            "author": "Zach Winn | MIT News Office",
+            "title": "MIT Energy Conference grapples with geopolitics",
+            "description": "The 2023 student-run MIT Energy Conference brought together energy leaders from around the world, with an eye toward the war in Ukraine and other international developments.",
+            "url": "https://news.mit.edu/2023/mit-energy-conference-grapples-geopolitics-0418",
+            "urlToImage": "https://news.mit.edu/sites/default/files/images/202304/MIT-Energy-Conference-01-press.jpg",
+            "publishedAt": "2023-04-18T13:43:00Z",
+            "content": "As Russias war in Ukraine rages on, this years MIT Energy Conference spotlighted the role of geopolitics in the worlds efforts to lower greenhouse gas emissions and mitigate the worst effects of clim… [+7412 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Frances Martel, Frances Martel",
+            "title": "Spurned by Biden, Israel Asks China to Help Contain Iran Threat",
+            "description": "Israeli Foreign Minister Eli Cohen asked China to \"influence\" Iran to cease developing its illegal nuclear weapons program, inviting Beijing to play a bigger role in the Middle East as relations with the United States under leftist President Joe Biden have de…",
+            "url": "https://www.breitbart.com/middle-east/2023/04/18/spurned-by-biden-israel-asks-china-to-help-contain-iran-threat/",
+            "urlToImage": "https://media.breitbart.com/media/2023/04/Eli-Cohen-640x335.jpg",
+            "publishedAt": "2023-04-18T13:42:29Z",
+            "content": "Israeli Foreign Minister Eli Cohen asked China to “influence” Iran to cease developing its illegal nuclear weapons program, inviting Beijing to play a bigger role in the Middle East as relations with… [+6710 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "Reuters",
+            "title": "US natgas futures up 1% to 4-week high on output decline, cool weather",
+            "description": "U.S. natural gas futures edged up about 1% to a four-week high on Tuesday on a preliminary daily output decline and forecasts for more cool weather and heating demand over the next week or so. Prices also gained support as the amount of gas flowing to U.S. li…",
+            "url": "https://finance.yahoo.com/news/us-natgas-futures-1-4-133414406.html",
+            "urlToImage": "https://s.yimg.com/cv/apiv2/social/images/yahoo_default_logo-1200x1200.png",
+            "publishedAt": "2023-04-18T13:34:14Z",
+            "content": "April 18 (Reuters) - U.S. natural gas futures edged up about 1% to a four-week high on Tuesday on a preliminary daily output decline and forecasts for more cool weather and heating demand over the ne… [+5421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "COP28 President-Designate concludes high level visit to China with common understanding for step change to help achieve transformational climate progress at COP28",
+            "description": "COP28 President-Designate, Dr. Sultan Al Jaber, concluded a two-day trip to China, where he held a series of bilateral meetings, including with Ding Xuexiang, First Vice Premier of China; Zhao Chenxin, Vice Chairman of the NDRC; HE Huang Runqiu, Minister of E…",
+            "url": "https://www.prnewswire.com/news-releases/cop28-president-designate-concludes-high-level-visit-to-china-with-common-understanding-for-step-change-to-help-achieve-transformational-climate-progress-at-cop28-812740292.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2056955/COP28_China_Visit.jpg?p=facebook",
+            "publishedAt": "2023-04-18T13:34:00Z",
+            "content": "COP28 President-Designate, Dr. Sultan Al Jaber, concluded a two-day trip to China, where he held a series of bilateral meetings, including with Ding Xuexiang, First Vice Premier of China; Zhao Chenxi… [+6549 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Balakot operation showed effectiveness of air power in 'no war, no peace' scenario: IAF chief",
+            "description": "India's Balakot operation in 2019 demonstrated that given the political will, aerospace power can be effectively used in a 'no war, no peace' scenario, under a nuclear overhang, without escalating the situation into a full-blown conflict, Air Chief Marshal VR…",
+            "url": "https://timesofindia.indiatimes.com/india/balakot-operation-showed-effectiveness-of-air-power-in-no-war-no-peace-scenario-iaf-chief/articleshow/99590024.cms",
+            "urlToImage": "https://static.toiimg.com/thumb/msid-99590299,width-1070,height-580,imgsize-494672,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg",
+            "publishedAt": "2023-04-18T13:32:18Z",
+            "content": "<ul><li>News</li>\r\n<li>India News</li>\r\n<li>Balakot operation showed effectiveness of air power in 'no war, no peace' scenario: IAF chief</li></ul>\r\nFOLLOW US ON SOCIAL MEDIAFacebookTwitterInstagramK… [+12 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Haaretz"
+            },
+            "author": "The Associated Press",
+            "title": "Iran renews threats against Israel during Army Day parade",
+            "description": "Speaking at a ceremony, the Iranian president sad ‘the Zionist regime has received the message that any tiny action against (our) country will prompt a harsh answer...[and] will accompany the destruction of Haifa and Tel Aviv’",
+            "url": "https://www.haaretz.com/middle-east-news/2023-04-18/ty-article/iran-renews-threats-against-israel-during-army-day-parade/00000187-9490-dc6c-a5ff-ffd1a88d0000",
+            "urlToImage": "https://img.haarets.co.il/bs/00000187-94a9-d484-adef-f6ad3b9b0001/5f/65/4687f29445dbb9e6b051aafa8a6b/92514.jpg?precrop=2200,1279,x0,y0&height=630&width=1200",
+            "publishedAt": "2023-04-18T13:32:01Z",
+            "content": "Irans President on Tuesday reiterated threats against Israel while marking the countrys annual Army Day, though he stayed away from criticizing Saudi Arabia as Tehran seeks a détente with the kingdom… [+2486 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "Nasser Karimi",
+            "title": "Iran renews threats against Israel during Army Day parade",
+            "description": "Iran’s president has reiterated threats against Israel while marking the country’s annual Army Day",
+            "url": "https://www.independent.co.uk/news/ebrahim-raisi-ap-saudi-arabia-iran-tehran-b2321903.html",
+            "urlToImage": "https://static.independent.co.uk/2023/04/18/14/Iran_05784.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-04-18T13:30:16Z",
+            "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nIran's president Tuesday reiterated threats against … [+1959 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "OilPrice.com"
+            },
+            "author": "Tsvetana Paraskova",
+            "title": "China And India Buy Russian Crude Above The Price Cap",
+            "description": "China and India, the main customers of Russia's crude oil in recent months, have snapped up in April Russian cargoes at prices above the $60 per barrel price cap set by the G7, Reuters reports, citing traders and its own calculations. Russia's flagship crude …",
+            "url": "https://oilprice.com/Latest-Energy-News/World-News/China-And-India-Buy-Russian-Crude-Above-The-Price-Cap.html",
+            "urlToImage": "https://d32r1sh890xpii.cloudfront.net/news/718x300/2023-04-18_49vrehladr.jpg",
+            "publishedAt": "2023-04-18T13:30:00Z",
+            "content": "Germanys decision to end nuclear…\r\nTexas lawmakers plan s to…\r\nBy Tsvetana Paraskova - Apr 18, 2023, 8:30 AM CDTChina and India, the main customers of Russia's crude oil in recent months, have snappe… [+1894 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "PR Newswire",
+            "title": "COP28 President-Designate concludes high level visit to China with common understanding for step change to help achieve transformational climate progress at COP28",
+            "description": "COP28 President-Designate, Dr. Sultan Al Jaber, has concluded a two-day trip to China, where he held a series of bilateral meetings, including with Ding...",
+            "url": "https://finance.yahoo.com/news/cop28-president-designate-concludes-high-132900395.html",
+            "urlToImage": "https://media.zenfs.com/en/prnewswire.com/f98c16b19d88e091d02a9786ddea49a8",
+            "publishedAt": "2023-04-18T13:29:00Z",
+            "content": "COP28 President-Designate, Dr. Sultan Al Jaber, concluded a two-day trip to China, where he held a series of bilateral meetings, including with Ding Xuexiang, First Vice Premier of China; Zhao Chenxi… [+7047 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Globalresearch.ca"
+            },
+            "author": "Ahmed Adel",
+            "title": "US Treasury Secretary Acknowledges Sanctions on Russia Contributes to De-dollarisation",
+            "description": "All Global Research articles can be read in 51 languages by activating the Translate Website button below the author’s name. To receive Global Research’s Daily Newsletter (selected articles), click here. Click the share button above to email/forward this arti…",
+            "url": "https://www.globalresearch.ca/us-treasury-secretary-acknowledges-sanctions-russia-contributes-to-de-dollarisation/5816285",
+            "urlToImage": "https://www.globalresearch.ca/wp-content/uploads/2020/06/US-Dollar-in-Decline.jpg",
+            "publishedAt": "2023-04-18T13:27:53Z",
+            "content": "All Global Research articles can be read in 51 languages by activating the Translate Website button below the authors name.Click the share button above to email/forward this article to your friends a… [+5465 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Sputniknewsbrasil.com.br"
+            },
+            "author": "Sputnik Brasil",
+            "title": "Presidente iraniano adverte sobre 'destruição de Haifa e Tel Aviv' se Israel agir contra o Irã",
+            "description": "O presidente do Irã, Ebrahim Raisi, alertou nesta terça-feira (18) que qualquer \"mínima ação\" de Israel contra seu país verá \"a destruição de Haifa e Tel Aviv\".",
+            "url": "https://sputniknewsbrasil.com.br/20230418/presidente-iraniano-adverte-sobre-destruicao-de-haifa-e-tel-aviv-se-israel-agir-contra-o-ira-28493061.html",
+            "urlToImage": "https://cdn1.sputniknewsbrasil.com.br/images/sharing/article/por/28493061.jpg?178875161681824381",
+            "publishedAt": "2023-04-18T13:26:21Z",
+            "content": "Notícias sobre eventos de todo o mundo. Siga informado sobre tudo o que se passa em diferentes regiões do planeta.\r\nhttps://sputniknewsbrasil.com.br/20230418/presidente-iraniano-adverte-sobre-destrui… [+3803 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Star Online"
+            },
+            "author": "Gabriela Baczynska",
+            "title": "Poland proposes fresh EU sanctions against Russia over Ukraine war",
+            "description": "BRUSSELS (Reuters) - Poland this month presented a proposal for a new set of sanctions against Russia for waging war against Ukraine, according to a document seen by Reuters on Tuesday, including a ban on pipeline oil and diamond imports. Read full story",
+            "url": "https://www.thestar.com.my/news/world/2023/04/18/poland-proposes-fresh-eu-sanctions-against-russia-over-ukraine-war",
+            "urlToImage": "https://apicms.thestar.com.my/uploads/images/2023/04/18/2032953.jpg",
+            "publishedAt": "2023-04-18T13:21:00Z",
+            "content": "BRUSSELS (Reuters) - Poland this month presented a proposal for a new set of sanctions against Russia for waging war against Ukraine, according to a document seen by Reuters on Tuesday, including a b… [+1949 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "COP28 President-Designate concludes high level visit to China with common understanding for step change to help achieve transformational climate progress at COP28",
+            "description": "COP28 President-Designate, Dr. Sultan Al Jaber, concluded a two-day trip to China, where he held a series of bilateral meetings, including with Ding Xuexiang, First Vice Premier of China; Zhao Chenxin, Vice Chairman of the NDRC; HE Huang Runqiu, Minister of E…",
+            "url": "https://www.prnewswire.com/news-releases/cop28-president-designate-concludes-high-level-visit-to-china-with-common-understanding-for-step-change-to-help-achieve-transformational-climate-progress-at-cop28-301800390.html",
+            "urlToImage": "https://mma.prnewswire.com/media/2056955/COP28_China_Visit.jpg?p=facebook",
+            "publishedAt": "2023-04-18T13:20:00Z",
+            "content": "COP28 President-Designate, Dr. Sultan Al Jaber, concluded a two-day trip to China, where he held a series of bilateral meetings, including with Ding Xuexiang, First Vice Premier of China; Zhao Chenxi… [+6549 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "PR Newswire",
+            "title": "COP28 President-Designate concludes high level visit to China with common understanding for step change to help achieve transformational climate progress at COP28",
+            "description": "COP28 President-Designate, Dr. Sultan Al Jaber, has concluded a two-day trip to China, where he held a series of bilateral meetings, including with Ding...",
+            "url": "https://finance.yahoo.com/news/cop28-president-designate-concludes-high-132000582.html",
+            "urlToImage": "https://media.zenfs.com/en/prnewswire.com/f98c16b19d88e091d02a9786ddea49a8",
+            "publishedAt": "2023-04-18T13:20:00Z",
+            "content": "COP28 President-Designate, Dr. Sultan Al Jaber, concluded a two-day trip to China, where he held a series of bilateral meetings, including with Ding Xuexiang, First Vice Premier of China; Zhao Chenxi… [+6981 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "John Feng",
+            "title": "G7 Diplomats Target China With List of Shared Concerns",
+            "description": "G7 foreign ministers concluded three days of meetings in Japan on Tuesday.",
+            "url": "https://www.newsweek.com/g7-japan-foreign-ministers-communique-china-russia-ukraine-war-1795032",
+            "urlToImage": "https://d.newsweek.com/en/full/2223682/g7-diplomats-rebuke-china-communique.jpg",
+            "publishedAt": "2023-04-18T13:17:52Z",
+            "content": "Top diplomats from the Group of Seven industrial powers voiced shared concerns on Tuesday about China's expansionist tendencies in Asia, even as they sought to present a united front on Russia's dest… [+5274 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "TMZ"
+            },
+            "author": "TMZ Staff",
+            "title": "'Vanderpump Rules' Tom Sandoval Goes Nuclear on Arizona Resort",
+            "description": "When it rains it pours and, for Tom Sandoval, that just means more and more drama. The \"Vanderpump Rules\" star took his seemingly never-ending cheating saga to Instagram Monday night and blasted Miraval Resorts and Spas for suggesting he would be…",
+            "url": "https://www.tmz.com/2023/04/18/vanderpump-rules-tom-sandoval-arizona-miraval-resorts-cheating/",
+            "urlToImage": "https://imagez.tmz.com/image/24/16by9/2023/04/18/24c668c91d6641a0a9f37a9269b2d92f_xl.jpg",
+            "publishedAt": "2023-04-18T13:17:10Z",
+            "content": "When it rains it pours and, for Tom Sandoval, that just means more and more drama.\r\nThe \"Vanderpump Rules\" star took his seemingly never-ending cheating saga to Instagram Monday night and blasted Mir… [+2022 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "PRNewswire"
+            },
+            "author": null,
+            "title": "C5 Capital Appoints Pete Cooper as Managing Partner and Global Head of Partnerships",
+            "description": "Former Deputy Director of Cyber Defense in the Cabinet Office of the U.K will Lead the Firm's London Office LONDON, April 18, 2023 /PRNewswire/ -- C5 Capital, a specialist venture capital firm that invests in cybersecurity, space, and advanced nuclear energy,…",
+            "url": "https://www.prnewswire.com/news-releases/c5-capital-appoints-pete-cooper-as-managing-partner-and-global-head-of-partnerships-301800386.html",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T13:17:00Z",
+            "content": "Former Deputy Director of Cyber Defense in the Cabinet Office of the U.K will Lead the Firm's London Office \r\nLONDON, April 18, 2023 /PRNewswire/ -- C5 Capital, a specialist venture capital firm that… [+2916 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "PR Newswire",
+            "title": "C5 Capital Appoints Pete Cooper as Managing Partner and Global Head of Partnerships",
+            "description": "C5 Capital, a specialist venture capital firm that invests in cybersecurity, space, and advanced nuclear energy, is pleased to announce the appointment of...",
+            "url": "https://finance.yahoo.com/news/c5-capital-appoints-pete-cooper-131700221.html",
+            "urlToImage": "https://media.zenfs.com/en/prnewswire.com/9fdb3c4765b51e130fb6364ead7aa31c",
+            "publishedAt": "2023-04-18T13:17:00Z",
+            "content": "Former Deputy Director of Cyber Defense in the Cabinet Office of the U.K will Lead the Firm's London Office\r\nLONDON, April 18, 2023 /PRNewswire/ -- C5 Capital, a specialist venture capital firm that … [+3076 chars]"
+        },
+        {
+            "source": {
+                "id": "rt",
+                "name": "RT"
+            },
+            "author": "RT en Español\n , RT en Español",
+            "title": "Blinken habla del \"enorme sufrimiento\" de japoneses por los ataques nucleares en 1945 sin mencionar al responsable",
+            "description": "El 6 y 9 de agosto de 1945, el Ejército de EE.UU. lanzó bombas atómicas sobre Hiroshima y Nagasaki, matando a 140.000 personas en la primera ciudad y 74.000 en la segunda.",
+            "url": "https://actualidad.rt.com/actualidad/464264-blinken-enorme-sufrimiento-japoneses-ataques-nucleares-responsable",
+            "urlToImage": "https://mf.b37mrtl.ru/actualidad/public_images/2023.04/article/643e7a3559bf5b56fd6623d5.jpg",
+            "publishedAt": "2023-04-18T13:10:54Z",
+            "content": "Durante una rueda prensa este martes, en el marco de la cumbre de cancilleres del Grupo de los Siete (G7) en la ciudad japonesa de Karuizawa, el secretario de Estado estadounidense, Antony Blinken, h… [+1421 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Activistpost.com"
+            },
+            "author": "Activist Post",
+            "title": "Your Guide to 5th-Generation Warfare",
+            "description": "By The Corbett Report We are in the middle of a world-changing war. This is no ordinary war, however. Most of the victims of this...\nYour Guide to 5th-Generation Warfare",
+            "url": "https://www.activistpost.com/2023/04/your-guide-to-5th-generation-warfare.html",
+            "urlToImage": "https://www.activistpost.com/wp-content/uploads/2023/04/5th-generation-warfare.jpg",
+            "publishedAt": "2023-04-18T13:02:05Z",
+            "content": "By The Corbett Report\r\nWe are in the middle of a world-changing war. This is no ordinary war, however.\r\nMost of the victims of this warfare aren’t even able to identify it as war, nor do they underst… [+27051 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "The University of Maryland Medical Center Chooses SOPHiA GENETICS Technology",
+            "description": "(marketscreener.com) \nSOPHiA GENETICS supports The University of Maryland Medical Center to advance their rare disease research\n\nhttps://www.marketscreener.com/quote/stock/SOPHIA-GENETICS-SA-125041253/news/The-University-of-Maryland-Medical-Center-Chooses-SOP…",
+            "url": "https://www.marketscreener.com/quote/stock/SOPHIA-GENETICS-SA-125041253/news/The-University-of-Maryland-Medical-Center-Chooses-SOPHiA-GENETICS-Technology-43532029/?utm_medium=RSS&utm_content=20230418",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2023-04-18T13:02:01Z",
+            "content": "SOPHiA GENETICS (Nasdaq: SOPH), a cloud-native software company in the healthcare space and a leader in data-driven medicine, today announced that the University of Maryland Medical Center (UMMC) is … [+5557 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Discover Magazine"
+            },
+            "author": "Stephen C. George",
+            "title": "How Old Is the Sun?",
+            "description": "The Sun has warmed our world for billions of years and made life possible. But how old is the sun exactly? And how long will the sun last?",
+            "url": "https://www.discovermagazine.com/the-sciences/how-old-is-the-sun",
+            "urlToImage": "https://images.ctfassets.net/cnu0m8re1exe/1pKRFocQAXD8HTfa1phZzq/f6748b5356cc916052682202abdbeb9e/shutterstock_1096278443.jpg",
+            "publishedAt": "2023-04-18T13:00:00Z",
+            "content": "It all started with a cloud of dust and gas.\r\nLong before the Earth or anything else in the solar system existed indeed, before there even was a solar system there was a massive molecular cloud. Dark… [+4282 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Slashdot.org"
+            },
+            "author": "BeauHD",
+            "title": "Scientists Discover 1st 'Neutron-Rich' Isotope of Uranium Since 1979",
+            "description": "An anonymous reader quotes a report from Live Science: Scientists have discovered and synthesized an entirely new isotope of the highly radioactive element uranium. But it might last only 40 minutes before decaying into other elements. The new isotope, uraniu…",
+            "url": "https://science.slashdot.org/story/23/04/18/0644253/scientists-discover-1st-neutron-rich-isotope-of-uranium-since-1979",
+            "urlToImage": "https://a.fsdn.com/sd/topics/science_64.png",
+            "publishedAt": "2023-04-18T13:00:00Z",
+            "content": "Scientists have discovered and synthesized an entirely new isotope of the highly radioactive element uranium. But it might last only 40 minutes before decaying into other elements. The new isotope, u… [+1516 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Rigzone"
+            },
+            "author": "Jennifer A Dlouhy",
+            "title": "Pentagon Sounds Alarm Over Biden Plan for Offshore Wind Sites",
+            "description": "The Pentagon is sounding alarms over Biden administration plans to advance offshore wind projects along the central Atlantic U.S. coast.",
+            "url": "https://www.rigzone.com/news/wire/pentagon_sounds_alarm_over_biden_plan_for_offshore_wind_sites-18-apr-2023-172558-article/",
+            "urlToImage": "https://images.rigzone.com/images/news/articles/Pentagon-Sounds-Alarm-Over-Biden-Plan-for-Offshore-Wind-Sites-172558-582x327.png",
+            "publishedAt": "2023-04-18T13:00:00Z",
+            "content": "The Pentagon is sounding alarms over Biden administration plans to advance offshore wind projects along the central Atlantic US coast, warning that almost all of the new terrain eyed for development … [+6633 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "AP",
+            "title": "'No impunity': G7 vows tough, unified stance on Russia-Ukraine war",
+            "description": "Top diplomats from the Group of Seven wealthy democracies vowed a unified front against Chinese threats to Taiwan and Russia's war of aggression in Ukraine, saying at the close of their meetings Tuesday that they were committed to boosting and enforcing tough…",
+            "url": "https://www.business-standard.com/world-news/no-impunity-g7-vows-tough-unified-stance-on-russia-ukraine-war-123041800787_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-12/17/full/1671261824-7457.jpg",
+            "publishedAt": "2023-04-18T12:45:25Z",
+            "content": "Top diplomats from the Group of Seven wealthy democracies vowed a unified front against Chinese threats to Taiwan and Russia's war of aggression in Ukraine, saying at the close of their meetings Tues… [+5953 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Business Standard"
+            },
+            "author": "Press Trust of India",
+            "title": "Balakot ops showed air power effectiveness in no war, no peace: IAF chief",
+            "description": "Air Chief Marshal VR Chaudhari on Tuesday highlighted the critical importance of India's air power considering the nature of its adversaries and said the Balakot operations of 2019 demonstrated its effectiveness even in a 'no war, no peace' scenario and under…",
+            "url": "https://www.business-standard.com/india-news/balakot-ops-showed-air-power-effectiveness-in-no-war-no-peace-iaf-chief-123041800706_1.html",
+            "urlToImage": "https://bsmedia.business-standard.com/_media/bs/img/article/2022-07/18/full/1658123915-4876.jpg",
+            "publishedAt": "2023-04-18T12:43:41Z",
+            "content": "Air Chief Marshal VR Chaudhari on Tuesday highlighted the critical importance of India's air power considering the nature of its adversaries and said the Balakot operations of 2019 demonstrated its e… [+3071 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lse.ac.uk"
+            },
+            "author": null,
+            "title": "Endogenous causes, risks perception and policy responses to the Fukushima disaster–political ecology comments",
+            "description": "Schneider, Nicolas (2023) Endogenous causes, risks perception and policy responses to the Fukushima disaster–political ecology comments. International Journal of Disaster Risk Reduction, 90. ISSN 2212-4209 (In Press)",
+            "url": "http://eprints.lse.ac.uk/118657/",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T12:36:03Z",
+            "content": "Schneider, Nicolas \r\n(2023)\r\nEndogenous causes, risks perception and policy responses to the Fukushima disasterpolitical ecology comments.\r\nInternational Journal of Disaster Risk Reduction, 90.\r\nISSN… [+2308 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Marketscreener.com"
+            },
+            "author": "MarketScreener",
+            "title": "TeraWulf Announces Participation in Upcoming Investor Events",
+            "description": "(marketscreener.com) \nTeraWulf Inc. , owners and operators of vertically integrated, domestic bitcoin mining facilities powered by more than 91% zero-carbon energy, today announced its participation in the following upcoming investor events.\n\n\nSequire Investo…",
+            "url": "https://www.marketscreener.com/quote/stock/TERAWULF-INC-130728146/news/TeraWulf-Announces-Participation-in-Upcoming-Investor-Events-43531674/?utm_medium=RSS&utm_content=20230418",
+            "urlToImage": "https://www.marketscreener.com/images/twitter_MS_fdblanc.png",
+            "publishedAt": "2023-04-18T12:34:02Z",
+            "content": "TeraWulf Inc. (Nasdaq: WULF) (“TeraWulf” or the “Company”), owners and operators of vertically integrated, domestic bitcoin mining facilities powered by more than 91% zero-carbon energy, today announ… [+6493 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Freerepublic.com"
+            },
+            "author": "American Thinker",
+            "title": "The Stock Market Crash Will Occur Right After the Debt Ceiling Vote",
+            "description": "On April 26, 2021, we predicted the current inflation before it began. Now we are predicting an upcoming stock market crash, and we even know the date that it will take place. Interviewer Margaret Brennan and European Central Bank President Christine LaGarde …",
+            "url": "https://freerepublic.com/focus/f-chat/4146397/posts",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T12:30:23Z",
+            "content": "Skip to comments.\r\nThe Stock Market Crash Will Occur Right After the Debt Ceiling VoteAmerican Thinker ^\r\n | 18 Apr, 2023\r\n | Jesse Richman and Howard Richman\r\nPosted on 04/18/2023 5:30:23 AM PDT by … [+5754 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "MarketsandMarkets Research Pvt. Ltd.",
+            "title": "Digital Scent Technology Market is Expected to Grow at a CAGR of 9.2% from 2021 to 2026",
+            "description": "Chicago, April 18, 2023 (GLOBE NEWSWIRE) -- Digital Scent Technology Market\r\n is expected to reach USD 1.5 billion by 2026 from an estimated USD 1.0 billion in 2021, registering a CAGR of 9.2% during the forecast period. The market growth can be attributed to…",
+            "url": "https://www.globenewswire.com/news-release/2023/04/18/2648995/0/en/Digital-Scent-Technology-Market-is-Expected-to-Grow-at-a-CAGR-of-9-2-from-2021-to-2026.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/afcc5182-4ae0-43a8-a965-4351d590b7ed",
+            "publishedAt": "2023-04-18T12:30:00Z",
+            "content": "Chicago, April 18, 2023 (GLOBE NEWSWIRE) -- Digital Scent Technology Market\r\n is expected to reach USD 1.5 billion by 2026 from an estimated USD 1.0 billion in 2021, registering a CAGR of 9.2% during… [+8200 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "WebProNews"
+            },
+            "author": "Staff",
+            "title": "Michigan May Pony Up $300M to Restart Nuclear Reactor",
+            "description": "WebProNews\nMichigan May Pony Up $300M to Restart Nuclear Reactor\nMichigan is considering a plan of action that would see the state pony up $300 million to help restart the 800 MW Palisades nuclear reactor.\nMichigan May Pony Up $300M to Restart Nuclear Reactor…",
+            "url": "https://www.webpronews.com/michigan-nuclear-plant/",
+            "urlToImage": "https://www.webpronews.com/wp-content/uploads/2020/12/Nuclear-Power-Plant-Image-by-Markus-Distelrath.jpeg",
+            "publishedAt": "2023-04-18T12:30:00Z",
+            "content": "Michigan is considering a plan of action that would see the state pony up $300 million to help restart the 800 MW Palisades nuclear reactor.\r\nThe Palisades power plant is in the process of being deco… [+672 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "PR Newswire",
+            "title": "Nanalysis and QUAD Systems Launch Full 400MHz High Field System",
+            "description": "Nanalysis Scientific Corp. (\"the Company\", TSXV: NSCI, OTCQX: NSCIF, FRA: 1N1), a leader in portable NMR machines and MRI technology for healthcare and...",
+            "url": "https://finance.yahoo.com/news/nanalysis-quad-systems-launch-full-123000843.html",
+            "urlToImage": "https://media.zenfs.com/en/prnewswire.com/a12e55715f0ca6ddf6c22a0a309b26da",
+            "publishedAt": "2023-04-18T12:30:00Z",
+            "content": "Nanalysis Collaborated on and Supplies Key Components of the System\r\nTeam will be Presenting and Debuting system at ENC 2023 \r\nCALGARY, AB, April 18, 2023 /PRNewswire/ - Nanalysis Scientific Corp. (\"… [+5666 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mirror Online"
+            },
+            "author": "mirrornews@mirror.co.uk (David Hughes, Dave Burke)",
+            "title": "WhatsApp issues warning over new law allowing government to read your private messages",
+            "description": "Bosses from tech firms WhatsApp, Element and Signal have called on the government to \"urgently rethink\" the Online Safety Bill, warning it will open the door to \"indiscriminate surveillance\" of personal messages",
+            "url": "https://www.mirror.co.uk/news/politics/whatsapp-issues-warning-over-new-29740470",
+            "urlToImage": "https://i2-prod.dailyrecord.co.uk/incoming/article26856973.ece/ALTERNATES/s1200/1_JAJ_TEM_290921WhatsApp_001JPG.jpg",
+            "publishedAt": "2023-04-18T12:24:33Z",
+            "content": "Messaging firms including WhatsApp have voiced their alarm over Government plans forcing them to release private messages to stop child sex abuse.\r\nMinisters are pushing for regulator Ofcom to be all… [+3236 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Elconfidencialdigital.com"
+            },
+            "author": "Agencias",
+            "title": "Bangladesh pagará a Rusia un primer pago de 273 millones de euros en yuanes por construir una planta nuclear",
+            "description": "El proyecto costará unos 11.500 millones de euros MADRID, 18 (EUROPA PRESS) Bangladesh pagará a Rusia en yuanes un primer pago equivalente a 300 millones de dólares (273,4 millones de euros) por la construcción de la central nuclear de...",
+            "url": "https://www.elconfidencialdigital.com/articulo/ultima-hora/bangladesh-pagara-rusia-primer-pago-273-millones-euros-yuanes-construir-planta-nuclear/20230418142319554911.html",
+            "urlToImage": "https://www.elconfidencialdigital.com/media/elconfidencialdigital/images/2023/04/18/2023041812231743154.jpg",
+            "publishedAt": "2023-04-18T12:23:19Z",
+            "content": "El proyecto costará unos 11.500 millones de euros\r\n MADRID, 18 (EUROPA PRESS)\r\n Bangladesh pagará a Rusia en yuanes un primer pago equivalente a 300 millones de dólares (273,4 millones de euros) por … [+1719 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Lawfare"
+            },
+            "author": "Alana Nance, Han-ah Sumner",
+            "title": "Water Wars: AUKUS Goes Nuclear",
+            "description": "AUKUS Unveils Plans for Nuclear Submarines and Tomahawk Missiles \nAUKUS Leaders Announce Plan for Nuclear-Powered Australian Submarine Force\nPresident Biden met with Australian Prime Minister Anthony Albanese and U.K. Prime Minister Rishi Sunak at Naval Base …",
+            "url": "https://www.lawfareblog.com/water-wars-aukus-goes-nuclear",
+            "urlToImage": "https://www.lawfareblog.com/sites/default/files/221129-D-SA009-0029.jpg",
+            "publishedAt": "2023-04-18T12:16:12Z",
+            "content": "AUKUS Unveils Plans for Nuclear Submarines and Tomahawk Missiles \r\nAUKUS Leaders Announce Plan for Nuclear-Powered Australian Submarine Force\r\nPresident Biden met with Australian Prime Minister Antho… [+24724 chars]"
+        },
+        {
+            "source": {
+                "id": "independent",
+                "name": "Independent"
+            },
+            "author": "David Lynch",
+            "title": "Priti Patel urges Government to consider offshore cable alternative to pylons",
+            "description": "The East Anglia Green project would see overground cables run from Norwich in Norfolk to Tilbury in Essex.",
+            "url": "https://www.independent.co.uk/business/priti-patel-urges-government-to-consider-offshore-cable-alternative-to-pylons-b2321846.html",
+            "urlToImage": "https://static.independent.co.uk/2023/04/18/13/48ce8c8da762c929956a1219b18515fbY29udGVudHNlYXJjaGFwaSwxNjgxOTA1ODg0-2.68471025.jpg?quality=75&width=1200&auto=webp",
+            "publishedAt": "2023-04-18T12:09:36Z",
+            "content": "For free real time breaking news alerts sent straight to your inbox sign up to our breaking news emails\r\nSign up to our free breaking news emails\r\nMinisters must reconsider plans to build a network o… [+1999 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "ReportLinker",
+            "title": "The Global Pressure Vessels Market is forecast to grow by $41.91 bn during 2022-2027, accelerating at a CAGR of 4.34% during the forecast period",
+            "description": "Global Pressure Vessels Market 2023-2027. The analyst has been monitoring the pressure vessels market and is forecast to grow by $41.91 bn during 2022-2027, ...",
+            "url": "https://finance.yahoo.com/news/global-pressure-vessels-market-forecast-120600734.html",
+            "urlToImage": "https://media.zenfs.com/en/globenewswire.com/4ce8962afb8a41766b626a7e61c8413f",
+            "publishedAt": "2023-04-18T12:06:00Z",
+            "content": "Global Pressure Vessels Market 2023-2027. The analyst has been monitoring the pressure vessels market and is forecast to grow by $41.91 bn during 2022-2027, accelerating at a CAGR of 4.34% during the… [+3785 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "ReportLinker",
+            "title": "The Global Pressure Vessels Market is forecast to grow by $41.91 bn during 2022-2027, accelerating at a CAGR of 4.34% during the forecast period",
+            "description": "Global Pressure Vessels Market 2023-2027. The analyst has been monitoring the pressure vessels market and is forecast to grow by $41.91 bn during 2022-2027, accelerating at a CAGR of 4.34% during the forecast period. Global Pressure Vessels Market 2023-2027. …",
+            "url": "https://www.globenewswire.com/news-release/2023/04/18/2648970/0/en/The-Global-Pressure-Vessels-Market-is-forecast-to-grow-by-41-91-bn-during-2022-2027-accelerating-at-a-CAGR-of-4-34-during-the-forecast-period.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/3e0b82c2-02d7-44c8-b22f-561e0f321f39",
+            "publishedAt": "2023-04-18T12:06:00Z",
+            "content": "New York, April 18, 2023 (GLOBE NEWSWIRE) -- Reportlinker.com announces the release of the report \"Global Pressure Vessels Market 2023-2027\" - https://www.reportlinker.com/p04796575/?utm_source=GNWOu… [+3486 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Diplomat"
+            },
+            "author": "Melissa Conley Tyler and Grant Wyeth",
+            "title": "The Importance of Augmenting AUKUS",
+            "description": "Australia needs all the tools of statecraft it can muster, especially diplomacy.",
+            "url": "https://thediplomat.com/2023/04/the-importance-of-augmenting-aukus/",
+            "urlToImage": "https://thediplomat.com/wp-content/uploads/2023/04/sizes/td-story-s-2/thediplomat_2023-04-18-120736.png",
+            "publishedAt": "2023-04-18T12:04:00Z",
+            "content": "Advertisement\r\nSince the announcement of further details of the Australia-United Kingdom-United States (AUKUS) partnership last month, there has been heated discussion in Australia about the merits o… [+6456 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Ritholtz.com"
+            },
+            "author": "Barry Ritholtz",
+            "title": "Transcript: Joe Barratta of Blackstone",
+            "description": "﻿     The transcript from this week’s, MiB: Joe Barratta, Blackstone’s Global Head of Private Equity, is below. You can stream and download our full conversation, including any podcast extras, iTunes, Spotify, Stitcher, Google, Bloomberg, and Omny. All of our…",
+            "url": "https://ritholtz.com/2023/04/transcript-joe-barratta/",
+            "urlToImage": "https://ritholtz.com/wp-content/uploads/2023/02/Mib-tile.png",
+            "publishedAt": "2023-04-18T12:00:32Z",
+            "content": "The transcript from this weeks, MiB: Joe Barratta, Blackstone’s Global Head of Private Equity, is below.\r\nYou can stream and download our full conversation, including any podcast extras, iTunes, Spot… [+63972 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "EURACTIV"
+            },
+            "author": "Georgi Gotev",
+            "title": "Putin visits two regions in Ukraine, Russia presses assault on Bakhmut",
+            "description": "Russian President Vladimir Putin has met his commanders in two regions of Ukraine that Moscow claims to have annexed, while Russian forces stepped up heavy artillery bombardments and air strikes on the devastated eastern Ukrainian city of Bakhmut.",
+            "url": "https://www.euractiv.com/section/global-europe/news/putin-visits-two-regions-in-ukraine-russia-presses-assault-on-bakhmut/",
+            "urlToImage": "https://www.euractiv.com/wp-content/uploads/sites/2/2023/04/Putin-helicopter.jpg",
+            "publishedAt": "2023-04-18T11:54:04Z",
+            "content": "Russian President Vladimir Putin has met his commanders in two regions of Ukraine that Moscow claims to have annexed, while Russian forces stepped up heavy artillery bombardments and air strikes on t… [+5160 chars]"
+        },
+        {
+            "source": {
+                "id": "globo",
+                "name": "Globo"
+            },
+            "author": null,
+            "title": "Dourado segue sucuri embaixo d’água; Veja o vídeo",
+            "description": "Imagem rara impressiona; é a primeira evidência documentada sobre a ocorrência dessa interação entre peixes de água doce e cobras aquáticas. Entenda por que o dourado segue a sucuri-verde\nFernando Maydana \nHá dois metros de profundidade, em um rio de água doc…",
+            "url": "https://g1.globo.com/sp/campinas-regiao/terra-da-gente/noticia/2023/04/18/dourado-segue-sucuri-embaixo-dagua-veja-o-video.ghtml",
+            "urlToImage": "https://s2.glbimg.com/fj63wKSxn1lS5Ki1ftfBb0XyAmQ=/1200x/smart/filters:cover():strip_icc()/i.s3.glbimg.com/v1/AUTH_59edd422c0c84a879bd37670ae4f538a/internal_photos/bs/2023/I/Y/dM1jvGTGONrZp2fTBoug/credito-fernando-maydana-foto-capa-2-.jpg",
+            "publishedAt": "2023-04-18T11:50:03Z",
+            "content": "Mas o que será que o peixe pretendia com essa perseguição? Antes de apresentarmos uma possível resposta, é importante entender que essa é uma cena rara, que em quinze anos, foi flagrada e documentada… [+5420 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Booksandideas.net"
+            },
+            "author": "Sophie Houdart",
+            "title": "One Lab Coat Does Not a Scientist Make",
+            "description": "About: Stéphane Foucart, Stéphane Horel et Sylvain Laurens, Les gardiens de la raison. Enquête sur la désinformation scientifique, La Découverte\n\n-\nReviews\n\n/ \n manipulation , \npropaganda, \nlobbies , \nScience, \nCairn.info",
+            "url": "https://booksandideas.net/One-Lab-Coat-Does-Not-a-Scientist-Make",
+            "urlToImage": "https://booksandideas.net/IMG/png/garai-card.png",
+            "publishedAt": "2023-04-18T11:48:45Z",
+            "content": "Les gardiens de la raison (The Guardians of Reason) brings together a series of surveys conducted in the heart of the world of lobbying and its representatives, and analyzes the ever-denser entanglem… [+13718 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Adevarul.ro"
+            },
+            "author": "Redacţia Adevărul",
+            "title": "Rusia a amendat platforma video live Twitch pentru „ştiri false“ despre Ucraina",
+            "description": "Tribunalul a constatat refuzul de a elimina patru materiale legate de campania militară rusă în Ucraina, un eventual război nuclear şi o posibilă mobilizare generală în Rusia.",
+            "url": "https://adevarul.ro/stiri-externe/rusia/rusia-a-amendat-platforma-video-live-twitch-pentru-2259466.html",
+            "urlToImage": "https://cdn.adh.reperio.news/image-4/48e5fc0e-b533-4aef-9923-9b276c44fbab/index.jpeg?p=f%3Dpng%26w%3D1200%26h%3D630%26r%3Dcover",
+            "publishedAt": "2023-04-18T11:47:04Z",
+            "content": "Tribunalul a constatat refuzul de a elimina patru materiale legate de campania militar rus în Ucraina, un eventual rzboi nuclear i o posibil mobilizare general în Rusia.\r\nUn tribunal din Moscova a am… [+1100 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "International Business Times"
+            },
+            "author": "Dan Peleschuk and Guy Faulconbridge",
+            "title": "Putin Visits Two Regions In Ukraine, Russia Presses Assault On Bakhmut",
+            "description": "Russian President Vladimir Putin has met his commanders in two regions of Ukraine that Moscow claims to have annexed, while Russian forces stepped up heavy artillery bombardments and air strikes on the devastated eastern Ukrainian city of Bakhmut.",
+            "url": "https://www.ibtimes.com/putin-visits-two-regions-ukraine-russia-presses-assault-bakhmut-3686957",
+            "urlToImage": "https://d.ibtimes.com/en/full/4446995/russian-president-vladimir-putin-visits-luhansk-region.jpg",
+            "publishedAt": "2023-04-18T11:45:37Z",
+            "content": "Russian President Vladimir Putin visits the national guard headquarters in the Luhansk Region, Russian-controlled Ukraine, in this still image taken from handout video released on April 18, 2023. Kre… [+5440 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Forbes"
+            },
+            "author": "David Blackmon, Senior Contributor, \n David Blackmon, Senior Contributor\n https://www.forbes.com/sites/davidblackmon/",
+            "title": "Placing Bets In The Global Energy Casino",
+            "description": "If you think investing in energy projects is an activity akin to placing bets in a Las Vegas casino, you aren’t alone.",
+            "url": "https://www.forbes.com/sites/davidblackmon/2023/04/18/placing-bets-in-the-global-energy-casino/",
+            "urlToImage": "https://imageio.forbes.com/specials-images/imageserve/643e80955dba78cb57052dee/0x0.jpg?format=jpg&width=1200",
+            "publishedAt": "2023-04-18T11:44:12Z",
+            "content": "BERLIN, GERMANY - MAY 26: John Kerry, Special Presidential Envoy for Climate, speaks during the ... [+] welcome by the Federal Environment Minister and the Federal Climate Protection Minister before … [+5593 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Department of Defense"
+            },
+            "author": "Jim Garamone",
+            "title": "DOD Officials Detail Progress With Indo-Pacific Allies, Friends",
+            "description": "Defense leaders charted the progress made in ensuring a free and open Indo-Pacific region and discussed what more needs to be done during testimony before the House Armed Services Committee.",
+            "url": "https://www.defense.gov/News/News-Stories/Article/Article/3365566/dod-officials-detail-progress-with-indo-pacific-allies-friends/",
+            "urlToImage": "https://media.defense.gov/2023/Apr/14/2003201954/1280/1280/0/230414-F-NX702-0102.JPG",
+            "publishedAt": "2023-04-18T11:42:59Z",
+            "content": "Defense leaders charted the progress made in ensuring a free and open Indo-Pacific region and what more needs to be done during testimony before the House Armed Services Committee today.\r\nJedidiah P.… [+5932 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Proofinprogress.com"
+            },
+            "author": "Tim Daubenschütz",
+            "title": "My Deleted Response to Pirate Wires' Nuclear Disasters",
+            "description": "I wrote a long comment to a recent post of Mike Solana titled \"Nuclear Disasters\n[https://www.piratewires.com/p/nuclear-disaster].\" To my surprise Mike deleted\nit promptly with the following message:",
+            "url": "https://proofinprogress.com/posts/2023-04-18/my-response-to-pirate-wires-nuclear-disasters.html",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T11:41:31Z",
+            "content": "proofinprogress.com\r\nI wrote a long comment to a recent post of Mike Solana titled \"Nuclear\r\nDisasters.\" To my surprise\r\nMike deleted it promptly with the following message:\r\nthis wasn't framed as br… [+5071 chars]"
+        },
+        {
+            "source": {
+                "id": "breitbart-news",
+                "name": "Breitbart News"
+            },
+            "author": "Joel B. Pollak, Joel B. Pollak",
+            "title": "Iran's President Vows to Destroy Tel Aviv and Haifa if Israel Attacks",
+            "description": "Iranian President Ebrahim Raisi vowed Tuesday to destroy the Israeli cities of Tel Aviv and Haifa if Israel takes action against its nascent nuclear weapons program.Iranian President Ebrahim Raisi vowed Tuesday to destroy the Israeli cities of Tel Aviv and Ha…",
+            "url": "https://www.breitbart.com/middle-east/2023/04/18/irans-president-vows-to-destroy-tel-aviv-and-haifa-if-israel-attacks/",
+            "urlToImage": "https://media.breitbart.com/media/2023/04/Iran-Army-Day-Getty-640x335.jpg",
+            "publishedAt": "2023-04-18T11:41:10Z",
+            "content": "Iranian President Ebrahim Raisi vowed Tuesday to destroy the Israeli cities of Tel Aviv and Haifa if Israel takes action against its nascent nuclear weapons program.\r\nTel Aviv and Haifa are major coa… [+2159 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Bankier.pl"
+            },
+            "author": "Redaktor Bankier.pl",
+            "title": "Obajtek: Orlen posiada część kapitału na projekty jądrowe",
+            "description": "Posiadamy część kapitału na projekty jądrowe - oświadczył we wtorek w radiu RMF FM prezes PKN Orlen Daniel Obajtek. W poniedziałek Orlen wraz z koncernem Synthos wskazały siedem pierwszych potencjalnych lokalizacji pod reaktory BWRX-300 projektu GE-Hitachi Nu…",
+            "url": "https://www.bankier.pl/wiadomosc/Obajtek-Orlen-posiada-czesc-kapitalu-na-projekty-jadrowe-8524891.html",
+            "urlToImage": "https://galeria.bankier.pl/p/b/6/3aa11dfbcd7880-948-568-10-30-3700-2220.jpg",
+            "publishedAt": "2023-04-18T11:38:31Z",
+            "content": "Posiadamy cz kapitau na projekty jdrowe - owiadczy we wtorek w radiu RMF FM prezes PKN Orlen Daniel Obajtek. W poniedziaek Orlen wraz z koncernem Synthos wskazay siedem pierwszych potencjalnych lokal… [+3077 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spacewar.com"
+            },
+            "author": null,
+            "title": "Beijing says G7 'maliciously slandered China; Political manipulation' behind US arrests",
+            "description": "Beijing (AFP) April 18, 2023\n\n China said on Tuesday G7 nations in Japan had \"maliciously slandered and smeared\" it, after foreign ministers in the group of developed economies criticised a number of Beijing's policies. \n\n\"The G7 foreign ministers' meeting di…",
+            "url": "https://www.spacewar.com/reports/Beijing_says_G7_maliciously_slandered_and_smeared_China_999.html",
+            "urlToImage": "https://www.spxdaily.com/images-hg/china-hong-kong-xi-military-parade-hg.jpg",
+            "publishedAt": "2023-04-18T11:37:16Z",
+            "content": "Beijing says G7 'maliciously slandered China; Political manipulation' behind US arrestsby AFP Staff WritersBeijing (AFP) April 18, 2023\r\nChina said on Tuesday G7 nations in Japan had \"maliciously sla… [+5284 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spacewar.com"
+            },
+            "author": null,
+            "title": "Xi calls for 'higher stage' of China-North Korea ties: state media",
+            "description": "Seoul (AFP) April 18, 2023\n\n\n Chinese President Xi Jinping will push for a \"higher stage\" of relations with Pyongyang, North Korean state media said Tuesday, as G7 foreign ministers condemned the North's unprecedented string of weapons tests. \n\nChina is North…",
+            "url": "https://www.spacewar.com/reports/Xi_calls_for_higher_stage_of_China-North_Korea_ties_state_media_999.html",
+            "urlToImage": "https://www.spxdaily.com/images-hg/china-north-korea-collage-hg.jpg",
+            "publishedAt": "2023-04-18T11:37:16Z",
+            "content": "Xi calls for 'higher stage' of China-North Korea ties: state mediaby AFP Staff WritersSeoul (AFP) April 18, 2023\r\nChinese President Xi Jinping will push for a \"higher stage\" of relations with Pyongya… [+2073 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spacewar.com"
+            },
+            "author": null,
+            "title": "UN chief condemns N.Korea's solid-fuel ballistic missile launch",
+            "description": "United Nations, United States (AFP) April 17, 2023\n\n\n UN Secretary-General Antonio Guterres \"strongly condemns\" the recent launch of what North Korea said was a solid-fuel intercontinental ballistic missile, an official told the Security Council Monday. \n\nThe…",
+            "url": "https://www.spacewar.com/reports/UN_chief_condemns_NKoreas_solid-fuel_ballistic_missile_launch_999.html",
+            "urlToImage": "https://www.spxdaily.com/images-hg/north-korea-missiles-range-map-hg.jpg",
+            "publishedAt": "2023-04-18T11:37:16Z",
+            "content": "UN chief condemns N.Korea's solid-fuel ballistic missile launchby AFP Staff WritersUnited Nations, United States (AFP) April 17, 2023\r\nUN Secretary-General Antonio Guterres \"strongly condemns\" the re… [+2392 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spacewar.com"
+            },
+            "author": null,
+            "title": "W.House says Brazil 'parroting Russian and Chinese propaganda' on Ukraine",
+            "description": "Washington (AFP) April 17, 2023\n\n The White House on Monday sharply criticized Brazil after President Luiz Inacio Lula da Silva said on a trip to China that the United States is encouraging war in Ukraine. \n\n\"In this case, Brazil is parroting Russian and Chin…",
+            "url": "https://www.spacewar.com/reports/WHouse_says_Brazil_parroting_Russian_and_Chinese_propaganda_on_Ukraine_999.html",
+            "urlToImage": "https://www.spxdaily.com/images-hg/brazil-president-lula-da-silva-2022-casual-hg.jpg",
+            "publishedAt": "2023-04-18T11:37:16Z",
+            "content": "W.House says Brazil 'parroting Russian and Chinese propaganda' on Ukraineby AFP Staff WritersWashington (AFP) April 17, 2023\r\nThe White House on Monday sharply criticized Brazil after President Luiz … [+6373 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Spacewar.com"
+            },
+            "author": null,
+            "title": "G7 demands N. Korea 'refrain' from nuclear tests, missile launches",
+            "description": "Karuizawa, Japan (AFP) April 18, 2023\n\n\n G7 foreign ministers on Tuesday demanded North Korea \"refrain\" from further nuclear tests and ballistic missile launches, warning of a \"robust\" response after talks in Japan. \n\nTheir warning came days after Pyongyang s…",
+            "url": "https://www.spacewar.com/reports/G7_demands_N_Korea_refrain_from_nuclear_tests_missile_launches_999.html",
+            "urlToImage": "https://www.spxdaily.com/images-hg/korea-icbm-rocket-missile-launch-trajectory-hg.jpg",
+            "publishedAt": "2023-04-18T11:37:16Z",
+            "content": "G7 demands N. Korea 'refrain' from nuclear tests, missile launchesby AFP Staff WritersKaruizawa, Japan (AFP) April 18, 2023\r\nG7 foreign ministers on Tuesday demanded North Korea \"refrain\" from furthe… [+2163 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Billings Gazette"
+            },
+            "author": "Associated Press",
+            "title": "Russian court upholds detention of jailed US journalist on spying charges",
+            "description": "A Russian judge on Tuesday upheld the detention of jailed American journalist Evan Gershkovich, who was arrested on spying charges as part of a sweeping Kremlin crackdown on dissent.",
+            "url": "https://billingsgazette.com/news/national/russian-court-upholds-detention-of-jailed-us-journalist-on-spying-charges/article_de083035-2908-5e3c-9457-3b0d2d9e2a2e.html",
+            "urlToImage": "https://bloximages.chicago2.vip.townnews.com/billingsgazette.com/content/tncms/assets/v3/editorial/d/e0/de083035-2908-5e3c-9457-3b0d2d9e2a2e/643e8112cf840.preview.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-04-18T11:37:00Z",
+            "content": "A Russian judge on Tuesday upheld the detention of jailed American journalist Evan Gershkovich, who was arrested on spying charges as part of a sweeping Kremlin crackdown on dissent and press freedom… [+14609 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Richmond.com"
+            },
+            "author": "Associated Press",
+            "title": "Russian court upholds detention of jailed US journalist on spying charges",
+            "description": "A Russian judge on Tuesday upheld the detention of jailed American journalist Evan Gershkovich, who was arrested on spying charges as part of a sweeping Kremlin crackdown on dissent.",
+            "url": "https://richmond.com/news/national/russian-court-upholds-detention-of-jailed-us-journalist-on-spying-charges/article_74e938c9-e50a-5669-8cd7-f68b8ae3db4c.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/richmond.com/content/tncms/assets/v3/editorial/7/4e/74e938c9-e50a-5669-8cd7-f68b8ae3db4c/643e811ec68d6.preview.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-04-18T11:37:00Z",
+            "content": "A Russian judge on Tuesday upheld the detention of jailed American journalist Evan Gershkovich, who was arrested on spying charges as part of a sweeping Kremlin crackdown on dissent and press freedom… [+14788 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Roanoke Times"
+            },
+            "author": "Associated Press",
+            "title": "Russian court upholds detention of jailed US journalist on spying charges",
+            "description": "A Russian judge on Tuesday upheld the detention of jailed American journalist Evan Gershkovich, who was arrested on spying charges as part of a sweeping Kremlin crackdown on dissent.",
+            "url": "https://roanoke.com/news/national/russian-court-upholds-detention-of-jailed-us-journalist-on-spying-charges/article_00994d7d-8a40-5479-86c4-ab6d8e4ee20d.html",
+            "urlToImage": "https://bloximages.newyork1.vip.townnews.com/roanoke.com/content/tncms/assets/v3/editorial/0/09/00994d7d-8a40-5479-86c4-ab6d8e4ee20d/643e811f397fd.preview.jpg?crop=1919%2C1007%2C0%2C36&resize=1200%2C630&order=crop%2Cresize",
+            "publishedAt": "2023-04-18T11:37:00Z",
+            "content": "A Russian judge on Tuesday upheld the detention of jailed American journalist Evan Gershkovich, who was arrested on spying charges as part of a sweeping Kremlin crackdown on dissent and press freedom… [+14829 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Mediafax.ro"
+            },
+            "author": "Daniel Contescu",
+            "title": "Războiul din Ucraina, anul 2, ziua 54. Putin, în Herson şi în Lugansk cu elicopterul şi cu maşina / Este prima ieşire în teritoriile anexate, după vizita nocturnă din Mariupol, de pe 19 martie / Kiev: bătălia continuă pentru Bahmut / Evan Gerşkovich rămâne în arest / Medvedev s-a supărat şi pe oficialii G7",
+            "description": "Aflată în pregătirea ofensivei de primăvară, Ucraina caută să-şi menţină poziţiile deţinute pe front în faţa Rusiei.",
+            "url": "https://www.mediafax.ro/externe/razboiul-ucraina-anul-2-ziua-54-putin-herson-lugansk-elicopterul-masina-prima-iesire-teritoriile-anexate-dupa-vizita-nocturna-mariupol-19-martie-kiev-batalia-continua-bahmut-evan-gerskovich-ramane-21804793",
+            "urlToImage": "https://storage0.dms.mpinteractiv.ro/media/1/1/3614/21804793/2/putinherson-jpg.png?width=640",
+            "publishedAt": "2023-04-18T11:34:00Z",
+            "content": "UPDATE 15:00 Instana rus respinge cererea de eliberare a reporterului american \r\n Jurnalistul Wall Street Journal, Evan Gerkovich - acuzat de spionaj - rmâne în închisoare în Rusia: cererea de eliber… [+10776 chars]"
+        },
+        {
+            "source": {
+                "id": "cbs-news",
+                "name": "CBS News"
+            },
+            "author": "Haley Ott",
+            "title": "Russia says Putin has paid another visit to occupied ground in Ukraine",
+            "description": "As the Kremlin released video purportedly showing the Russian leader in Kherson, the U.S. and other G7 nations condemned his recent \"irresponsible nuclear rhetoric.\"",
+            "url": "https://www.cbsnews.com/news/russia-ukraine-war-putin-visits-kherson-g7-condemns-nuclear-weapons-rhetoric/",
+            "urlToImage": "https://assets1.cbsnewsstatic.com/hub/i/r/2023/04/18/be915921-891b-418d-ba16-80616c2a90d0/thumbnail/1200x630/87fa4b8c668789925c5c7f7d24cc8e6a/screenshot-2023-04-18-at-12-04-43.png",
+            "publishedAt": "2023-04-18T11:33:35Z",
+            "content": "Russian President Vladmir Putin paid a new visit to Russian-occupied parts of Ukraine, Russian officials said Tuesday, in what would be his second trip to the country in just two months. An undated v… [+2229 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "China offers to facilitate Israel-Palestinian peace talks",
+            "description": "China’s foreign minister has told his Israeli and Palestinian counterparts that his country is ready to help facilitate peace talks between the two sides, in its latest effort at mediation in the region",
+            "url": "https://abcnews.go.com/International/wireStory/china-offers-facilitate-israel-palestinian-peace-talks-98659427",
+            "urlToImage": "https://s.abcnews.com/images/US/abc_news_default_2000x2000_update_16x9_992.jpg",
+            "publishedAt": "2023-04-18T11:32:18Z",
+            "content": "BEIJING -- China's foreign minister told his Israeli and Palestinian counterparts that his country is ready to help facilitate peace talks between the two sides, in its latest effort at mediation in … [+2857 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "GlobeNewswire"
+            },
+            "author": "Fortune Business Insights",
+            "title": "Virtual Power Plant Market Size worth USD 6.47 Billion by 2028 | Fortune Business Insights",
+            "description": "According to Fortune Business Insights, the global virtual power plant market size is projected to reach USD 6.47 billion by 2028 from its value USD 0.88 billion in 2021, at CAGR of 32.89% during forecast period. According to Fortune Business Insights, the gl…",
+            "url": "https://www.globenewswire.com/news-release/2023/04/18/2648865/0/en/Virtual-Power-Plant-Market-Size-worth-USD-6-47-Billion-by-2028-Fortune-Business-Insights.html",
+            "urlToImage": "https://ml.globenewswire.com/Resource/Download/05408ba1-26b1-4fdd-8f48-1af4df373348",
+            "publishedAt": "2023-04-18T11:31:00Z",
+            "content": "Pune, India, April 18, 2023 (GLOBE NEWSWIRE) -- The virtual power plant market size to hit USD 6.47 billion by 2028. The global market size was valued USD 6.47 billion in 2020 and USD 0.88 billion in… [+9628 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "NDTV News"
+            },
+            "author": null,
+            "title": "Balakot Showed Air Power Role In 'No War, No Peace': Air Force Chief",
+            "description": "Air Chief Marshal VR Chaudhari today highlighted the critical importance of India's air power considering the nature of its adversaries and said the Balakot operations of 2019 demonstrated its effectiveness even in a 'no war, no peace' scenario",
+            "url": "https://www.ndtv.com/india-news/balakot-air-chief-marshal-vr-chaudhari-balakot-showed-air-power-role-in-no-war-no-peace-scenario-air-force-chief-3958511",
+            "urlToImage": "https://c.ndtvimg.com/2022-07/b55t9jco_vr-chaudhari_625x300_18_July_22.jpg",
+            "publishedAt": "2023-04-18T11:30:09Z",
+            "content": "The Air Chief Marshal was speaking at a seminar. File\r\nNew Delhi: Air Chief Marshal VR Chaudhari today highlighted the critical importance of India's air power considering the nature of its adversari… [+3197 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Toronto Star"
+            },
+            "author": "The Associated Press",
+            "title": "China offers to facilitate Israel-Palestinian peace talks",
+            "description": "BEIJING (AP) — China’s foreign minister told his Israeli and Palestinian counterparts that his country is ready to help facilitate peace talks between...",
+            "url": "https://www.thestar.com/news/world/asia/2023/04/18/china-offers-to-facilitate-israel-palestinian-peace-talks.html",
+            "urlToImage": "https://www.thestar.com/assets/img/thestar-ribbon.png",
+            "publishedAt": "2023-04-18T11:29:49Z",
+            "content": "BEIJING (AP) Chinas foreign minister told his Israeli and Palestinian counterparts that his country is ready to help facilitate peace talks between the two sides, in its latest effort at mediation in… [+3183 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Smallwarsjournal.com"
+            },
+            "author": "Dave Maxwell",
+            "title": "4/18/23 National Security and Korean News and Commentary",
+            "description": "4/18/23 National Security and Korean News and Commentary\n\n Access National Security News HERE.\r\n\n\nAccess Korean News HERE.\r\n\n\nNational Security News Content:\r\n\n\n1.  Zealot or Savior? This U.S. Minister Is Training Rebels in a Civil War (Free Burma Rangers)\n2.…",
+            "url": "https://smallwarsjournal.com/blog/41823-national-security-and-korean-news-and-commentary",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T11:29:28Z",
+            "content": "Access National Security News HERE.\r\nAccess Korean News HERE.\r\nNational Security News Content:\r\n1.  Zealot or Savior? This U.S. Minister Is Training Rebels in a Civil War (Free Burma Rangers)2. Dirty… [+2601 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Meneame.net"
+            },
+            "author": "nereira",
+            "title": "Greenpeace demanda a la Comisión Europea por incluir al gas y la nuclear en la taxonomía verde",
+            "description": "Greenpeace lleva a los tribunales a Ursula Von Der Leyen. La organización medioambiental ha presentado hoy una demanda ante el Tribunal de Justicia de la Unión Europea (TJUE) contra la Comisión Europea por la inclusión del gas fósil y la energía nuclear en el…",
+            "url": "https://www.meneame.net/m/actualidad/greenpeace-demanda-comision-europea-incluir-gas-nuclear-verde",
+            "urlToImage": null,
+            "publishedAt": "2023-04-18T11:26:11Z",
+            "content": "Según Greenpeace, el reglamento de la taxonomía de la Comisión Europea permite que las centrales nucleares y de gas fósil reciban dinero que, de otro modo, se habría destinado a energías renovables. … [+399 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Fast Company"
+            },
+            "author": "Michael Grothaus",
+            "title": "Where does my tax money go? This calculator tells you what happens after you pay the IRS",
+            "description": "Today is Tax Day 2023, and for many Americans, that means it’s time to pay Uncle Sam. Despite their unpopularity, taxes are important because they help fund the public services we rely on—everything from healthcare to the military to highways. But have you ev…",
+            "url": "https://www.fastcompany.com/90883343/irs-tax-day-calculator-tool-online-budget-breakdown-receipt",
+            "urlToImage": "https://images.fastcompany.net/image/upload/w_1280,f_auto,q_auto,fl_lossy/wp-cms/uploads/2023/04/p-1-90883343-this-tax-day-calculator-tells-you-where-your-money-goes-after-you-pay-the-irs.jpg",
+            "publishedAt": "2023-04-18T11:25:00Z",
+            "content": "Today is Tax Day 2023, and for many Americans, that means it’s time to pay Uncle Sam. Despite their unpopularity, taxes are important because they help fund the public services we rely on—everything … [+1990 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Yahoo Entertainment"
+            },
+            "author": "The Canadian Press",
+            "title": "'No impunity': G7 vows tough, unified stance on Russia's war",
+            "description": "KARUIZAWA, Japan (AP) — Top diplomats from the Group of Seven wealthy democracies vowed a unified front against Chinese threats to Taiwan and Russia's war of aggression in Ukraine, saying at the close of their meetings Tuesday that they were committed to boos…",
+            "url": "https://ca.finance.yahoo.com/news/g7-vows-intensify-sanctions-russia-031952876.html",
+            "urlToImage": "https://media.zenfs.com/en/the_canadian_press_business_130/6ef68c218956316cc5a169610bde42e6",
+            "publishedAt": "2023-04-18T11:19:25Z",
+            "content": "KARUIZAWA, Japan (AP) Top diplomats from the Group of Seven wealthy democracies vowed a unified front against Chinese threats to Taiwan and Russia's war of aggression in Ukraine, saying at the close … [+6066 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "The Times of Israel"
+            },
+            "author": "Steve Kramer",
+            "title": "Counteracting Iran’s threat to destroy Israel",
+            "description": "Israel is currently in an interim period of religious and national holidays which will be over by the end of May. The Knesset is on vacation while hopefully intense negotiations are being held in President Herzog’s residence, seeking to compromise on the prop…",
+            "url": "https://blogs.timesofisrael.com/counteracting-irans-threat-to-destroy-israel/",
+            "urlToImage": "https://static.timesofisrael.com/blogs/uploads/users/Steve-Kramer-1530952553-400x400.jpg",
+            "publishedAt": "2023-04-18T11:18:15Z",
+            "content": "Israel is currently in an interim period of religious and national holidays which will be over by the end of May. The Knesset is on vacation while hopefully intense negotiations are being held in Pre… [+9626 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "German climate activists pledge new wave of blockades",
+            "description": "Climate activists say that they will stage further protests in Berlin in an effort to force the German government into doing more to curb global warming",
+            "url": "https://abcnews.go.com/Technology/wireStory/german-climate-activists-pledge-new-wave-blockades-98658780",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_cf278a3154aa113a2d66e69f1a31d670_12x5_992.jpg",
+            "publishedAt": "2023-04-18T11:17:28Z",
+            "content": "BERLIN -- Climate activists said Tuesday that they will stage further protests in Berlin in an effort to force the German government into doing more to curb global warming.\r\nThe announcement came as … [+2037 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Vozdeamerica.com"
+            },
+            "author": "vozdeamerica@voanews.com (Associated Press)",
+            "title": "“Sin impunidad”: G7 promete unidad ante la guerra de Rusia",
+            "description": "Los esfuerzos globales por abordar los asuntos en Naciones Unidas han chocado con la intransigencia de China y Rusia en el Consejo de Seguridad.",
+            "url": "https://www.vozdeamerica.com/a/sin-impunidad-g7-promete-unidad-ante-la-guerra-de-rusia/7055174.html",
+            "urlToImage": "https://gdb.voanews.com/d567ed39-3a35-42e0-899d-c26bce46171f_w1200_r1.jpg",
+            "publishedAt": "2023-04-18T11:10:11Z",
+            "content": "KARUIZAWA, Japón  Los responsables diplomáticos del Grupo de 7 democracias ricas prometieron presentar un frente unido contra las amenazas de China a Taiwán y la guerra de agresión rusa en Ucrania, y… [+2269 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Livemint"
+            },
+            "author": "Saurav Anand",
+            "title": "Essar Oil UK appoints Tony Fountain to its board as non-executive director",
+            "description": "Fountain’s background includes CEO positions at refining and marketing for Reliance Industries Ltd and the UK Nuclear Decommissioning Authority, along with board roles at Sellafield UK, Nayara Energy Limited, and ATCO Group",
+            "url": "https://www.livemint.com/companies/people/tony-fountain-joins-essar-oil-uk-ltd-board-as-non-executive-director-to-drive-low-carbon-energy-transition-projects-11681816168005.html",
+            "urlToImage": "https://www.livemint.com/lm-img/img/2023/04/18/600x338/Essar-aims-to-become-one-of-the-first-low-carbon-r_1681816155238.jpg",
+            "publishedAt": "2023-04-18T11:09:27Z",
+            "content": "New Delhi: Essar Oil (UK) Ltd on Tuesday announced the addition of Tony Fountain, managing partner at Essar Energy Transition, to its board as a non-executive director, effective 17 April. The appoin… [+1470 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "CNBC"
+            },
+            "author": "Sam Meredith",
+            "title": "Power firm SSE says backing renewables can help get Britain closer to energy self-reliance",
+            "description": "The CEO of British power firm SSE says a rapid build-out of renewable projects can help the U.K. to secure its energy security.",
+            "url": "https://www.cnbc.com/2023/04/18/sse-says-renewables-push-can-help-britain-achieve-energy-self-reliance.html",
+            "urlToImage": "https://image.cnbcfm.com/api/v1/image/107226816-1681813308170-gettyimages-1242985406-AFP_32HR8LQ.jpeg?v=1681816166&w=1920&h=1080",
+            "publishedAt": "2023-04-18T11:09:26Z",
+            "content": "The chief executive of British power firm SSE says a rapid build-out of renewable projects can help the U.K. to secure its energy security and bring costs down for consumers.\r\n\"Consumers everywhere a… [+2156 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "seattlepi.com"
+            },
+            "author": null,
+            "title": "German climate activists pledge new wave of blockades",
+            "description": "Climate activists say that they will stage further protests in Berlin in an effort to force the German government into doing more to curb global warming. Tuesday's announcement came as courts are taking a tougher line against members of the group Last Generat…",
+            "url": "https://www.seattlepi.com/news/politics/article/german-climate-activists-pledge-new-wave-of-17903444.php",
+            "urlToImage": "https://www.seattlepi.com/img/modules/siteheader/brand.png",
+            "publishedAt": "2023-04-18T11:08:26Z",
+            "content": "FILE - Activists of the \"Last Generation\" stick themselves on a street during snowfall in Dresden, Germany, and want to draw attention to the compliance with the climate targets, Friday, Jan. 20, 202… [+3634 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Publico.es"
+            },
+            "author": "Público",
+            "title": "Organizaciones ecologistas denuncian a la UE por 'greenwashing'",
+            "description": "Greenpeace, WWF, Amigos de la Tierra en Alemania y Transporte y Medioambiente han demandado a la Comisión Europea por promover el gas como energía \"sostenible\".",
+            "url": "http://www.publico.es/sociedad/organizaciones-ecologistas-denuncian-ue-greenwashing.html",
+            "urlToImage": "https://www.publico.es/uploads/2023/04/18/643e6eece3315.jpeg",
+            "publishedAt": "2023-04-18T11:05:00Z",
+            "content": "Las organizaciones ecologistas Greenpeace, WWF, Amigos de la Tierra en Alemania y Transporte y Medioambiente han presentado este martes una denuncia contra la Comisión Europea por incurrir en greenwa… [+1942 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "German climate activists pledge new wave of blockades",
+            "description": "Climate activists say that they will stage further protests in Berlin in an effort to force the German government into doing more to curb global warming",
+            "url": "https://abcnews.go.com/Business/wireStory/german-climate-activists-pledge-new-wave-blockades-98658779",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_cf278a3154aa113a2d66e69f1a31d670_12x5_992.jpg",
+            "publishedAt": "2023-04-18T11:03:29Z",
+            "content": "BERLIN -- Climate activists said Tuesday that they will stage further protests in Berlin in an effort to force the German government into doing more to curb global warming.\r\nThe announcement came as … [+2037 chars]"
+        },
+        {
+            "source": {
+                "id": "abc-news",
+                "name": "ABC News"
+            },
+            "author": "The Associated Press",
+            "title": "German climate activists pledge new wave of blockades",
+            "description": "Climate activists say that they will stage further protests in Berlin in an effort to force the German government into doing more to curb global warming",
+            "url": "https://abcnews.go.com/International/wireStory/german-climate-activists-pledge-new-wave-blockades-98658777",
+            "urlToImage": "https://s.abcnews.com/images/International/wirestory_cf278a3154aa113a2d66e69f1a31d670_12x5_992.jpg",
+            "publishedAt": "2023-04-18T11:02:59Z",
+            "content": "BERLIN -- Climate activists said Tuesday that they will stage further protests in Berlin in an effort to force the German government into doing more to curb global warming.\r\nThe announcement came as … [+2037 chars]"
+        },
+        {
+            "source": {
+                "id": "the-times-of-india",
+                "name": "The Times of India"
+            },
+            "author": "PTI",
+            "title": "Balakot ops showed effectiveness of air power even in 'no war, no peace' scenario: IAF chief",
+            "description": "Air Chief Marshal VR Chaudhari emphasized the critical importance of India's air power given the nature of its adversaries. He stated that the Balakot operations of 2019 demonstrated its effectiveness in a \"no war, no peace\" scenario and under a \"nuclear over…",
+            "url": "https://economictimes.indiatimes.com/news/defence/balakot-ops-showed-effectiveness-of-air-power-even-in-no-war-no-peace-scenario-iaf-chief/articleshow/99586038.cms",
+            "urlToImage": "https://img.etimg.com/thumb/msid-99586140,width-1070,height-580,imgsize-17996,overlay-etdefence/photo.jpg",
+            "publishedAt": "2023-04-18T11:01:36Z",
+            "content": "Air Chief Marshal VR Chaudhari on Tuesday highlighted the critical importance of India's air power considering the nature of its adversaries and said the Balakot operations of 2019 demonstrated its e… [+3179 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Europapress.es"
+            },
+            "author": null,
+            "title": "Greenpeace demanda a Bruselas ante el TJUE por incluir la nuclear y el gas en la lista de inversiones verdes de la UE",
+            "description": "La organización medioambiental Greenpeace ha presentado este martes una demanda ante el Tribunal de Justicia de la Unión Europea (TJUE) contra la Comisión Europea por la inclusión, en marzo de 2022, de algunas inversiones relacionadas con la energía nuclear y…",
+            "url": "https://www.europapress.es/sociedad/medio-ambiente-00647/noticia-greenpeace-demanda-bruselas-tjue-incluir-nuclear-gas-lista-inversiones-verdes-ue-20230418130109.html",
+            "urlToImage": "https://img.europapress.es/fotoweb/fotonoticia_20230418130109_1200.jpg",
+            "publishedAt": "2023-04-18T11:01:09Z",
+            "content": "BRUSELAS, 18 Abr. (EUROPA PRESS) - \r\n   La organización medioambiental Greenpeace ha presentado este martes una demanda ante el Tribunal de Justicia de la Unión Europea (TJUE) contra la Comisión Euro… [+1737 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Hackaday"
+            },
+            "author": "Maya Posch",
+            "title": "NASA’s Ingenuity Mars Helicopter Completes 50th Flight",
+            "description": "While NASA’s Perseverance rover brought an array of impressive scientific equipment to the surface of Mars, certainly its most famous payload is the stowaway helicopter Ingenuity. Despite being little more …read more",
+            "url": "https://hackaday.com/2023/04/18/nasas-ingenuity-mars-helicopter-completes-50th-flight/",
+            "urlToImage": "https://hackaday.com/wp-content/uploads/2020/08/ingenuity_artist_rendering.jpg",
+            "publishedAt": "2023-04-18T11:00:43Z",
+            "content": "While NASA’s Perseverance rover brought an array of impressive scientific equipment to the surface of Mars, certainly its most famous payload is the stowaway helicopter Ingenuity. Despite being littl… [+1725 chars]"
+        },
+        {
+            "source": {
+                "id": null,
+                "name": "Crossway.org"
+            },
+            "author": "Brett McCracken",
+            "title": "Unpacking “You Do You”",
+            "description": "Consensus is hard, especially in an individualistic culture where “have it your way” consumerism is the air we breathe. Sometimes it’s just easier to say, “You do you, I’ll do me.”",
+            "url": "https://www.crossway.org/articles/unpacking-you-do-you/",
+            "urlToImage": "https://static.crossway.org/articles/images/Unpacking-You-Do-You.jpg",
+            "publishedAt": "2023-04-18T11:00:00Z",
+            "content": "This article is part of the Unpacking Culture series in which we examine a well-known axiom and weigh any true or positive aspects of it against any negative or misleading connotations of the phrase.… [+9247 chars]"
+        }
+    ]
+}
