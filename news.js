@@ -1,23 +1,23 @@
 //Michael Mcginnis
 //This code shows that html can be generated from JSON. 
 //I cannot make a request to the API without hosting a webserver so this is just proof of concept
+//TODO:
+/* 
+Write to filtered_html.txt tagged html categories (maybe by div?) and update variables in news_page.js
+Fix generation bugs in the html
+Auto update the html
+Move this to a server and automate
+*/
 
-const fs = require('fs')
-fs.readFile('political.txt', (err, inputD) => {
+//Constants
+const fs = require('fs');
+const categories = ["news", "nuclear", "political", "quantum"];
+
+//Generates html given a category. Uses the JSON txt files
+function generate_html(category){
+fs.readFile('/home/tina/Documents/Workspace/NuclearNewsSite/' + category + '.txt', (err, inputD) => {
    if (err) throw err;
-    //This parses JSON in the text file and outputs into formatted html
-
       const json_obj = JSON.parse(inputD.toString());
-      /* For Testing */
-      //console.log(json_obj.articles[0].source.name);
-      //console.log(json_obj.articles[0].title)
-      //console.log(json_obj.articles[0].url)
-      //console.log(json_obj.articles[0].urlToImage)
-      //console.log((json_obj.articles[0].content).substring(0,250))
-      //var formattedContent = JSON.stringify(json_obj.articles[0].content).replace(/ \[(.*?)\] */g, "");
-      //formattedContent = formattedContent.replace(/\\n/g, '');
-      //formattedContent = formattedContent.replace(/\\r/g, '');
-      //console.log(formattedContent);
 
       //Articles to html
       for(let i = 0; i < 20; i++){
@@ -30,6 +30,7 @@ fs.readFile('political.txt', (err, inputD) => {
         if(i == 0 || i == 1 || i == 2){
             var first_article = 
             `
+            <!--${category}-->
             <div>
             <h1 class="news_header">${json_obj.articles[i].source.name}</h1>
             <img class="news_image" src="${json_obj.articles[i].urlToImage}">
@@ -57,7 +58,9 @@ fs.readFile('political.txt', (err, inputD) => {
 
 
 })
+}
 
+categories.forEach((category)=> generate_html(category));
 
 function fillArticles(){
     for(let i = 0; i < 20; i++){
